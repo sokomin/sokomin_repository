@@ -22,3 +22,4 @@ function getCSV() {
 
 - 特にマップはこの方式で読み込みしないとデータ激重なので注意。
 - アイテム・スキル・モンスター画像辺りも移植できそう。
+- `https://sokomin.github.io/sokomin_repository/db/quest.csv` とかでDLできる。
