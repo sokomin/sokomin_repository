@@ -527,7 +527,7 @@ MobData = {
 	{"id":"525","inid":47,"type":37,"name":"ルーティネス","repop":0,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":288.08,"real_posy":255.03,"posx":460.93,"posy":204.03},
 	{"id":"526","inid":48,"type":1,"name":"漆黒の城の住民","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":309.88,"real_posy":274.94,"posx":495.8,"posy":219.95},
 	{"id":"527","inid":49,"type":10,"name":"漆黒の城の住民","repop":0,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":326.27,"real_posy":267.69,"posx":522.03,"posy":214.15},
-	{"id":"528","inid":79,"type":1,"name":"ルーシオ","repop":120,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":336.05,"real_posy":273,"posx":537.67,"posy":218.4},
+	{"id":"528","inid":79,"type":1,"name":"ルーシオ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":336.05,"real_posy":273,"posx":537.67,"posy":218.4},
 	{"id":"529","inid":29,"type":1,"name":"悪魔守護兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":263.47,"real_posy":221.03,"posx":421.55,"posy":176.83},
 	{"id":"530","inid":29,"type":1,"name":"悪魔守護兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":269.42,"real_posy":214.75,"posx":431.08,"posy":171.8},
 	{"id":"531","inid":50,"type":37,"name":"ラマフェルス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":213.48,"real_posy":163.25,"posx":341.58,"posy":130.6},

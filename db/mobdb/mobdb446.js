@@ -126,4 +126,5 @@ AreaData = {
 	{"id":"41","type":4,"name":"Area 40","access_map":"","is_secret":0,"real_posx":275.06,"real_posx2":283.94,"real_posy":14.5,"real_posy2":22.63,"posx":366.75,"posx2":378.58,"posy":9.67,"posy2":15.08},
 	{"id":"42","type":2,"name":"비밀던전 문","access_map":"","is_secret":1,"real_posx":292.83,"real_posx2":297.38,"real_posy":113.56,"real_posy2":125.88,"posx":390.44,"posx2":396.5,"posy":75.71,"posy2":83.92},
 	{"id":"43","type":6,"name":"アイドレータールーム","access_map":"","is_secret":0,"real_posx":21.69,"real_posx2":23.47,"real_posy":22.47,"real_posy2":23.41,"posx":28.92,"posx2":31.29,"posy":14.98,"posy2":15.6},
+	{"id":"44","type":3,"name":"Area 43","access_map":"[1024]WestSwamp_Cave_B1.rmd","is_secret":0,"real_posx":196.75,"real_posx2":198.86,"real_posy":14.5,"real_posy2":17.34,"posx":262.33,"posx2":265.15,"posy":9.67,"posy2":11.56},
 ]};

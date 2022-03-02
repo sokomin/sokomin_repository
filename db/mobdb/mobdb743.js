@@ -1,5 +1,5 @@
 MobData = {
-	743: [ {"id":"0","inid":2,"type":2,"name":"ケルベロス","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.3,"real_posy":43.72,"posx":192.42,"posy":149.23},
+	743: [ {"id":"0","inid":2,"type":2,"name":"ケルベロス","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.3,"real_posy":43.66,"posx":192.42,"posy":149.01},
 	{"id":"1","inid":0,"type":1,"name":"討伐団レーナ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":44.86,"real_posy":47.91,"posx":305.04,"posy":163.52},
 	{"id":"2","inid":1,"type":1,"name":"討伐団槍兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":44.09,"real_posy":45.28,"posx":299.84,"posy":154.56},
 	{"id":"3","inid":1,"type":1,"name":"討伐団槍兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":46.47,"real_posy":48.09,"posx":315.99,"posy":164.16},

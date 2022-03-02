@@ -1,5 +1,5 @@
 MobData = {
-	744: [ {"id":"0","inid":0,"type":2,"name":"骸骨王","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.8,"real_posy":32.47,"posx":202.62,"posy":110.83},
+	744: [ {"id":"0","inid":0,"type":2,"name":"骸骨王","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.8,"real_posy":32.44,"posx":202.62,"posy":110.72},
 	{"id":"1","inid":1,"type":1,"name":"討伐団レーナ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":56.19,"real_posy":60.81,"posx":382.08,"posy":207.57},
 	{"id":"2","inid":2,"type":1,"name":"討伐団槍兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":55.25,"real_posy":59.13,"posx":375.7,"posy":201.81},
 	{"id":"3","inid":2,"type":1,"name":"討伐団槍兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":57.22,"real_posy":59.22,"posx":389.09,"posy":202.13},

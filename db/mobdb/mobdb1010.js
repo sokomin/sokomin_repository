@@ -40,4 +40,5 @@ AreaData = {
 	{"id":"8","type":18,"name":"노점상 불가","access_map":"","is_secret":0,"real_posx":28,"real_posx2":164.72,"real_posy":0.09,"real_posy2":126,"posx":67.2,"posx2":395.33,"posy":0.11,"posy2":151.2},
 	{"id":"9","type":18,"name":"노점상 불가2","access_map":"","is_secret":0,"real_posx":164.78,"real_posx2":189.31,"real_posy":56.38,"real_posy2":126.19,"posx":395.48,"posx2":454.35,"posy":67.65,"posy2":151.43},
 	{"id":"10","type":18,"name":"노점상 불가3","access_map":"","is_secret":0,"real_posx":88.75,"real_posx2":196.94,"real_posy":94.19,"real_posy2":201.5,"posx":213,"posx2":472.65,"posy":113.03,"posy2":241.8},
+	{"id":"11","type":3,"name":"실바람으로","access_map":"[1025]YatikanuForest_4.rmd","is_secret":0,"real_posx":53.72,"real_posx2":56.86,"real_posy":164.28,"real_posy2":169.91,"posx":128.93,"posx2":136.46,"posy":197.14,"posy2":203.89},
 ]};

@@ -236,7 +236,7 @@ AreaData = {
 	{"id":"26","type":4,"name":"Area 25","access_map":"","is_secret":0,"real_posx":88.75,"real_posx2":102.73,"real_posy":110.81,"real_posy2":123.22,"posx":213,"posx2":246.56,"posy":132.98,"posy2":147.86},
 	{"id":"27","type":4,"name":"Area 26","access_map":"","is_secret":0,"real_posx":13.47,"real_posx2":16.34,"real_posy":113.41,"real_posy2":143,"posx":32.33,"posx2":39.23,"posy":136.09,"posy2":171.6},
 	{"id":"28","type":4,"name":"Area 27","access_map":"","is_secret":0,"real_posx":86.89,"real_posx2":111.3,"real_posy":139.41,"real_posy2":141.41,"posx":208.54,"posx2":267.11,"posy":167.29,"posy2":169.69},
-	{"id":"29","type":4,"name":"Area 28","access_map":"","is_secret":0,"real_posx":119.11,"real_posx2":126.66,"real_posy":124.28,"real_posy2":129.53,"posx":285.86,"posx2":303.98,"posy":149.14,"posy2":155.44},
+	{"id":"29","type":4,"name":"Area 28","access_map":"","is_secret":0,"real_posx":119.11,"real_posx2":126.73,"real_posy":125.97,"real_posy2":129.53,"posx":285.86,"posx2":304.16,"posy":151.16,"posy2":155.44},
 	{"id":"30","type":4,"name":"Area 29","access_map":"","is_secret":0,"real_posx":136.77,"real_posx2":146.63,"real_posy":106.38,"real_posy2":117.72,"posx":328.24,"posx2":351.9,"posy":127.65,"posy2":141.26},
 	{"id":"31","type":4,"name":"Area 30","access_map":"","is_secret":0,"real_posx":147.44,"real_posx2":155.47,"real_posy":95,"real_posy2":107.09,"posx":353.85,"posx2":373.13,"posy":114,"posy2":128.51},
 	{"id":"32","type":4,"name":"Area 31","access_map":"","is_secret":0,"real_posx":141.94,"real_posx2":149.92,"real_posy":100.75,"real_posy2":112.78,"posx":340.65,"posx2":359.81,"posy":120.9,"posy2":135.34},

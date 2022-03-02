@@ -339,4 +339,8 @@ AreaData = {
 	{"id":"14","type":4,"name":"보물상자9","access_map":"","is_secret":0,"real_posx":130.16,"real_posx2":202.5,"real_posy":205.81,"real_posy2":280.19,"posx":177.88,"posx2":276.75,"posy":140.64,"posy2":191.46},
 	{"id":"15","type":4,"name":"보물상자10","access_map":"","is_secret":0,"real_posx":215.63,"real_posx2":290.94,"real_posy":198.31,"real_posy2":283.31,"posx":294.69,"posx2":397.61,"posy":135.51,"posy2":193.6},
 	{"id":"16","type":3,"name":"서늘한동굴","access_map":"[1015]CoolCave.rmd","is_secret":0,"real_posx":167.89,"real_posx2":169.13,"real_posy":6.63,"real_posy2":8.81,"posx":229.45,"posx2":231.14,"posy":4.53,"posy2":6.02},
+	{"id":"17","type":12,"name":"死1","access_map":"","is_secret":0,"real_posx":15.84,"real_posx2":18.91,"real_posy":130.5,"real_posy2":136.13,"posx":21.65,"posx2":25.84,"posy":89.18,"posy2":93.02},
+	{"id":"18","type":12,"name":"死2","access_map":"","is_secret":0,"real_posx":5.33,"real_posx2":8.34,"real_posy":154.63,"real_posy2":159.94,"posx":7.28,"posx2":11.4,"posy":105.66,"posy2":109.29},
+	{"id":"19","type":12,"name":"死3","access_map":"","is_secret":0,"real_posx":15.36,"real_posx2":18.73,"real_posy":142.44,"real_posy2":148.38,"posx":20.99,"posx2":25.6,"posy":97.33,"posy2":101.39},
+	{"id":"20","type":12,"name":"死のオーラ","access_map":"","is_secret":0,"real_posx":245.17,"real_posx2":248.45,"real_posy":208.75,"real_posy2":217.19,"posx":335.07,"posx2":339.55,"posy":142.65,"posy2":148.41},
 ]};

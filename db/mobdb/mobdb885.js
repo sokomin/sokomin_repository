@@ -218,6 +218,7 @@ MobData = {
 	{"id":"216","inid":3,"type":2,"name":"森の呪術者","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":32.06,"real_posy":303.25,"posx":60.44,"posy":285.92},
 	{"id":"217","inid":3,"type":2,"name":"森の呪術者","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.97,"real_posy":272.09,"posx":79.11,"posy":256.55},
 	{"id":"218","inid":0,"type":2,"name":"光輝のペガサス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":124.94,"real_posy":215.06,"posx":235.51,"posy":202.77},
+	{"id":"219","inid":4,"type":1,"name":"テミス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.45,"real_posy":15.19,"posx":14.05,"posy":14.32},
 	{"id":"220","inid":0,"type":2,"name":"光輝のペガサス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":103.73,"real_posy":214.88,"posx":195.54,"posy":202.6},
 	{"id":"221","inid":0,"type":2,"name":"光輝のペガサス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":103.38,"real_posy":317.38,"posx":194.86,"posy":299.24},
 	{"id":"222","inid":0,"type":2,"name":"光輝のペガサス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":86.23,"real_posy":316.97,"posx":162.55,"posy":298.86},
@@ -247,17 +248,20 @@ MobData = {
 	{"id":"246","inid":1,"type":2,"name":"パープルペガサス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":92.75,"real_posy":258.72,"posx":174.83,"posy":243.93},
 	{"id":"247","inid":1,"type":2,"name":"パープルペガサス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":94.09,"real_posy":233.94,"posx":177.37,"posy":220.57},
 	{"id":"248","inid":1,"type":2,"name":"パープルペガサス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":105.56,"real_posy":236.13,"posx":198.99,"posy":222.63},
+	{"id":"249","inid":5,"type":1,"name":"幼い精霊","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":6.52,"real_posy":17.25,"posx":12.28,"posy":16.26},
+	{"id":"250","inid":7,"type":1,"name":"幼い精霊","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":8.5,"real_posy":13.97,"posx":16.02,"posy":13.17},
+	{"id":"251","inid":6,"type":2,"name":"乱暴なペガサス","repop":120,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":5.63,"real_posy":20.56,"posx":10.6,"posy":19.39},
 ]};
 MobList = {
-	885: ["モンスター", "光輝のペガサス","パープルペガサス","森の生霊","森の呪術者",],
+	885: ["モンスター", "光輝のペガサス","パープルペガサス","森の生霊","森の呪術者","テミス","幼い精霊","乱暴なペガサス","幼い精霊",],
 };
 
 AreaData = {
 	885: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
-	{"id":"2","type":4,"name":"보물상자1","access_map":"","is_secret":0,"real_posx":12.39,"real_posx2":74.69,"real_posy":15,"real_posy2":78.31,"posx":23.36,"posx2":140.79,"posy":14.14,"posy2":73.84},
+	{"id":"2","type":4,"name":"보물상자1","access_map":"","is_secret":0,"real_posx":13.95,"real_posx2":74.69,"real_posy":16.25,"real_posy2":78.31,"posx":26.3,"posx2":140.79,"posy":15.32,"posy2":73.84},
 	{"id":"3","type":4,"name":"보물상자2","access_map":"","is_secret":0,"real_posx":7.91,"real_posx2":38.44,"real_posy":103.56,"real_posy2":183.78,"posx":14.9,"posx2":72.45,"posy":97.64,"posy2":173.28},
-	{"id":"4","type":4,"name":"보물상자3","access_map":"","is_secret":0,"real_posx":93.27,"real_posx2":133.38,"real_posy":19.06,"real_posy2":105.13,"posx":175.81,"posx2":251.41,"posy":17.97,"posy2":99.12},
+	{"id":"4","type":4,"name":"보물상자3","access_map":"","is_secret":0,"real_posx":93.48,"real_posx2":133.59,"real_posy":19.69,"real_posy2":105.75,"posx":176.22,"posx2":251.82,"posy":18.56,"posy2":99.71},
 	{"id":"5","type":4,"name":"보물상자4","access_map":"","is_secret":0,"real_posx":125.22,"real_posx2":184.7,"real_posy":116.69,"real_posy2":178.56,"posx":236.04,"posx2":348.17,"posy":110.02,"posy2":168.36},
 	{"id":"6","type":4,"name":"보물상자5","access_map":"","is_secret":0,"real_posx":139.5,"real_posx2":187.2,"real_posy":20.25,"real_posy2":96.28,"posx":262.96,"posx2":352.88,"posy":19.09,"posy2":90.78},
 	{"id":"7","type":5,"name":"시작 영역","access_map":"","is_secret":0,"real_posx":9.09,"real_posx2":10.83,"real_posy":11.72,"real_posy2":15.53,"posx":17.14,"posx2":20.41,"posy":11.05,"posy2":14.64},
@@ -269,4 +273,9 @@ AreaData = {
 	{"id":"13","type":4,"name":"보물상자7","access_map":"","is_secret":0,"real_posx":81.25,"real_posx2":139.22,"real_posy":197.69,"real_posy2":323.94,"posx":153.16,"posx2":262.43,"posy":186.39,"posy2":305.43},
 	{"id":"14","type":4,"name":"보물상자8","access_map":"","is_secret":0,"real_posx":144.22,"real_posx2":196.41,"real_posy":190.81,"real_posy2":318.31,"posx":271.85,"posx2":370.23,"posy":179.91,"posy2":300.12},
 	{"id":"15","type":6,"name":"精霊の遊び場","access_map":"","is_secret":0,"real_posx":74.38,"real_posx2":78.28,"real_posy":248.94,"real_posy2":257.06,"posx":140.2,"posx2":147.56,"posy":234.71,"posy2":242.37},
+	{"id":"16","type":4,"name":"퀘스트전투","access_map":"","is_secret":0,"real_posx":3.5,"real_posx2":13.55,"real_posy":7.28,"real_posy2":25.59,"posx":6.6,"posx2":25.54,"posy":6.87,"posy2":24.13},
+	{"id":"17","type":0,"name":"정령","access_map":"","is_secret":0,"real_posx":-0.31,"real_posx2":26.31,"real_posy":-0.81,"real_posy2":44,"posx":-0.59,"posx2":49.6,"posy":-0.77,"posy2":41.49},
+	{"id":"18","type":12,"name":"死1","access_map":"","is_secret":0,"real_posx":9.23,"real_posx2":12.48,"real_posy":198.09,"real_posy2":204.22,"posx":17.41,"posx2":23.53,"posy":186.77,"posy2":192.55},
+	{"id":"19","type":12,"name":"死2","access_map":"","is_secret":0,"real_posx":83.64,"real_posx2":87.19,"real_posy":181.66,"real_posy2":186.88,"posx":157.66,"posx2":164.35,"posy":171.28,"posy2":176.2},
+	{"id":"20","type":12,"name":"死3","access_map":"","is_secret":0,"real_posx":120.2,"real_posx2":124.89,"real_posy":52.28,"real_posy2":60.63,"posx":226.58,"posx2":235.42,"posy":49.29,"posy2":57.16},
 ]};

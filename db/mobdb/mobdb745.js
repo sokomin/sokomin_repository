@@ -1,5 +1,5 @@
 MobData = {
-	745: [ {"id":"0","inid":0,"type":2,"name":"ドラゴート","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":23.48,"real_posy":25.63,"posx":159.69,"posy":87.47},
+	745: [ {"id":"0","inid":0,"type":2,"name":"ドラゴート","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":23.48,"real_posy":25.69,"posx":159.69,"posy":87.68},
 	{"id":"1","inid":1,"type":1,"name":"討伐団レーナ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":46.5,"real_posy":45.28,"posx":316.2,"posy":154.56},
 	{"id":"2","inid":2,"type":1,"name":"討伐団槍兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.67,"real_posy":47.22,"posx":310.57,"posy":161.17},
 	{"id":"3","inid":2,"type":1,"name":"討伐団槍兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":47.89,"real_posy":45.66,"posx":325.66,"posy":155.84},

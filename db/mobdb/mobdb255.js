@@ -8,17 +8,18 @@ MobData = {
 	{"id":"6","inid":7,"type":1,"name":"ゲンマ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":12.45,"real_posy":40.13,"posx":89.66,"posy":144.45},
 	{"id":"7","inid":6,"type":1,"name":"ウィザード","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.97,"real_posy":27.78,"posx":57.38,"posy":100.01},
 	{"id":"8","inid":5,"type":1,"name":"ウィザード","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.75,"real_posy":51.63,"posx":142.2,"posy":185.85},
-	{"id":"9","inid":11,"type":15,"name":"ハルス","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.09,"real_posy":50.34,"posx":324.68,"posy":181.24},
+	{"id":"9","inid":12,"type":15,"name":"ハルス","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.09,"real_posy":50.34,"posx":324.68,"posy":181.24},
 	{"id":"10","inid":6,"type":1,"name":"ウィザード","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":42.98,"real_posy":53.94,"posx":309.49,"posy":194.18},
 	{"id":"11","inid":5,"type":1,"name":"ウィザード","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.83,"real_posy":30.69,"posx":135.56,"posy":110.48},
 	{"id":"12","inid":6,"type":1,"name":"ウィザード","repop":120,"id_area":-1,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.95,"real_posy":16.09,"posx":186.86,"posy":57.94},
-	{"id":"13","inid":12,"type":1,"name":"アッシュ","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.33,"real_posy":46.75,"posx":175.16,"posy":168.3},
-	{"id":"14","inid":13,"type":1,"name":"プリドリ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.39,"real_posy":36.06,"posx":326.81,"posy":129.82},
+	{"id":"13","inid":13,"type":1,"name":"アッシュ","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.33,"real_posy":46.75,"posx":175.16,"posy":168.3},
+	{"id":"14","inid":14,"type":1,"name":"プリドリ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.39,"real_posy":36.06,"posx":326.81,"posy":129.82},
 	{"id":"15","inid":9,"type":1,"name":"スターク","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":4.58,"real_posy":40.63,"posx":32.96,"posy":146.25},
 	{"id":"16","inid":10,"type":11,"name":"ベイム","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.89,"real_posy":20.44,"posx":121.61,"posy":73.58},
+	{"id":"17","inid":11,"type":1,"name":"高級魔法薬製作者","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":32.92,"real_posy":50.81,"posx":237.04,"posy":182.93},
 ]};
 MobList = {
-	255: ["モンスター", "住民","住民","ちびっこ","住民","受付窓口職員","ウィザード","ウィザード","ゲンマ","ちびっこ","スターク","ベイム","ハルス","アッシュ","プリドリ",],
+	255: ["モンスター", "住民","住民","ちびっこ","住民","受付窓口職員","ウィザード","ウィザード","ゲンマ","ちびっこ","スターク","ベイム","高級魔法薬製作者","ハルス","アッシュ","プリドリ",],
 };
 
 AreaData = {
