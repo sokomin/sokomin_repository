@@ -1,5 +1,5 @@
 MobData = {
-318: [{ id: "0",name:"リザードウォリア",type:2,inid:1,repop:20,isptboss:0,posx:258.41,posy:81.82, lv_min:0, lv_max:0, is_npc: false  },
+767: [{ id: "0",name:"リザードウォリア",type:2,inid:1,repop:20,isptboss:0,posx:258.41,posy:81.82, lv_min:0, lv_max:0, is_npc: false  },
 { id: "1",name:"リザードキリング",type:2,inid:0,repop:25,isptboss:0,posx:267.64,posy:93.84, lv_min:0, lv_max:0, is_npc: false  },
 { id: "2",name:"リザードキリング",type:2,inid:0,repop:20,isptboss:0,posx:273.27,posy:76.30, lv_min:0, lv_max:0, is_npc: false  },
 { id: "3",name:"リザードキリング",type:2,inid:0,repop:30,isptboss:0,posx:256.39,posy:41.99, lv_min:0, lv_max:0, is_npc: false  },
@@ -113,11 +113,11 @@ MobData = {
 { id: "111",name:"ナーガファイター",type:2,inid:2,repop:30,isptboss:0,posx:330.38,posy:230.82, lv_min:0, lv_max:0, is_npc: false  },
 ]};
 MobList = {
-    318: ["モンスター", 'リザードキリング', 'リザードウォリア', 'ナーガファイター', 'ラリ・フォン'],
+    767: ["モンスター", 'リザードキリング', 'リザードウォリア', 'ナーガファイター', 'ラリ・フォン'],
 };
 
 AreaData = {
-318: [{ id: "0",name:"none",area_name:"_필드 전체",type:0,posx:0.00,posx2:0.00,access_map:"none",posy:0.00,posy2:0.00,is_secret:0},
+767: [{ id: "0",name:"none",area_name:"_필드 전체",type:0,posx:0.00,posx2:0.00,access_map:"none",posy:0.00,posy2:0.00,is_secret:0},
 { id: "1",name:"none",area_name:"_화면",type:0,posx:0.00,posx2:0.00,access_map:"none",posy:0.00,posy2:0.00,is_secret:0},
 { id: "2",name:"オカー三角州",area_name:"입구",type:3,posx:245.58,posx2:249.86,access_map:"[317]S24.rmd",posy:115.65,posy2:118.24,is_secret:0},
 { id: "3",name:"ゴールド・スワンプ洞窟 B2",area_name:"출구",type:3,posx:15.72,posx2:19.81,access_map:"[319]S24_C01_B02.rmd",posy:2.59,posy2:5.24,is_secret:0},
