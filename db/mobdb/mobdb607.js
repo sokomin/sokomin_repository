@@ -309,7 +309,7 @@ AreaData = {
 	{"id":"25","type":3,"name":"M12로","access_map":"[031]M12.rmd","is_secret":0,"real_posx":123.14,"real_posx2":126.36,"real_posy":2.13,"real_posy2":5.63,"posx":105.55,"posx2":108.31,"posy":0.91,"posy2":2.4},
 	{"id":"26","type":13,"name":"보물상자11","access_map":"","is_secret":0,"real_posx":305.03,"real_posx2":305.95,"real_posy":234.13,"real_posy2":235.13,"posx":261.46,"posx2":262.25,"posy":100.06,"posy2":100.49},
 	{"id":"27","type":4,"name":"Area 26","access_map":"","is_secret":0,"real_posx":285.94,"real_posx2":298.75,"real_posy":108.69,"real_posy2":124.84,"posx":245.09,"posx2":256.07,"posy":46.45,"posy2":53.35},
-	{"id":"28","type":4,"name":"b'\\xb3\\x9f'","access_map":"","is_secret":0,"real_posx":154.22,"real_posx2":165.58,"real_posy":289.34,"real_posy2":309.94,"posx":132.19,"posx2":141.92,"posy":123.66,"posy2":132.46},
+	{"id":"28","type":4,"name":"퀫","access_map":"","is_secret":0,"real_posx":154.22,"real_posx2":165.58,"real_posy":289.34,"real_posy2":309.94,"posx":132.19,"posx2":141.92,"posy":123.66,"posy2":132.46},
 	{"id":"29","type":0,"name":"대지의 은총 보렐","access_map":"","is_secret":0,"real_posx":126.45,"real_posx2":131.97,"real_posy":62.03,"real_posy2":66.97,"posx":108.39,"posx2":113.12,"posy":26.51,"posy2":28.62},
 	{"id":"30","type":12,"name":"チェックポイント04","access_map":"","is_secret":0,"real_posx":2.94,"real_posx2":6.33,"real_posy":149.06,"real_posy2":152.22,"posx":2.52,"posx2":5.42,"posy":63.7,"posy2":65.05},
 	{"id":"31","type":12,"name":"チェックポイント05","access_map":"","is_secret":0,"real_posx":334.73,"real_posx2":338.45,"real_posy":341.84,"real_posy2":345.69,"posx":286.92,"posx2":290.1,"posy":146.09,"posy2":147.74},

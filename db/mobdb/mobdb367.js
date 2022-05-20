@@ -119,7 +119,7 @@ MobData = {
 	{"id":"117","inid":19,"type":1,"name":"おじさん","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":70.92,"real_posy":287.09,"posx":104.3,"posy":211.3},
 	{"id":"118","inid":6,"type":2,"name":"ビッグクラブ","repop":20,"id_area":56,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":313.25,"real_posy":301.25,"posx":460.66,"posy":221.72},
 	{"id":"119","inid":15,"type":1,"name":"おじさん","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":144.95,"real_posy":288.66,"posx":213.17,"posy":212.45},
-	{"id":"120","inid":20,"type":1,"name":"パサト","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":190.89,"real_posy":273.09,"posx":280.72,"posy":201},
+	{"id":"120","inid":22,"type":1,"name":"パサト","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":190.89,"real_posy":273.09,"posx":280.72,"posy":201},
 	{"id":"121","inid":6,"type":2,"name":"ビッグクラブ","repop":20,"id_area":34,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":105.08,"real_posy":62.47,"posx":154.53,"posy":45.98},
 	{"id":"122","inid":6,"type":2,"name":"ビッグクラブ","repop":20,"id_area":34,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":114.61,"real_posy":49.81,"posx":168.54,"posy":36.66},
 	{"id":"123","inid":6,"type":2,"name":"ビッグクラブ","repop":20,"id_area":34,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":114.92,"real_posy":71.22,"posx":169,"posy":52.42},
@@ -149,9 +149,10 @@ MobData = {
 	{"id":"147","inid":6,"type":2,"name":"ビッグクラブ","repop":20,"id_area":57,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":88.58,"real_posy":97.81,"posx":130.26,"posy":71.99},
 	{"id":"148","inid":6,"type":2,"name":"ビッグクラブ","repop":20,"id_area":58,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":74.25,"real_posy":98.88,"posx":109.19,"posy":72.77},
 	{"id":"149","inid":6,"type":2,"name":"ビッグクラブ","repop":20,"id_area":58,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":76.66,"real_posy":110.41,"posx":112.73,"posy":81.26},
+	{"id":"150","inid":21,"type":11,"name":"ネイサン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":95.95,"real_posy":266.47,"posx":141.11,"posy":196.12},
 ]};
 MobList = {
-	367: ["モンスター", "ブラックベアー","ブラウンベアー","鷲闘士","鷲剣士","ウルフ","ウルフリーダー","ビッグクラブ","マーマン","オーガソルジャー","警備隊長タラン","傭兵","傭兵","エンリカ","木こり","おばさん","おじさん","おばあさん","お嬢さん","青年","おじさん","パサト",],
+	367: ["モンスター", "ブラックベアー","ブラウンベアー","鷲闘士","鷲剣士","ウルフ","ウルフリーダー","ビッグクラブ","マーマン","オーガソルジャー","警備隊長タラン","傭兵","傭兵","エンリカ","木こり","おばさん","おじさん","おばあさん","お嬢さん","青年","おじさん","None.","ネイサン","パサト",],
 };
 
 AreaData = {

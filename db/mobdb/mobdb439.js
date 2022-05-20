@@ -24,7 +24,7 @@ MobData = {
 	{"id":"22","inid":1,"type":2,"name":"ビッグアブラムシ","repop":20,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":66.67,"real_posy":156.78,"posx":111.64,"posy":131},
 	{"id":"23","inid":0,"type":2,"name":"フェイズスパイダ","repop":20,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":64.38,"real_posy":152.88,"posx":107.79,"posy":127.74},
 	{"id":"24","inid":0,"type":2,"name":"フェイズスパイダ","repop":20,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":63.89,"real_posy":158.22,"posx":106.98,"posy":132.2},
-	{"id":"25","inid":1,"type":2,"name":"ビッグアブラムシ","repop":20,"id_area":20,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":103.31,"real_posy":151.94,"posx":172.99,"posy":126.95},
+	{"id":"25","inid":1,"type":2,"name":"ビッグアブラムシ","repop":20,"id_area":-1,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":103.31,"real_posy":151.94,"posx":172.99,"posy":126.95},
 	{"id":"26","inid":1,"type":2,"name":"ビッグアブラムシ","repop":20,"id_area":20,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":110.25,"real_posy":156.63,"posx":184.6,"posy":130.87},
 	{"id":"27","inid":1,"type":2,"name":"ビッグアブラムシ","repop":20,"id_area":20,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":112.59,"real_posy":160.59,"posx":188.53,"posy":134.19},
 	{"id":"28","inid":0,"type":2,"name":"フェイズスパイダ","repop":20,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":144.42,"real_posy":144.91,"posx":241.82,"posy":121.08},

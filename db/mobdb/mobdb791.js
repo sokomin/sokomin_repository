@@ -58,5 +58,6 @@ AreaData = {
 	{"id":"7","type":12,"name":"思い出のブレスレット調査2","access_map":"","is_secret":0,"real_posx":21.2,"real_posx2":23.55,"real_posy":35.81,"real_posy2":40.81,"posx":127.22,"posx2":141.28,"posy":107.44,"posy2":122.44},
 	{"id":"8","type":12,"name":"思い出のブレスレット調査3","access_map":"","is_secret":0,"real_posx":15.3,"real_posx2":17.44,"real_posy":55.97,"real_posy2":60.91,"posx":91.78,"posx2":104.63,"posy":167.91,"posy2":182.72},
 	{"id":"9","type":12,"name":"思い出のブレスレット調査4","access_map":"","is_secret":0,"real_posx":2.17,"real_posx2":4.5,"real_posy":58.72,"real_posy2":63.09,"posx":13.03,"posx2":27,"posy":176.16,"posy2":189.28},
+	{"id":"10","type":12,"name":"秘密通路","access_map":"","is_secret":0,"real_posx":49.59,"real_posx2":52.84,"real_posy":29.03,"real_posy2":34.81,"posx":297.56,"posx2":317.06,"posy":87.09,"posy2":104.44},
 	{"id":"63","type":3,"name":"D11","access_map":"[373]T02.rmd","is_secret":0,"real_posx":13.52,"real_posx2":15.77,"real_posy":1.25,"real_posy2":3.59,"posx":81.09,"posx2":94.59,"posy":3.75,"posy2":10.78},
 ]};

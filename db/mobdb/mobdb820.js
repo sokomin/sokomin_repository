@@ -102,9 +102,10 @@ MobData = {
 	{"id":"100","inid":3,"type":2,"name":"海底骸骨","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":96.73,"real_posy":87.69,"posx":241.84,"posy":109.61},
 	{"id":"101","inid":3,"type":2,"name":"海底骸骨","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":99.75,"real_posy":91.84,"posx":249.38,"posy":114.8},
 	{"id":"102","inid":7,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":56.42,"real_posy":61,"posx":141.05,"posy":76.25},
+	{"id":"103","inid":8,"type":1,"name":"サビエ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":109.7,"real_posy":117.72,"posx":274.26,"posy":147.15},
 ]};
 MobList = {
-	820: ["モンスター", "深淵の強者","ウィークネス天使","海底死神","海底骸骨","神殿守護兵","エルフアーチャー","None.","ミラーテレポータ",],
+	820: ["モンスター", "深淵の強者","ウィークネス天使","海底死神","海底骸骨","神殿守護兵","エルフアーチャー","None.","ミラーテレポータ","サビエ",],
 };
 
 AreaData = {
@@ -131,4 +132,6 @@ AreaData = {
 	{"id":"20","type":4,"name":"보물상자17","access_map":"","is_secret":0,"real_posx":76.17,"real_posx2":84.11,"real_posy":145.19,"real_posy2":158.91,"posx":190.43,"posx2":210.27,"posy":181.48,"posy2":198.63},
 	{"id":"21","type":4,"name":"보물상자18","access_map":"","is_secret":0,"real_posx":139.53,"real_posx2":146.69,"real_posy":84.19,"real_posy2":109.72,"posx":348.83,"posx2":366.72,"posy":105.23,"posy2":137.15},
 	{"id":"22","type":4,"name":"보물상자19","access_map":"","is_secret":0,"real_posx":92.27,"real_posx2":95.64,"real_posy":38.94,"real_posy2":52.75,"posx":230.66,"posx2":239.1,"posy":48.67,"posy2":65.94},
+	{"id":"23","type":12,"name":"物資","access_map":"","is_secret":0,"real_posx":106.61,"real_posx2":111.34,"real_posy":109.38,"real_posy2":115.78,"posx":266.52,"posx2":278.36,"posy":136.72,"posy2":144.73},
+	{"id":"24","type":0,"name":"사비에","access_map":"","is_secret":0,"real_posx":95.81,"real_posx2":126.44,"real_posy":93.38,"real_posy2":146.38,"posx":239.53,"posx2":316.09,"posy":116.72,"posy2":182.97},
 ]};

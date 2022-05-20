@@ -227,7 +227,7 @@ MobData = {
 	{"id":"225","inid":3,"type":2,"name":"汚染ゴースト","repop":30,"id_area":48,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.34,"real_posy":60.38,"posx":24.55,"posy":48.3},
 	{"id":"226","inid":2,"type":2,"name":"汚染ワーカー","repop":30,"id_area":48,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":11.22,"real_posy":66.75,"posx":17.95,"posy":53.4},
 	{"id":"227","inid":11,"type":2,"name":"汚染暗黒司祭","repop":30,"id_area":48,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.75,"real_posy":71.5,"posx":25.2,"posy":57.2},
-	{"id":"228","inid":13,"type":2,"name":"汚染ブルウイング","repop":30,"id_area":49,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":230.94,"real_posy":38.19,"posx":369.5,"posy":30.55},
+	{"id":"228","inid":13,"type":2,"name":"汚染ブルーウイン","repop":30,"id_area":49,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":230.94,"real_posy":38.19,"posx":369.5,"posy":30.55},
 	{"id":"229","inid":8,"type":2,"name":"堕天使Sp","repop":50,"id_area":50,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.39,"real_posy":82.31,"posx":39.03,"posy":65.85},
 	{"id":"230","inid":2,"type":2,"name":"汚染ワーカー","repop":30,"id_area":50,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.84,"real_posy":64.38,"posx":55.75,"posy":51.5},
 	{"id":"231","inid":3,"type":2,"name":"汚染ゴースト","repop":30,"id_area":50,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":31.83,"real_posy":69.94,"posx":50.93,"posy":55.95},
@@ -425,7 +425,7 @@ MobData = {
 	{"id":"423","inid":0,"type":2,"name":"ヴァンパイア","repop":30,"id_area":15,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":265.7,"real_posy":134.16,"posx":425.13,"posy":107.33},
 ]};
 MobList = {
-	738: ["モンスター", "ヴァンパイア","汚染骸骨戦士","汚染ワーカー","汚染ゴースト","汚染イナゴ","汚染テンプラー","汚染カエル","汚染スライム","堕天使Sp","汚染古代悪魔","パンプキンSp","汚染暗黒司祭","汚染毒カエル","汚染ブルウイング","汚染ペガサス","汚染斧兵","汚染サキュバス","汚染バッファロー",],
+	738: ["モンスター", "ヴァンパイア","汚染骸骨戦士","汚染ワーカー","汚染ゴースト","汚染イナゴ","汚染テンプラー","汚染カエル","汚染スライム","堕天使Sp","汚染古代悪魔","パンプキンSp","汚染暗黒司祭","汚染毒カエル","汚染ブルーウイン","汚染ペガサス","汚染斧兵","汚染サキュバス","汚染バッファロー",],
 };
 
 AreaData = {

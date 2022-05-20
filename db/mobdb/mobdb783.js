@@ -1,7 +1,7 @@
 MobData = {
 	783: [ {"id":"0","inid":1,"type":1,"name":"ラズリ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.02,"real_posy":58.5,"posx":15.02,"posy":58.5},
 	{"id":"1","inid":0,"type":1,"name":"ローラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":31.72,"real_posy":59.56,"posx":31.72,"posy":59.56},
-	{"id":"2","inid":14,"type":1,"name":"セラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":9.08,"real_posy":63.38,"posx":9.08,"posy":63.38},
+	{"id":"2","inid":15,"type":1,"name":"セラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":9.08,"real_posy":63.38,"posx":9.08,"posy":63.38},
 	{"id":"3","inid":2,"type":1,"name":"ジゼル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":24.63,"real_posy":62.25,"posx":24.63,"posy":62.25},
 	{"id":"4","inid":0,"type":1,"name":"ローラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.7,"real_posy":27.94,"posx":25.7,"posy":27.94},
 	{"id":"5","inid":0,"type":1,"name":"ローラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":55.13,"real_posy":88.88,"posx":55.13,"posy":88.88},
@@ -20,10 +20,11 @@ MobData = {
 	{"id":"18","inid":9,"type":1,"name":"ルアン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.41,"real_posy":25.31,"posx":25.41,"posy":25.31},
 	{"id":"19","inid":11,"type":1,"name":"セレナ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":23.44,"real_posy":52.81,"posx":23.44,"posy":52.81},
 	{"id":"20","inid":13,"type":1,"name":"ネルラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.72,"real_posy":63.13,"posx":18.72,"posy":63.13},
+	{"id":"21","inid":14,"type":1,"name":"サビエ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":86.48,"real_posy":18.06,"posx":86.48,"posy":18.06},
 	{"id":"22","inid":12,"type":1,"name":"ミラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":88.06,"real_posy":18.91,"posx":88.06,"posy":18.91},
 ]};
 MobList = {
-	783: ["モンスター", "ローラ","ラズリ","ジゼル","アマンダ","リンウード","ゾナス","護衛兵","シアドール","ベルナー","ルアン","None.","セレナ","ミラ","ネルラ","セラ",],
+	783: ["モンスター", "ローラ","ラズリ","ジゼル","アマンダ","リンウード","ゾナス","護衛兵","シアドール","ベルナー","ルアン","None.","セレナ","ミラ","ネルラ","サビエ","セラ",],
 };
 
 AreaData = {
@@ -41,4 +42,5 @@ AreaData = {
 	{"id":"11","type":0,"name":"린우드3","access_map":"","is_secret":0,"real_posx":57.88,"real_posx2":60.55,"real_posy":81.81,"real_posy2":85.94,"posx":57.88,"posx2":60.55,"posy":81.81,"posy2":85.94},
 	{"id":"12","type":3,"name":"Area 11","access_map":"[791]T02.rmd","is_secret":0,"real_posx":18.64,"real_posx2":21.14,"real_posy":72.19,"real_posy2":75.78,"posx":18.64,"posx2":21.14,"posy":72.19,"posy2":75.78},
 	{"id":"13","type":0,"name":"조나스 강제 대화","access_map":"","is_secret":0,"real_posx":17.22,"real_posx2":37.08,"real_posy":8.81,"real_posy2":34.38,"posx":17.22,"posx2":37.08,"posy":8.81,"posy2":34.38},
+	{"id":"14","type":0,"name":"밀러","access_map":"","is_secret":0,"real_posx":73.7,"real_posx2":94.2,"real_posy":8.19,"real_posy2":31.06,"posx":73.7,"posx2":94.2,"posy":8.19,"posy2":31.06},
 ]};
