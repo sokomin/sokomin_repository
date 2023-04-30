@@ -116,7 +116,7 @@ MobData = {
 	{"id":"114","inid":7,"type":2,"name":"リーチ","repop":20,"id_area":18,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":31.11,"real_posy":206.53,"posx":56.89,"posy":189.06},
 	{"id":"115","inid":2,"type":2,"name":"ゴブリン","repop":120,"id_area":55,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":118.59,"real_posy":96.94,"posx":216.86,"posy":88.74},
 	{"id":"116","inid":2,"type":2,"name":"ゴブリン","repop":120,"id_area":55,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":118.94,"real_posy":99.44,"posx":217.49,"posy":91.02},
-	{"id":"117","inid":23,"type":2,"name":"リーチ","repop":120,"id_area":55,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":121.78,"real_posy":92.16,"posx":222.69,"posy":84.36},
+	{"id":"117","inid":28,"type":2,"name":"リーチ","repop":120,"id_area":55,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":121.78,"real_posy":92.16,"posx":222.69,"posy":84.36},
 	{"id":"118","inid":7,"type":2,"name":"リーチ","repop":20,"id_area":56,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":61.64,"real_posy":247.34,"posx":112.71,"posy":226.41},
 	{"id":"119","inid":7,"type":2,"name":"リーチ","repop":20,"id_area":56,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":66.59,"real_posy":253.38,"posx":121.77,"posy":231.94},
 	{"id":"120","inid":7,"type":2,"name":"リーチ","repop":20,"id_area":56,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":62.55,"real_posy":253.06,"posx":114.37,"posy":231.65},
@@ -165,10 +165,17 @@ MobData = {
 	{"id":"163","inid":13,"type":2,"name":"ダークエルフ将校","repop":40,"id_area":64,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.95,"real_posy":114.25,"posx":27.34,"posy":104.58},
 	{"id":"164","inid":15,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":112.05,"real_posy":128.34,"posx":204.89,"posy":117.48},
 	{"id":"165","inid":22,"type":2,"name":"バンシー","repop":120,"id_area":67,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":167.03,"real_posy":229,"posx":305.43,"posy":209.62},
+	{"id":"166","inid":23,"type":1,"name":"グリーク教司祭","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":5.42,"real_posy":285.31,"posx":9.91,"posy":261.17},
+	{"id":"167","inid":24,"type":1,"name":"グリーク教司祭","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.3,"real_posy":284.94,"posx":13.34,"posy":260.83},
+	{"id":"168","inid":25,"type":1,"name":"グリーク教聖騎士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.77,"real_posy":204.38,"posx":32.49,"posy":187.08},
+	{"id":"169","inid":25,"type":1,"name":"グリーク教聖騎士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":86.88,"real_posy":217.78,"posx":158.86,"posy":199.35},
 	{"id":"170","inid":21,"type":1,"name":"黒魔術師ネブラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22,"real_posy":8.72,"posx":40.23,"posy":7.98},
+	{"id":"171","inid":25,"type":1,"name":"グリーク教聖騎士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":9.64,"real_posy":255.84,"posx":17.63,"posy":234.2},
+	{"id":"172","inid":26,"type":1,"name":"リヤン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.81,"real_posy":281.34,"posx":14.29,"posy":257.54},
+	{"id":"173","inid":27,"type":1,"name":"ハイドネル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":165.73,"real_posy":68.72,"posx":303.06,"posy":62.9},
 ]};
 MobList = {
-	437: ["モンスター", "ラティアン","鷲狂戦士","ゴブリン","探検隊員フィン","殺人蚊の群れ","殺人蚊の群れ","マゴット","リーチ","堕落した水の精霊","ガルディック","ルビオラ","ダークエルフ将校","ダークエルフ将校","ダークエルフ将校","ダークエルフ将校","ミラーテレポータ","None.","None.","None.","None.","None.","黒魔術師ネブラ","バンシー","リーチ",],
+	437: ["モンスター", "ラティアン","鷲狂戦士","ゴブリン","探検隊員フィン","殺人蚊の群れ","殺人蚊の群れ","マゴット","リーチ","堕落した水の精霊","ガルディック","ルビオラ","ダークエルフ将校","ダークエルフ将校","ダークエルフ将校","ダークエルフ将校","ミラーテレポータ","None.","None.","None.","None.","None.","黒魔術師ネブラ","バンシー","グリーク教司祭","グリーク教司祭","グリーク教聖騎士","リヤン","ハイドネル","リーチ",],
 };
 
 AreaData = {
@@ -192,6 +199,8 @@ AreaData = {
 	{"id":"17","type":4,"name":"Area 16","access_map":"","is_secret":0,"real_posx":26.86,"real_posx2":38.81,"real_posy":256.28,"real_posy2":272.13,"posx":49.11,"posx2":70.97,"posy":234.6,"posy2":249.1},
 	{"id":"18","type":4,"name":"Area 17","access_map":"","is_secret":0,"real_posx":21.44,"real_posx2":41.53,"real_posy":198.25,"real_posy2":215.47,"posx":39.2,"posx2":75.94,"posy":181.48,"posy2":197.24},
 	{"id":"19","type":4,"name":"Area 18","access_map":"","is_secret":0,"real_posx":65.2,"real_posx2":81.7,"real_posy":208.84,"real_posy2":237.44,"posx":119.23,"posx2":149.4,"posy":191.17,"posy2":217.35},
+	{"id":"20","type":12,"name":"追い迫る影","access_map":"","is_secret":0,"real_posx":3.81,"real_posx2":7.72,"real_posy":277.28,"real_posy2":284.13,"posx":6.97,"posx2":14.11,"posy":253.82,"posy2":260.08},
+	{"id":"21","type":12,"name":"妨害1","access_map":"","is_secret":0,"real_posx":14,"real_posx2":17.84,"real_posy":203,"real_posy2":209.41,"posx":25.6,"posx2":32.63,"posy":185.82,"posy2":191.69},
 	{"id":"22","type":4,"name":"Area 21","access_map":"","is_secret":0,"real_posx":127.95,"real_posx2":142.64,"real_posy":1.41,"real_posy2":20.47,"posx":233.97,"posx2":260.83,"posy":1.29,"posy2":18.74},
 	{"id":"23","type":4,"name":"Area 22","access_map":"","is_secret":0,"real_posx":36.97,"real_posx2":49.41,"real_posy":206.41,"real_posy2":228.09,"posx":67.6,"posx2":90.34,"posy":188.94,"posy2":208.79},
 	{"id":"24","type":4,"name":"Area 23","access_map":"","is_secret":0,"real_posx":72.66,"real_posx2":88.67,"real_posy":71.88,"real_posy2":87.03,"posx":132.86,"posx2":162.14,"posy":65.79,"posy2":79.67},
@@ -213,7 +222,11 @@ AreaData = {
 	{"id":"40","type":6,"name":"奇妙な場所","access_map":"","is_secret":0,"real_posx":37.81,"real_posx2":42.2,"real_posy":282.66,"real_posy2":285.78,"posx":69.14,"posx2":77.17,"posy":258.74,"posy2":261.6},
 	{"id":"41","type":0,"name":"이동 도착 영역","access_map":"","is_secret":0,"real_posx":120.39,"real_posx2":122.73,"real_posy":329.22,"real_posy2":333.78,"posx":220.14,"posx2":224.43,"posy":301.36,"posy2":305.54},
 	{"id":"42","type":12,"name":"水の神獣の石像","access_map":"","is_secret":0,"real_posx":119.56,"real_posx2":123.48,"real_posy":319.59,"real_posy2":328,"posx":218.63,"posx2":225.8,"posy":292.55,"posy2":300.25},
+	{"id":"43","type":12,"name":"妨害3","access_map":"","is_secret":0,"real_posx":4.5,"real_posx2":8.7,"real_posy":249.81,"real_posy2":256.19,"posx":8.23,"posx2":15.91,"posy":228.67,"posy2":234.51},
+	{"id":"44","type":12,"name":"妨害2","access_map":"","is_secret":0,"real_posx":82.02,"real_posx2":85.91,"real_posy":213.47,"real_posy2":221.38,"posx":149.97,"posx2":157.09,"posy":195.41,"posy2":202.64},
+	{"id":"45","type":12,"name":"探検隊員たちの痕跡","access_map":"","is_secret":0,"real_posx":160.56,"real_posx2":163.67,"real_posy":99.72,"real_posy2":105.69,"posx":293.6,"posx2":299.29,"posy":91.28,"posy2":96.74},
 	{"id":"46","type":4,"name":"장교 보스 1","access_map":"","is_secret":0,"real_posx":95.09,"real_posx2":96.41,"real_posy":26.13,"real_posy2":28.75,"posx":173.89,"posx2":176.29,"posy":23.91,"posy2":26.32},
+	{"id":"47","type":12,"name":"ゴリマ沼地クエストスイッチ2","access_map":"","is_secret":0,"real_posx":169.77,"real_posx2":173.39,"real_posy":100.28,"real_posy2":107.03,"posx":310.43,"posx2":317.06,"posy":91.8,"posy2":97.97},
 	{"id":"50","type":4,"name":"장교 1","access_map":"","is_secret":0,"real_posx":92.72,"real_posx2":101.02,"real_posy":22.81,"real_posy2":34.88,"posx":169.54,"posx2":184.71,"posy":20.88,"posy2":31.92},
 	{"id":"51","type":12,"name":"ゴリマ沼地に戻る","access_map":"","is_secret":0,"real_posx":123.73,"real_posx2":125.33,"real_posy":328.5,"real_posy2":333.38,"posx":226.26,"posx2":229.17,"posy":300.7,"posy2":305.17},
 	{"id":"52","type":0,"name":"되돌아간 곳","access_map":"","is_secret":0,"real_posx":40.73,"real_posx2":42.8,"real_posy":279.47,"real_posy2":283.28,"posx":74.49,"posx2":78.26,"posy":255.82,"posy2":259.31},

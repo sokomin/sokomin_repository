@@ -117,4 +117,5 @@ AreaData = {
 	{"id":"18","type":4,"name":"Area 17","access_map":"","is_secret":0,"real_posx":10.13,"real_posx2":38.81,"real_posy":74.13,"real_posy2":98.13,"posx":32.4,"posx2":124.2,"posy":118.6,"posy2":157},
 	{"id":"19","type":3,"name":"거친 황야의 요새로 이동","access_map":"[741]BF_U06.rmd","is_secret":0,"real_posx":4.22,"real_posx2":6.59,"real_posy":5.91,"real_posy2":10.25,"posx":13.5,"posx2":21.1,"posy":9.45,"posy2":16.4},
 	{"id":"20","type":4,"name":"개발자 패밀리","access_map":"","is_secret":0,"real_posx":31.05,"real_posx2":38.75,"real_posy":36.28,"real_posy2":50.41,"posx":99.35,"posx2":124,"posy":58.05,"posy2":80.65},
+	{"id":"21","type":3,"name":"Area 20","access_map":"[619]G30_H01_B04.rmd","is_secret":0,"real_posx":57.22,"real_posx2":59.39,"real_posy":116.78,"real_posy2":120.44,"posx":183.1,"posx2":190.05,"posy":186.85,"posy2":192.7},
 ]};

@@ -141,7 +141,6 @@ MobData = {
 	{"id":"139","inid":4,"type":2,"name":"感染バッファロー","repop":25,"id_area":44,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":211.56,"real_posy":194.47,"posx":397.22,"posy":176.79},
 	{"id":"140","inid":12,"type":2,"name":"変異した夢魔","repop":20,"id_area":20,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.7,"real_posy":100.41,"posx":53.89,"posy":91.28},
 	{"id":"141","inid":13,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":223.77,"real_posy":127.75,"posx":420.13,"posy":116.14},
-	{"id":"142","inid":14,"type":2,"name":"ファルコンJr","repop":14400,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":233.47,"real_posy":136.81,"posx":438.35,"posy":124.38},
 	{"id":"145","inid":2,"type":2,"name":"感染アイウィング","repop":25,"id_area":44,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":205.59,"real_posy":183.22,"posx":386.01,"posy":166.56},
 	{"id":"146","inid":2,"type":2,"name":"感染アイウィング","repop":25,"id_area":44,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":203.33,"real_posy":195.88,"posx":381.76,"posy":178.07},
 	{"id":"147","inid":2,"type":2,"name":"感染アイウィング","repop":25,"id_area":44,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":213.13,"real_posy":184.53,"posx":400.15,"posy":167.76},
@@ -189,7 +188,7 @@ MobData = {
 	{"id":"199","inid":2,"type":2,"name":"感染アイウィング","repop":25,"id_area":35,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":167.73,"real_posy":102.88,"posx":314.93,"posy":93.52},
 ]};
 MobList = {
-	811: ["モンスター", "感染砂漠サソリ","感染砂漠スパイダ","感染アイウィング","感染ラットシーフ","感染バッファロー","イーグルヘッド","イーグルヘッド","イーグルヘッド","イーグルヘッド","イーグルヘッド長","カズ","変異した悪魔","変異した夢魔","ミラーテレポータ","ファルコンJr",],
+	811: ["モンスター", "感染砂漠サソリ","感染砂漠スパイダ","感染アイウィング","感染ラットシーフ","感染バッファロー","イーグルヘッド","イーグルヘッド","イーグルヘッド","イーグルヘッド","イーグルヘッド長","カズ","変異した悪魔","変異した夢魔","ミラーテレポータ",],
 };
 
 AreaData = {

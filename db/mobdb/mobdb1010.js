@@ -13,7 +13,7 @@ MobData = {
 	{"id":"11","inid":9,"type":4,"name":"刻印師モリス","repop":0,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":129.5,"real_posy":7.91,"posx":310.8,"posy":9.49},
 	{"id":"12","inid":10,"type":1,"name":"恩寵商人メリア","repop":0,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":132.59,"real_posy":12.16,"posx":318.23,"posy":14.59},
 	{"id":"13","inid":12,"type":1,"name":"探検隊分解師","repop":0,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":27.31,"real_posy":146.25,"posx":65.55,"posy":175.5},
-	{"id":"14","inid":15,"type":16,"name":"探検隊治療師 ","repop":0,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":132.75,"real_posy":19.22,"posx":318.6,"posy":23.06},
+	{"id":"14","inid":16,"type":16,"name":"探検隊治療師 ","repop":0,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":132.75,"real_posy":19.22,"posx":318.6,"posy":23.06},
 	{"id":"15","inid":13,"type":14,"name":"植物交感師","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":151.86,"real_posy":142.69,"posx":364.46,"posy":171.23},
 	{"id":"16","inid":14,"type":1,"name":"ダナン族の守護者","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":182.42,"real_posy":76.13,"posx":437.81,"posy":91.35},
 	{"id":"17","inid":14,"type":1,"name":"ダナン族の守護者","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":178.91,"real_posy":79.72,"posx":429.38,"posy":95.66},
@@ -23,11 +23,12 @@ MobData = {
 	{"id":"21","inid":14,"type":1,"name":"ダナン族の守護者","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":140.72,"real_posy":183.34,"posx":337.73,"posy":220.01},
 	{"id":"22","inid":14,"type":1,"name":"ダナン族の守護者","repop":0,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":163.63,"real_posy":194.97,"posx":392.7,"posy":233.96},
 	{"id":"23","inid":14,"type":1,"name":"ダナン族の守護者","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":140.72,"real_posy":194.19,"posx":337.73,"posy":233.03},
-	{"id":"24","inid":16,"type":1,"name":"妖精石交感師","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.13,"real_posy":156.97,"posx":60.3,"posy":188.36},
-	{"id":"25","inid":17,"type":1,"name":"妖精石鑑別師","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":30.56,"real_posy":159.72,"posx":73.35,"posy":191.66},
+	{"id":"24","inid":17,"type":1,"name":"妖精石交感師","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.13,"real_posy":156.97,"posx":60.3,"posy":188.36},
+	{"id":"25","inid":18,"type":1,"name":"妖精石鑑別師","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":30.56,"real_posy":159.72,"posx":73.35,"posy":191.66},
+	{"id":"26","inid":15,"type":1,"name":"探検隊の派遣隊員","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":143.09,"real_posy":41.28,"posx":343.43,"posy":49.54},
 ]};
 MobList = {
-	1010: ["モンスター", "リヤン","ハイドネル","カイリン","ヘイズ","カリプス","イスメルダ","協会派遣魔法師","探検隊鍛冶屋","薬草学者シルベス","刻印師モリス","恩寵商人メリア","ラエル","探検隊分解師","植物交感師","ダナン族の守護者","探検隊治療師 ","妖精石交感師","妖精石鑑別師",],
+	1010: ["モンスター", "リヤン","ハイドネル","カイリン","ヘイズ","カリプス","イスメルダ","協会派遣魔法師","探検隊鍛冶屋","薬草学者シルベス","刻印師モリス","恩寵商人メリア","ラエル","探検隊分解師","植物交感師","ダナン族の守護者","探検隊の派遣隊員","探検隊治療師 ","妖精石交感師","妖精石鑑別師",],
 };
 
 AreaData = {

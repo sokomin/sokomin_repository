@@ -9,17 +9,17 @@ MobData = {
 	{"id":"7","inid":3,"type":1,"name":"プレスト","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":40.84,"real_posy":40.63,"posx":98.03,"posy":48.75},
 	{"id":"8","inid":5,"type":11,"name":"ルウ","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":65.77,"real_posy":28.06,"posx":157.84,"posy":33.67},
 	{"id":"9","inid":2,"type":1,"name":"ミナイ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":60.66,"real_posy":18.41,"posx":145.57,"posy":22.09},
-	{"id":"10","inid":31,"type":1,"name":"兵士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":57.77,"real_posy":21.47,"posx":138.64,"posy":25.76},
-	{"id":"11","inid":32,"type":3,"name":"エルカイソ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":73.28,"real_posy":45.19,"posx":175.88,"posy":54.23},
+	{"id":"10","inid":32,"type":1,"name":"兵士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":57.77,"real_posy":21.47,"posx":138.64,"posy":25.76},
+	{"id":"11","inid":33,"type":3,"name":"エルカイソ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":73.28,"real_posy":45.19,"posx":175.88,"posy":54.23},
 	{"id":"12","inid":4,"type":1,"name":"軍人","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":33.77,"real_posy":61.06,"posx":81.04,"posy":73.28},
 	{"id":"13","inid":6,"type":1,"name":"軍人","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.33,"real_posy":64.09,"posx":67.99,"posy":76.91},
 	{"id":"14","inid":1,"type":1,"name":"傭兵","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":62.14,"real_posy":57.5,"posx":149.14,"posy":69},
 	{"id":"15","inid":4,"type":1,"name":"軍人","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":13.05,"real_posy":62.22,"posx":31.31,"posy":74.66},
 	{"id":"16","inid":0,"type":1,"name":"傭兵","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.27,"real_posy":11.59,"posx":67.84,"posy":13.91},
-	{"id":"17","inid":33,"type":1,"name":"兵士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":93.59,"real_posy":9.38,"posx":224.63,"posy":11.25},
-	{"id":"18","inid":34,"type":1,"name":"兵士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":95.8,"real_posy":11.78,"posx":229.91,"posy":14.14},
-	{"id":"19","inid":35,"type":10,"name":"訓練隊長トレース","repop":120,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":90.08,"real_posy":51.38,"posx":216.19,"posy":61.65},
-	{"id":"20","inid":36,"type":1,"name":"ナタルリア","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":70.98,"real_posy":5.13,"posx":170.36,"posy":6.15},
+	{"id":"17","inid":34,"type":1,"name":"兵士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":93.59,"real_posy":9.38,"posx":224.63,"posy":11.25},
+	{"id":"18","inid":35,"type":1,"name":"兵士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":95.8,"real_posy":11.78,"posx":229.91,"posy":14.14},
+	{"id":"19","inid":36,"type":10,"name":"訓練隊長トレース","repop":120,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":90.08,"real_posy":51.38,"posx":216.19,"posy":61.65},
+	{"id":"20","inid":37,"type":1,"name":"ナタルリア","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":70.98,"real_posy":5.13,"posx":170.36,"posy":6.15},
 	{"id":"21","inid":7,"type":13,"name":"ポテムスン","repop":120,"id_area":11,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":53.02,"real_posy":73.38,"posx":127.24,"posy":88.05},
 	{"id":"22","inid":8,"type":21,"name":"ウォルド","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.22,"real_posy":54.34,"posx":41.33,"posy":65.21},
 	{"id":"23","inid":10,"type":10,"name":"バンドスキー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":42.72,"real_posy":80.16,"posx":102.53,"posy":96.19},
@@ -46,9 +46,10 @@ MobData = {
 	{"id":"44","inid":28,"type":11,"name":"傭兵ドライデン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":67.19,"real_posy":80.66,"posx":161.25,"posy":96.79},
 	{"id":"45","inid":29,"type":1,"name":"闇商人デリック","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":11.58,"real_posy":82.81,"posx":27.79,"posy":99.38},
 	{"id":"46","inid":30,"type":1,"name":"シェリル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":87.98,"real_posy":17,"posx":211.16,"posy":20.4},
+	{"id":"47","inid":31,"type":1,"name":"グレタ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.41,"real_posy":25.66,"posx":39.38,"posy":30.79},
 ]};
 MobList = {
-	374: ["モンスター", "傭兵","傭兵","ミナイ","プレスト","軍人","ルウ","軍人","ポテムスン","ウォルド","None.","バンドスキー","ゲリングス","ビクトリア","ドミニク","リバルド","ジャックペリー","アボル","ガルシア","None.","ウーバン","ミヌエル","プゾル","ヘンデルセン","ケニージャ","ブルナーク","レリバード","バーネス","船員","傭兵ドライデン","闇商人デリック","シェリル","兵士","エルカイソ","兵士","兵士","訓練隊長トレース","ナタルリア",],
+	374: ["モンスター", "傭兵","傭兵","ミナイ","プレスト","軍人","ルウ","軍人","ポテムスン","ウォルド","None.","バンドスキー","ゲリングス","ビクトリア","ドミニク","リバルド","ジャックペリー","アボル","ガルシア","None.","ウーバン","ミヌエル","プゾル","ヘンデルセン","ケニージャ","ブルナーク","レリバード","バーネス","船員","傭兵ドライデン","闇商人デリック","シェリル","グレタ","兵士","エルカイソ","兵士","兵士","訓練隊長トレース","ナタルリア",],
 };
 
 AreaData = {

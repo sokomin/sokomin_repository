@@ -85,13 +85,10 @@ MobData = {
 	{"id":"83","inid":1,"type":2,"name":"スナッチャー","repop":20,"id_area":33,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":93.91,"real_posy":129.56,"posx":341.48,"posy":235.5},
 	{"id":"84","inid":0,"type":2,"name":"堕落魔法師","repop":20,"id_area":33,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":86.14,"real_posy":126.53,"posx":313.24,"posy":229.99},
 	{"id":"85","inid":0,"type":2,"name":"堕落魔法師","repop":20,"id_area":33,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":78.94,"real_posy":133.25,"posx":287.05,"posy":242.2},
-	{"id":"86","inid":7,"type":2,"name":"覚醒パンプキン","repop":1800,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":67.89,"real_posy":97.31,"posx":246.88,"posy":176.88},
 	{"id":"87","inid":8,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":47.81,"real_posy":68.63,"posx":173.86,"posy":124.74},
-	{"id":"88","inid":7,"type":2,"name":"覚醒パンプキン","repop":1800,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":67.16,"real_posy":30.59,"posx":244.2,"posy":55.61},
-	{"id":"89","inid":7,"type":2,"name":"覚醒パンプキン","repop":1800,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":31.3,"real_posy":108.53,"posx":113.81,"posy":197.27},
 ]};
 MobList = {
-	716: ["モンスター", "堕落魔法師","スナッチャー","デスピンサー","デスピンサー","デスピンサー","デスピンサー","デスピンサー","覚醒パンプキン","ミラーテレポータ",],
+	716: ["モンスター", "堕落魔法師","スナッチャー","デスピンサー","デスピンサー","デスピンサー","デスピンサー","デスピンサー","None.","ミラーテレポータ",],
 };
 
 AreaData = {

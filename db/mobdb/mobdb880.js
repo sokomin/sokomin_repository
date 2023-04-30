@@ -225,10 +225,13 @@ MobData = {
 	{"id":"223","inid":6,"type":2,"name":"巨大蜘蛛","repop":40,"id_area":51,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":49.95,"real_posy":58.66,"posx":119.89,"posy":75.08},
 	{"id":"224","inid":6,"type":2,"name":"巨大蜘蛛","repop":40,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":115.25,"real_posy":21.5,"posx":276.6,"posy":27.52},
 	{"id":"225","inid":6,"type":2,"name":"巨大蜘蛛","repop":40,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":110.52,"real_posy":23.66,"posx":265.24,"posy":30.28},
+	{"id":"226","inid":7,"type":1,"name":"見知らぬ人物","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":70.97,"real_posy":72.75,"posx":170.33,"posy":93.12},
 	{"id":"227","inid":8,"type":1,"name":"ハイドネル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":12.02,"real_posy":10.13,"posx":28.84,"posy":12.96},
+	{"id":"228","inid":9,"type":2,"name":"精鋭戦闘要員","repop":120,"id_area":86,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.03,"real_posy":70.06,"posx":165.68,"posy":89.68},
+	{"id":"229","inid":10,"type":1,"name":"森の番人ケイン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":31.8,"real_posy":32,"posx":76.31,"posy":40.96},
 ]};
 MobList = {
-	880: ["モンスター", "休めぬ将校","古代兵士","生命の看視者","祭壇守護兵","生命の戦闘司祭","森のインプ","巨大蜘蛛","None.","ハイドネル",],
+	880: ["モンスター", "休めぬ将校","古代兵士","生命の看視者","祭壇守護兵","生命の戦闘司祭","森のインプ","巨大蜘蛛","見知らぬ人物","ハイドネル","精鋭戦闘要員","森の番人ケイン",],
 };
 
 AreaData = {
@@ -276,7 +279,7 @@ AreaData = {
 	{"id":"41","type":4,"name":"시작 2-2","access_map":"","is_secret":0,"real_posx":134.5,"real_posx2":143.25,"real_posy":53.03,"real_posy2":66.97,"posx":322.8,"posx2":343.8,"posy":67.88,"posy2":85.72},
 	{"id":"42","type":4,"name":"시작 2-3","access_map":"","is_secret":0,"real_posx":134.14,"real_posx2":141.23,"real_posy":31.88,"real_posy2":38.66,"posx":321.94,"posx2":338.96,"posy":40.8,"posy2":49.48},
 	{"id":"43","type":4,"name":"시작 2-4","access_map":"","is_secret":0,"real_posx":107.8,"real_posx2":119.5,"real_posy":27.38,"real_posy2":51.66,"posx":258.71,"posx2":286.8,"posy":35.04,"posy2":66.12},
-	{"id":"44","type":4,"name":"시작 2-5","access_map":"","is_secret":0,"real_posx":78.59,"real_posx2":114.66,"real_posy":1.25,"real_posy2":14.38,"posx":188.63,"posx2":275.18,"posy":1.6,"posy2":18.4},
+	{"id":"44","type":4,"name":"시작 2-5","access_map":"","is_secret":0,"real_posx":78.8,"real_posx2":114.86,"real_posy":0.47,"real_posy2":13.59,"posx":189.11,"posx2":275.66,"posy":0.6,"posy2":17.4},
 	{"id":"45","type":4,"name":"시작 2-6","access_map":"","is_secret":0,"real_posx":70.81,"real_posx2":92.61,"real_posy":42.19,"real_posy2":60.41,"posx":169.95,"posx2":222.26,"posy":54,"posy2":77.32},
 	{"id":"46","type":4,"name":"시작 2-7","access_map":"","is_secret":0,"real_posx":94.02,"real_posx2":106.97,"real_posy":65.88,"real_posy2":79.16,"posx":225.64,"posx2":256.73,"posy":84.32,"posy2":101.32},
 	{"id":"47","type":4,"name":"시작 2-8","access_map":"","is_secret":0,"real_posx":111.06,"real_posx2":127.13,"real_posy":95.75,"real_posy2":112.88,"posx":266.55,"posx2":305.1,"posy":122.56,"posy2":144.48},
@@ -300,7 +303,7 @@ AreaData = {
 	{"id":"65","type":4,"name":"죽음의 숲10","access_map":"","is_secret":0,"real_posx":23.91,"real_posx2":27.78,"real_posy":226.63,"real_posy2":236,"posx":57.38,"posx2":66.68,"posy":290.08,"posy2":302.08},
 	{"id":"66","type":4,"name":"시작 3-9","access_map":"","is_secret":0,"real_posx":45.11,"real_posx2":51.09,"real_posy":82.69,"real_posy2":100.5,"posx":108.26,"posx2":122.63,"posy":105.84,"posy2":128.64},
 	{"id":"67","type":4,"name":"시작 3-10","access_map":"","is_secret":0,"real_posx":60.69,"real_posx2":72.34,"real_posy":100.25,"real_posy2":112.44,"posx":145.65,"posx2":173.63,"posy":128.32,"posy2":143.92},
-	{"id":"68","type":4,"name":"시작 3-11","access_map":"","is_secret":0,"real_posx":33.53,"real_posx2":40.83,"real_posy":37.03,"real_posy2":65.25,"posx":80.47,"posx2":97.99,"posy":47.4,"posy2":83.52},
+	{"id":"68","type":4,"name":"시작 3-11","access_map":"","is_secret":0,"real_posx":35.19,"real_posx2":42.2,"real_posy":42.56,"real_posy2":65.25,"posx":84.45,"posx2":101.29,"posy":54.48,"posy2":83.52},
 	{"id":"69","type":4,"name":"시작 2-9","access_map":"","is_secret":0,"real_posx":57,"real_posx2":75.59,"real_posy":25.47,"real_posy2":41.34,"posx":136.8,"posx2":181.43,"posy":32.6,"posy2":52.92},
 	{"id":"70","type":4,"name":"시작 9","access_map":"","is_secret":0,"real_posx":170.75,"real_posx2":180.5,"real_posy":80.09,"real_posy2":101.25,"posx":409.8,"posx2":433.2,"posy":102.52,"posy2":129.6},
 	{"id":"71","type":4,"name":"시작 10","access_map":"","is_secret":0,"real_posx":168.44,"real_posx2":181.56,"real_posy":0.75,"real_posy2":21.38,"posx":404.25,"posx2":435.75,"posy":0.96,"posy2":27.36},
@@ -318,4 +321,15 @@ AreaData = {
 	{"id":"83","type":4,"name":"Area 82","access_map":"","is_secret":0,"real_posx":54.28,"real_posx2":69.44,"real_posy":139.94,"real_posy2":153.5,"posx":130.28,"posx2":166.65,"posy":179.12,"posy2":196.48},
 	{"id":"84","type":4,"name":"Area 83","access_map":"","is_secret":0,"real_posx":0.89,"real_posx2":12.67,"real_posy":139.78,"real_posy2":148.72,"posx":2.14,"posx2":30.41,"posy":178.92,"posy2":190.36},
 	{"id":"85","type":0,"name":"하이드넬 등장","access_map":"","is_secret":0,"real_posx":-0.09,"real_posx2":21.67,"real_posy":0.31,"real_posy2":28.06,"posx":-0.22,"posx2":52.01,"posy":0.4,"posy2":35.92},
+	{"id":"86","type":4,"name":"전투요원","access_map":"","is_secret":0,"real_posx":64.69,"real_posx2":73.39,"real_posy":63.59,"real_posy2":80.19,"posx":155.25,"posx2":176.14,"posy":81.4,"posy2":102.64},
+	{"id":"87","type":0,"name":"낯선 인물","access_map":"","is_secret":0,"real_posx":44.61,"real_posx2":106.28,"real_posy":24.91,"real_posy2":121.56,"posx":107.06,"posx2":255.08,"posy":31.88,"posy2":155.6},
+	{"id":"88","type":0,"name":"숲지기","access_map":"","is_secret":0,"real_posx":-0.5,"real_posx2":88.13,"real_posy":0.47,"real_posy2":147.91,"posx":-1.2,"posx2":211.5,"posy":0.6,"posy2":189.32},
+	{"id":"89","type":12,"name":"テント1","access_map":"","is_secret":0,"real_posx":26.52,"real_posx2":34.64,"real_posy":33.31,"real_posy2":44.38,"posx":63.64,"posx2":83.14,"posy":42.64,"posy2":56.8},
+	{"id":"90","type":12,"name":"テント2","access_map":"","is_secret":0,"real_posx":59.77,"real_posx2":65.11,"real_posy":-1.19,"real_posy2":9.28,"posx":143.44,"posx2":156.26,"posy":-1.52,"posy2":11.88},
+	{"id":"91","type":12,"name":"テント3","access_map":"","is_secret":0,"real_posx":77.36,"real_posx2":83.92,"real_posy":-0.16,"real_posy2":12.44,"posx":185.66,"posx2":201.41,"posy":-0.2,"posy2":15.92},
+	{"id":"92","type":6,"name":"森の番人のテント","access_map":"","is_secret":0,"real_posx":27.66,"real_posx2":29.77,"real_posy":29.06,"real_posy2":31.72,"posx":66.38,"posx2":71.44,"posy":37.2,"posy2":40.6},
+	{"id":"93","type":12,"name":"古代の亡霊1","access_map":"","is_secret":0,"real_posx":121.59,"real_posx2":127.03,"real_posy":158.88,"real_posy2":166.91,"posx":291.83,"posx2":304.88,"posy":203.36,"posy2":213.64},
+	{"id":"94","type":12,"name":"古代の亡霊2","access_map":"","is_secret":0,"real_posx":133.88,"real_posx2":138.88,"real_posy":120.78,"real_posy2":128.19,"posx":321.3,"posx2":333.3,"posy":154.6,"posy2":164.08},
+	{"id":"95","type":12,"name":"古代の亡霊3","access_map":"","is_secret":0,"real_posx":157.03,"real_posx2":162.13,"real_posy":134.44,"real_posy2":144,"posx":376.88,"posx2":389.1,"posy":172.08,"posy2":184.32},
+	{"id":"96","type":12,"name":"レバー","access_map":"","is_secret":0,"real_posx":122.72,"real_posx2":126.23,"real_posy":227.63,"real_posy2":234.88,"posx":294.52,"posx2":302.96,"posy":291.36,"posy2":300.64},
 ]};

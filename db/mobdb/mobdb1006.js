@@ -43,7 +43,6 @@ MobData = {
 	{"id":"41","inid":1,"type":2,"name":"食い意地ゾンビ","repop":30,"id_area":24,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":47.72,"real_posy":9.25,"posx":114.53,"posy":14.8},
 	{"id":"42","inid":3,"type":2,"name":"休めぬ将校","repop":30,"id_area":97,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":122.22,"real_posy":87.94,"posx":293.33,"posy":140.7},
 	{"id":"43","inid":1,"type":2,"name":"食い意地ゾンビ","repop":30,"id_area":23,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":57.06,"real_posy":3.69,"posx":136.95,"posy":5.9},
-	{"id":"44","inid":7,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":7.56,"real_posy":7.56,"posx":18.15,"posy":12.1},
 	{"id":"45","inid":4,"type":2,"name":"休めぬ兵士","repop":30,"id_area":24,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":47.25,"real_posy":7.5,"posx":113.4,"posy":12},
 	{"id":"47","inid":3,"type":2,"name":"休めぬ将校","repop":30,"id_area":23,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":54.53,"real_posy":3.94,"posx":130.88,"posy":6.3},
 	{"id":"48","inid":3,"type":2,"name":"休めぬ将校","repop":30,"id_area":17,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":53.38,"real_posy":57.69,"posx":128.1,"posy":92.3},
@@ -284,13 +283,13 @@ MobData = {
 	{"id":"378","inid":4,"type":2,"name":"休めぬ兵士","repop":30,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.09,"real_posy":22.06,"posx":165.83,"posy":35.3},
 ]};
 MobList = {
-	1006: ["モンスター", "腐乱死体","食い意地ゾンビ","生命の看視者","休めぬ将校","休めぬ兵士","祭壇守護兵","祭壇の守護者","ミラーテレポータ",],
+	1006: ["モンスター", "腐乱死体","食い意地ゾンビ","生命の看視者","休めぬ将校","休めぬ兵士","祭壇守護兵","祭壇の守護者",],
 };
 
 AreaData = {
 	1006: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
-	{"id":"2","type":3,"name":"연결 [879]","access_map":"[880]ForestOfLife_OutSkirts.rmd","is_secret":0,"real_posx":2.09,"real_posx2":5,"real_posy":3.66,"real_posy2":9,"posx":5.03,"posx2":12,"posy":5.85,"posy2":14.4},
+	{"id":"2","type":3,"name":"원본 필드로","access_map":"[881]WasteLandOfDeath.rmd","is_secret":0,"real_posx":2.08,"real_posx2":4.98,"real_posy":3.66,"real_posy2":9,"posx":4.99,"posx2":11.96,"posy":5.85,"posy2":14.4},
 	{"id":"3","type":4,"name":"1-1","access_map":"","is_secret":0,"real_posx":7.13,"real_posx2":10.11,"real_posy":11.84,"real_posy2":17.94,"posx":17.1,"posx2":24.26,"posy":18.95,"posy2":28.7},
 	{"id":"4","type":4,"name":"1-2","access_map":"","is_secret":0,"real_posx":5.92,"real_posx2":8.89,"real_posy":28.22,"real_posy2":33.63,"posx":14.21,"posx2":21.34,"posy":45.15,"posy2":53.8},
 	{"id":"6","type":4,"name":"1-4","access_map":"","is_secret":0,"real_posx":11.84,"real_posx2":14.56,"real_posy":19.41,"real_posy2":25.84,"posx":28.43,"posx2":34.95,"posy":31.05,"posy2":41.35},

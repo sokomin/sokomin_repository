@@ -107,9 +107,6 @@ MobData = {
 	{"id":"105","inid":3,"type":2,"name":"収容所怪物ネズミ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":176.8,"real_posy":122.09,"posx":505.13,"posy":174.42},
 	{"id":"106","inid":3,"type":2,"name":"収容所怪物ネズミ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":180.78,"real_posy":115.34,"posx":516.52,"posy":164.78},
 	{"id":"107","inid":3,"type":2,"name":"収容所怪物ネズミ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":184.47,"real_posy":123.53,"posx":527.05,"posy":176.47},
-	{"id":"108","inid":4,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.84,"real_posy":26.75,"posx":53.84,"posy":38.21},
-	{"id":"109","inid":5,"type":1,"name":"攻撃を受けた住人","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":137.53,"real_posy":124.91,"posx":392.95,"posy":178.44},
-	{"id":"110","inid":6,"type":1,"name":"レイン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":132.64,"real_posy":128.69,"posx":378.97,"posy":183.84},
 	{"id":"120","inid":3,"type":2,"name":"収容所怪物ネズミ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":117.47,"real_posy":14.72,"posx":335.63,"posy":21.03},
 	{"id":"121","inid":3,"type":2,"name":"収容所怪物ネズミ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":124.58,"real_posy":14.84,"posx":355.94,"posy":21.21},
 	{"id":"122","inid":3,"type":2,"name":"収容所怪物ネズミ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":120.92,"real_posy":25.88,"posx":345.49,"posy":36.96},
@@ -348,23 +345,19 @@ MobData = {
 	{"id":"378","inid":0,"type":2,"name":"囚われた降神術師","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":156.98,"real_posy":155.69,"posx":448.53,"posy":222.41},
 ]};
 MobList = {
-	866: ["モンスター", "囚われた降神術師","収容所番人","束縛された魔法師","収容所怪物ネズミ","ミラーテレポータ","攻撃を受けた住人","レイン",],
+	866: ["モンスター", "囚われた降神術師","収容所番人","束縛された魔法師","収容所怪物ネズミ",],
 };
 
 AreaData = {
 	866: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
-	{"id":"2","type":3,"name":"잊혀진 지하 수용소 B3으로","access_map":"[826]G16_D03_B03.rmd","is_secret":0,"real_posx":104.81,"real_posx2":107.13,"real_posy":168.53,"real_posy2":172.19,"posx":299.46,"posx2":306.07,"posy":240.76,"posy2":245.98},
 	{"id":"3","type":4,"name":"보물 상자 01","access_map":"","is_secret":0,"real_posx":30.63,"real_posx2":68.05,"real_posy":20.94,"real_posy2":71.72,"posx":87.5,"posx2":194.42,"posy":29.91,"posy2":102.46},
 	{"id":"4","type":4,"name":"보물 상자 02","access_map":"","is_secret":0,"real_posx":31.64,"real_posx2":69.22,"real_posy":87,"real_posy2":145.59,"posx":90.4,"posx2":197.77,"posy":124.29,"posy2":207.99},
 	{"id":"5","type":4,"name":"보물 상자 03","access_map":"","is_secret":0,"real_posx":74.84,"real_posx2":116.41,"real_posy":21.41,"real_posy2":77.81,"posx":213.84,"posx2":332.59,"posy":30.58,"posy2":111.16},
 	{"id":"6","type":4,"name":"보물 상자 04","access_map":"","is_secret":0,"real_posx":76.25,"real_posx2":115.55,"real_posy":90.75,"real_posy2":147,"posx":217.86,"posx2":330.13,"posy":129.64,"posy2":210},
 	{"id":"7","type":4,"name":"보물 상자 05","access_map":"","is_secret":0,"real_posx":122.34,"real_posx2":173.28,"real_posy":21.72,"real_posy2":77.81,"posx":349.55,"posx2":495.09,"posy":31.03,"posy2":111.16},
 	{"id":"8","type":5,"name":"시작 영역","access_map":"","is_secret":0,"real_posx":11.63,"real_posx2":14.48,"real_posy":25.31,"real_posy2":30,"posx":33.21,"posx2":41.38,"posy":36.16,"posy2":42.86},
-	{"id":"9","type":3,"name":"잊혀진 지하 수용소 B1으로","access_map":"[824]G16_D03_B03.rmd","is_secret":0,"real_posx":11.5,"real_posx2":14.63,"real_posy":24.97,"real_posy2":30.22,"posx":32.86,"posx2":41.79,"posy":35.67,"posy2":43.17},
+	{"id":"9","type":3,"name":"원본필드로","access_map":"[825]G16_D03_B03.rmd","is_secret":0,"real_posx":11.5,"real_posx2":14.63,"real_posy":24.97,"real_posy2":30.22,"posx":32.86,"posx2":41.79,"posy":35.67,"posy2":43.17},
 	{"id":"10","type":4,"name":"보물 상자 06","access_map":"","is_secret":0,"real_posx":122.34,"real_posx2":174.3,"real_posy":90.28,"real_posy2":148.25,"posx":349.55,"posx2":497.99,"posy":128.97,"posy2":211.79},
 	{"id":"11","type":6,"name":"小さい祭壇","access_map":"","is_secret":0,"real_posx":76.28,"real_posx2":77.06,"real_posy":19.75,"real_posy2":20.31,"posx":217.95,"posx2":220.18,"posy":28.21,"posy2":29.02},
-	{"id":"12","type":12,"name":"小さい祭壇クエスト","access_map":"","is_secret":0,"real_posx":74.91,"real_posx2":79.61,"real_posy":20.56,"real_posy2":28.25,"posx":214.02,"posx2":227.46,"posy":29.38,"posy2":40.36},
-	{"id":"13","type":12,"name":"Area 12","access_map":"","is_secret":0,"real_posx":133.5,"real_posx2":138.14,"real_posy":119.81,"real_posy2":128.03,"posx":381.43,"posx2":394.69,"posy":171.16,"posy2":182.9},
-	{"id":"14","type":0,"name":"레인","access_map":"","is_secret":0,"real_posx":110.13,"real_posx2":164.91,"real_posy":88.75,"real_posy2":179.16,"posx":314.64,"posx2":471.16,"posy":126.79,"posy2":255.94},
 ]};

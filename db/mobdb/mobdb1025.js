@@ -19,6 +19,7 @@ MobData = {
 	{"id":"17","inid":3,"type":2,"name":"エルダージャガー","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":52.64,"real_posy":70.28,"posx":84.23,"posy":56.23},
 	{"id":"18","inid":9,"type":2,"name":"夜の賢者","repop":1500,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":65.8,"real_posy":10.63,"posx":105.28,"posy":8.5},
 	{"id":"19","inid":2,"type":2,"name":"調教ジャガー","repop":120,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":379.31,"real_posy":162.31,"posx":606.9,"posy":129.85},
+	{"id":"20","inid":10,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":190.09,"real_posy":242.94,"posx":304.15,"posy":194.35},
 	{"id":"22","inid":1,"type":2,"name":"ジャガー","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":91.88,"real_posy":71.75,"posx":147,"posy":57.4},
 	{"id":"24","inid":3,"type":2,"name":"エルダージャガー","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":82.52,"real_posy":25.94,"posx":132.03,"posy":20.75},
 	{"id":"25","inid":3,"type":2,"name":"エルダージャガー","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":82.34,"real_posy":32.06,"posx":131.75,"posy":25.65},
@@ -504,7 +505,7 @@ MobData = {
 	{"id":"619","inid":3,"type":2,"name":"エルダージャガー","repop":20,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":311.36,"real_posy":105.5,"posx":498.18,"posy":84.4},
 ]};
 MobList = {
-	1025: ["モンスター", "夜の生霊","ジャガー","調教ジャガー","エルダージャガー","イグニスパトス","彷徨いの妖精","イニグ族の狩人","イニグ族の祭司長","イニグ族の守護者","夜の賢者","None.","自爆ヘルパー",],
+	1025: ["モンスター", "夜の生霊","ジャガー","調教ジャガー","エルダージャガー","イグニスパトス","彷徨いの妖精","イニグ族の狩人","イニグ族の祭司長","イニグ族の守護者","夜の賢者","ミラーテレポータ","自爆ヘルパー",],
 };
 
 AreaData = {

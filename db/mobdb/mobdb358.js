@@ -88,7 +88,11 @@ MobData = {
 	{"id":"86","inid":7,"type":2,"name":"覚醒パンプキン","repop":1800,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":31.42,"real_posy":109.09,"posx":114.26,"posy":198.29},
 	{"id":"87","inid":8,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":47.81,"real_posy":68.63,"posx":173.86,"posy":124.74},
 	{"id":"88","inid":7,"type":2,"name":"覚醒パンプキン","repop":1800,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":67.05,"real_posy":31.69,"posx":243.81,"posy":57.6},
-	{"id":"89","inid":7,"type":2,"name":"覚醒パンプキン","repop":1800,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":67.08,"real_posy":97.5,"posx":243.92,"posy":177.22},
+	{"id":"89","inid":7,"type":2,"name":"覚醒パンプキン","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":61.06,"real_posy":112.25,"posx":222.05,"posy":204.03},
+	{"id":"90","inid":7,"type":2,"name":"覚醒パンプキン","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":59.52,"real_posy":109.13,"posx":216.42,"posy":198.35},
+	{"id":"91","inid":7,"type":2,"name":"覚醒パンプキン","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":62.95,"real_posy":109.53,"posx":228.92,"posy":199.09},
+	{"id":"92","inid":7,"type":2,"name":"覚醒パンプキン","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":59.31,"real_posy":115.25,"posx":215.68,"posy":209.48},
+	{"id":"93","inid":7,"type":2,"name":"覚醒パンプキン","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":62.83,"real_posy":115.25,"posx":228.47,"posy":209.48},
 ]};
 MobList = {
 	358: ["モンスター", "堕落魔法師","スナッチャー","デスピエンド","デスピエンド","デスピンサー","デスピンサー","デスピンサー","覚醒パンプキン","ミラーテレポータ","デスピンサー","デスピンサー",],

@@ -115,10 +115,9 @@ MobData = {
 	{"id":"113","inid":5,"type":2,"name":"リッチ","repop":40,"id_area":36,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":104.28,"real_posy":112.13,"posx":320.87,"posy":172.5},
 	{"id":"114","inid":5,"type":2,"name":"リッチ","repop":40,"id_area":36,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":113.72,"real_posy":107.03,"posx":349.9,"posy":164.66},
 	{"id":"115","inid":3,"type":2,"name":"リッチ","repop":120,"id_area":37,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":108.06,"real_posy":110.78,"posx":332.5,"posy":170.43},
-	{"id":"116","inid":6,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":77.84,"real_posy":43.13,"posx":239.52,"posy":66.35},
 ]};
 MobList = {
-	344: ["モンスター", "レッドアイ護身像","レッドアイ骨人像","リッチ","リッチ","リッチ","リッチ","ミラーテレポータ",],
+	344: ["モンスター", "レッドアイ護身像","レッドアイ骨人像","リッチ","リッチ","リッチ","リッチ",],
 };
 
 AreaData = {

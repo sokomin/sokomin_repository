@@ -169,10 +169,9 @@ MobData = {
 	{"id":"167","inid":8,"type":2,"name":"狂気の指揮官","repop":40,"id_area":50,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":83.06,"real_posy":38.5,"posx":221.5,"posy":51.33},
 	{"id":"168","inid":8,"type":2,"name":"狂気の指揮官","repop":40,"id_area":50,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":82.45,"real_posy":47.28,"posx":219.88,"posy":63.04},
 	{"id":"169","inid":6,"type":2,"name":"狂気の指揮官","repop":120,"id_area":51,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":80.73,"real_posy":42.38,"posx":215.29,"posy":56.5},
-	{"id":"170","inid":9,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":2.27,"real_posy":5.31,"posx":6.04,"posy":7.08},
 ]};
 MobList = {
-	210: ["モンスター", "ヘシース","クローラー","クリーパー","ソーサラー","None.","狂気の指揮官","狂気の指揮官","狂気の指揮官","狂気の指揮官","ミラーテレポータ",],
+	210: ["モンスター", "ヘシース","クローラー","クリーパー","ソーサラー","None.","狂気の指揮官","狂気の指揮官","狂気の指揮官","狂気の指揮官",],
 };
 
 AreaData = {

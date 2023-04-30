@@ -85,14 +85,9 @@ MobData = {
 	{"id":"83","inid":1,"type":2,"name":"汚染大骸骨","repop":30,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.22,"real_posy":28.31,"posx":80.7,"posy":45.3},
 	{"id":"84","inid":1,"type":2,"name":"汚染大骸骨","repop":30,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.56,"real_posy":68.5,"posx":110.6,"posy":109.6},
 	{"id":"85","inid":1,"type":2,"name":"汚染大骸骨","repop":30,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.13,"real_posy":77.75,"posx":109.2,"posy":124.4},
-	{"id":"86","inid":4,"type":1,"name":"アスペロ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":49.3,"real_posy":108.03,"posx":157.75,"posy":172.85},
-	{"id":"87","inid":5,"type":1,"name":"アンデッド魔法師","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":57.97,"real_posy":108.28,"posx":185.5,"posy":173.25},
-	{"id":"88","inid":5,"type":1,"name":"アンデッド魔法師","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":50.44,"real_posy":116.34,"posx":161.4,"posy":186.15},
-	{"id":"89","inid":6,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.8,"real_posy":11.09,"posx":92.15,"posy":17.75},
-	{"id":"90","inid":7,"type":1,"name":"悪魔研究家","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":62.16,"real_posy":113,"posx":198.9,"posy":180.8},
 ]};
 MobList = {
-	758: ["モンスター", "汚染狂魔","汚染大骸骨","汚染脱獄犯","汚染ロック","アスペロ","アンデッド魔法師","ミラーテレポータ","悪魔研究家",],
+	758: ["モンスター", "汚染狂魔","汚染大骸骨","汚染脱獄犯","汚染ロック",],
 };
 
 AreaData = {
@@ -115,6 +110,6 @@ AreaData = {
 	{"id":"16","type":4,"name":"Area 15","access_map":"","is_secret":0,"real_posx":31.44,"real_posx2":47.13,"real_posy":65,"real_posy2":89,"posx":100.6,"posx2":150.8,"posy":104,"posy2":142.4},
 	{"id":"17","type":4,"name":"Area 16","access_map":"","is_secret":0,"real_posx":2,"real_posx2":19.5,"real_posy":48.75,"real_posy2":79.63,"posx":6.4,"posx2":62.4,"posy":78,"posy2":127.4},
 	{"id":"18","type":4,"name":"Area 17","access_map":"","is_secret":0,"real_posx":10.13,"real_posx2":38.81,"real_posy":74.13,"real_posy2":98.13,"posx":32.4,"posx2":124.2,"posy":118.6,"posy2":157},
-	{"id":"19","type":3,"name":"거친 황야의 요새로 이동","access_map":"[741]BF_U06.rmd","is_secret":0,"real_posx":4.22,"real_posx2":6.59,"real_posy":5.91,"real_posy2":10.25,"posx":13.5,"posx2":21.1,"posy":9.45,"posy2":16.4},
+	{"id":"19","type":3,"name":"원본필드","access_map":"[739]BF_D02.rmd","is_secret":0,"real_posx":4.22,"real_posx2":6.59,"real_posy":5.91,"real_posy2":10.25,"posx":13.5,"posx2":21.1,"posy":9.45,"posy2":16.4},
 	{"id":"20","type":4,"name":"개발자 패밀리","access_map":"","is_secret":0,"real_posx":31.05,"real_posx2":38.75,"real_posy":36.28,"real_posy2":50.41,"posx":99.35,"posx2":124,"posy":58.05,"posy2":80.65},
 ]};

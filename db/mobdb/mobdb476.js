@@ -1,6 +1,6 @@
 MobData = {
 	476: [ {"id":"0","inid":0,"type":13,"name":"ロシペル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":34.5,"real_posy":16.09,"posx":34.5,"posy":16.09},
-	{"id":"1","inid":1,"type":13,"name":"バイル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":19.77,"real_posy":38,"posx":19.77,"posy":38},
+	{"id":"1","inid":1,"type":13,"name":"バイル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":19.8,"real_posy":38,"posx":19.8,"posy":38},
 	{"id":"2","inid":5,"type":5,"name":"キド","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":33.47,"real_posy":48.44,"posx":33.47,"posy":48.44},
 	{"id":"3","inid":3,"type":15,"name":"地上の案内人","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":10.34,"real_posy":36.69,"posx":10.34,"posy":36.69},
 	{"id":"4","inid":4,"type":1,"name":"城の守護兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":28.95,"real_posy":41.81,"posx":28.95,"posy":41.81},

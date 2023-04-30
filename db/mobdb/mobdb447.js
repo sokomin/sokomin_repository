@@ -1,9 +1,13 @@
 MobData = {
-447: []};
+	447: [ ]};
+MobList = {
+	447: ["モンスター", ],
+};
+
 AreaData = {
-447: [{ id: "0",name:"none",area_name:"_필드 전체",type:0,posx:0.00,posx2:0.00,access_map:"none",posy:0.00,posy2:0.00,is_secret:0},
-{ id: "1",name:"none",area_name:"_화면",type:0,posx:0.00,posx2:0.00,access_map:"none",posy:0.00,posy2:0.00,is_secret:0},
-{ id: "2",name:"none",area_name:"本棚の秘密の部屋",type:12,posx:211.20,posx2:234.24,access_map:"none",posy:18.62,posy2:42.71,is_secret:0},
-{ id: "3",name:"none",area_name:"合成に関する書の保管場所",type:12,posx:111.20,posx2:131.05,access_map:"none",posy:57.55,posy2:76.89,is_secret:0},
-{ id: "4",name:"地下水路　Ｂ３",area_name:"3층으로",type:3,posx:30.86,posx2:38.87,access_map:"[413]T01_D01_B03.rmd",posy:18.68,posy2:23.11,is_secret:0},
+	447: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	{"id":"2","type":12,"name":"本棚の秘密の部屋","access_map":"","is_secret":0,"real_posx":50.69,"real_posx2":56.22,"real_posy":17.88,"real_posy2":41,"posx":211.2,"posx2":234.24,"posy":37.24,"posy2":85.42},
+	{"id":"3","type":12,"name":"合成に関する書の保管場所","access_map":"","is_secret":0,"real_posx":26.69,"real_posx2":31.45,"real_posy":55.25,"real_posy2":73.81,"posx":111.2,"posx2":131.05,"posy":115.1,"posy2":153.78},
+	{"id":"4","type":3,"name":"3층으로","access_map":"[413]T01_D01_B03.rmd","is_secret":0,"real_posx":7.41,"real_posx2":9.33,"real_posy":17.94,"real_posy2":22.19,"posx":30.86,"posx2":38.87,"posy":37.37,"posy2":46.22},
 ]};

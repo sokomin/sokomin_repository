@@ -253,20 +253,16 @@ MobData = {
 	{"id":"251","inid":2,"type":2,"name":"幽霊鎧","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":77.97,"real_posy":138.53,"posx":233.91,"posy":207.8},
 	{"id":"252","inid":0,"type":2,"name":"装甲ボーンキメラ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":66.8,"real_posy":135.34,"posx":200.39,"posy":203.02},
 	{"id":"253","inid":0,"type":2,"name":"装甲ボーンキメラ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":79.69,"real_posy":132.38,"posx":239.06,"posy":198.56},
-	{"id":"254","inid":3,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":173.23,"real_posy":174.41,"posx":519.7,"posy":261.61},
-	{"id":"255","inid":4,"type":1,"name":"アレック","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":172.91,"real_posy":184.03,"posx":518.72,"posy":276.05},
-	{"id":"257","inid":5,"type":2,"name":"ねじれたコネクタ","repop":120,"id_area":26,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":114.36,"real_posy":21.44,"posx":343.08,"posy":32.16},
 ]};
 MobList = {
-	843: ["モンスター", "装甲ボーンキメラ","アデッドロック","幽霊鎧","ミラーテレポータ","アレック","ねじれたコネクタ",],
+	843: ["モンスター", "装甲ボーンキメラ","アデッドロック","幽霊鎧",],
 };
 
 AreaData = {
 	843: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","access_map":"","is_secret":0,"real_posx":181.53,"real_posx2":182.52,"real_posy":182.22,"real_posy2":183.66,"posx":544.59,"posx2":547.55,"posy":273.33,"posy2":275.48},
-	{"id":"3","type":3,"name":"롱테일 근교 사냥터 가는길","access_map":"[792]G01.rmd","is_secret":0,"real_posx":180.8,"real_posx2":183.28,"real_posy":180.88,"real_posy2":185.09,"posx":542.39,"posx2":549.84,"posy":271.31,"posy2":277.64},
-	{"id":"4","type":3,"name":"지하묘지B2 가는길","access_map":"[829]D01_02.rmd","is_secret":0,"real_posx":25.34,"real_posx2":28.11,"real_posy":35.31,"real_posy2":39.94,"posx":76.03,"posx2":84.33,"posy":52.97,"posy2":59.91},
+	{"id":"3","type":3,"name":"원본 필드로","access_map":"[828]D01_01.rmd","is_secret":0,"real_posx":180.8,"real_posx2":183.28,"real_posy":180.88,"real_posy2":185.09,"posx":542.39,"posx2":549.84,"posy":271.31,"posy2":277.64},
 	{"id":"5","type":6,"name":"捨てられた南の墓地","access_map":"","is_secret":0,"real_posx":27.56,"real_posx2":28.28,"real_posy":154.25,"real_posy2":155.69,"posx":82.69,"posx2":84.84,"posy":231.38,"posy2":233.53},
 	{"id":"6","type":6,"name":"亡霊たちの徘徊する墓地","access_map":"","is_secret":0,"real_posx":85.52,"real_posx2":86.27,"real_posy":113.88,"real_posy2":114.72,"posx":256.55,"posx2":258.8,"posy":170.81,"posy2":172.08},
 	{"id":"7","type":6,"name":"忘れられた東の墓地","access_map":"","is_secret":0,"real_posx":160.61,"real_posx2":161.3,"real_posy":36.88,"real_posy2":37.41,"posx":481.83,"posx2":483.89,"posy":55.31,"posy2":56.11},
@@ -281,12 +277,4 @@ AreaData = {
 	{"id":"16","type":4,"name":"보물 상자 07","access_map":"","is_secret":0,"real_posx":115.22,"real_posx2":167.64,"real_posy":35.31,"real_posy2":82.03,"posx":345.66,"posx2":502.92,"posy":52.97,"posy2":123.05},
 	{"id":"17","type":4,"name":"보물 상자 08","access_map":"","is_secret":0,"real_posx":110.91,"real_posx2":182.09,"real_posy":84.53,"real_posy2":129.38,"posx":332.72,"posx2":546.28,"posy":126.8,"posy2":194.06},
 	{"id":"18","type":4,"name":"보물 상자 09","access_map":"","is_secret":0,"real_posx":127.34,"real_posx2":184.38,"real_posy":133.78,"real_posy2":176.13,"posx":382.03,"posx2":553.13,"posy":200.67,"posy2":264.19},
-	{"id":"19","type":0,"name":"NPC 알렉","access_map":"","is_secret":0,"real_posx":172.03,"real_posx2":173.98,"real_posy":181.56,"real_posy2":185.44,"posx":516.09,"posx2":521.95,"posy":272.34,"posy2":278.16},
-	{"id":"20","type":12,"name":"Area 19","access_map":"","is_secret":0,"real_posx":167.34,"real_posx2":170,"real_posy":140.47,"real_posy2":145.81,"posx":502.03,"posx2":510,"posy":210.7,"posy2":218.72},
-	{"id":"21","type":12,"name":"Area 20","access_map":"","is_secret":0,"real_posx":179.66,"real_posx2":182.44,"real_posy":166.44,"real_posy2":171.59,"posx":538.97,"posx2":547.31,"posy":249.66,"posy2":257.39},
-	{"id":"22","type":12,"name":"Area 21","access_map":"","is_secret":0,"real_posx":140.88,"real_posx2":147.3,"real_posy":111.03,"real_posy2":123.13,"posx":422.63,"posx2":441.89,"posy":166.55,"posy2":184.69},
-	{"id":"23","type":12,"name":"Area 22","access_map":"","is_secret":0,"real_posx":126.28,"real_posx2":128.94,"real_posy":146.25,"real_posy2":151.06,"posx":378.84,"posx2":386.81,"posy":219.38,"posy2":226.59},
-	{"id":"24","type":0,"name":"기운 탐지","access_map":"","is_secret":0,"real_posx":98.5,"real_posx2":141.17,"real_posy":5.97,"real_posy2":34.91,"posx":295.5,"posx2":423.52,"posy":8.95,"posy2":52.36},
-	{"id":"25","type":12,"name":"Area 24","access_map":"","is_secret":0,"real_posx":108.47,"real_posx2":113.92,"real_posy":21.81,"real_posy2":31.13,"posx":325.41,"posx2":341.77,"posy":32.72,"posy2":46.69},
-	{"id":"26","type":4,"name":"비틀린 커넥터 출현","access_map":"","is_secret":0,"real_posx":113.39,"real_posx2":115.42,"real_posy":19,"real_posy2":23.25,"posx":340.17,"posx2":346.27,"posy":28.5,"posy2":34.88},
 ]};

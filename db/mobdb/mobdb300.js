@@ -160,5 +160,4 @@ AreaData = {
 	{"id":"73","type":12,"name":"巨大な魚の石像","access_map":"","is_secret":0,"real_posx":178.92,"real_posx2":182.45,"real_posy":91.97,"real_posy2":101.44,"posx":265.07,"posx2":270.3,"posy":68.06,"posy2":75.06},
 	{"id":"74","type":0,"name":"돌아오기","access_map":"","is_secret":0,"real_posx":45.36,"real_posx2":49,"real_posy":17.84,"real_posy2":24.78,"posx":67.2,"posx2":72.59,"posy":13.2,"posy2":18.34},
 	{"id":"75","type":0,"name":"절름발 모간의 망령","access_map":"","is_secret":0,"real_posx":199.55,"real_posx2":208.77,"real_posy":71.25,"real_posy2":86.13,"posx":295.63,"posx2":309.28,"posy":52.73,"posy2":63.73},
-	{"id":"82","type":4,"name":"Area 81","access_map":"","is_secret":0,"real_posx":201.55,"real_posx2":206.19,"real_posy":112.5,"real_posy2":119.69,"posx":298.59,"posx2":305.46,"posy":83.25,"posy2":88.57},
 ]};

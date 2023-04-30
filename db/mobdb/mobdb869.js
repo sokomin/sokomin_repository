@@ -336,10 +336,9 @@ MobData = {
 	{"id":"334","inid":3,"type":2,"name":"黒エルフ衛兵","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":127.53,"real_posy":46,"posx":469.44,"posy":84.54},
 	{"id":"335","inid":3,"type":2,"name":"黒エルフ衛兵","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":131.34,"real_posy":51.22,"posx":483.47,"posy":94.13},
 	{"id":"336","inid":3,"type":2,"name":"黒エルフ衛兵","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":128.5,"real_posy":56.78,"posx":473.01,"posy":104.35},
-	{"id":"337","inid":0,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":52.66,"real_posy":18.34,"posx":193.83,"posy":33.71},
 ]};
 MobList = {
-	869: ["モンスター", "ミラーテレポータ","収容所デモン","囚われた黒エルフ","黒エルフ衛兵","収容所狂魔","堕落エルフ",],
+	869: ["モンスター", "None.","収容所デモン","囚われた黒エルフ","黒エルフ衛兵","収容所狂魔","堕落エルフ",],
 };
 
 AreaData = {
@@ -352,5 +351,5 @@ AreaData = {
 	{"id":"6","type":4,"name":"보물 상자 05","access_map":"","is_secret":0,"real_posx":103.69,"real_posx2":142.13,"real_posy":15.63,"real_posy2":78.75,"posx":381.67,"posx2":523.16,"posy":28.72,"posy2":144.73},
 	{"id":"7","type":4,"name":"보물 상자 06","access_map":"","is_secret":0,"real_posx":103.3,"real_posx2":138.92,"real_posy":92,"real_posy2":151.38,"posx":380.23,"posx2":511.37,"posy":169.08,"posy2":278.2},
 	{"id":"8","type":5,"name":"시작 영역","access_map":"","is_secret":0,"real_posx":42.77,"real_posx2":45.61,"real_posy":12.75,"real_posy2":17.5,"posx":157.42,"posx2":167.89,"posy":23.43,"posy2":32.16},
-	{"id":"9","type":3,"name":"잊혀진 지하 수용소 B2으로","access_map":"[825]G16_D03_B03.rmd","is_secret":0,"real_posx":42.72,"real_posx2":45.53,"real_posy":12.47,"real_posy2":17.72,"posx":157.25,"posx2":167.6,"posy":22.92,"posy2":32.56},
+	{"id":"9","type":3,"name":"원본 필드로","access_map":"[826]G16_D03_B03.rmd","is_secret":0,"real_posx":42.72,"real_posx2":45.53,"real_posy":12.47,"real_posy2":17.72,"posx":157.25,"posx2":167.6,"posy":22.92,"posy2":32.56},
 ]};

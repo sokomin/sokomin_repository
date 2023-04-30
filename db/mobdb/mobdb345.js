@@ -91,10 +91,9 @@ MobData = {
 	{"id":"89","inid":1,"type":2,"name":"レッドアイ所員","repop":15,"id_area":26,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":87.66,"real_posy":12.34,"posx":350.63,"posy":24.69},
 	{"id":"90","inid":6,"type":2,"name":"ソウルガーダー","repop":40,"id_area":29,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":74.83,"real_posy":52.19,"posx":299.31,"posy":104.38},
 	{"id":"91","inid":5,"type":2,"name":"ソウルガーダー","repop":120,"id_area":30,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":71.41,"real_posy":46.13,"posx":285.63,"posy":92.25},
-	{"id":"92","inid":7,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":73.02,"real_posy":85.28,"posx":292.06,"posy":170.56},
 ]};
 MobList = {
-	345: ["モンスター", "レッドアイ信奉者","レッドアイ所員","デーモン","ビホルダー","ソウルガーダー","ソウルガーダー","ソウルガーダー","ミラーテレポータ",],
+	345: ["モンスター", "レッドアイ信奉者","レッドアイ所員","デーモン","ビホルダー","ソウルガーダー","ソウルガーダー","ソウルガーダー",],
 };
 
 AreaData = {

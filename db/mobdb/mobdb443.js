@@ -10,7 +10,7 @@ MobData = {
 	{"id":"8","inid":8,"type":1,"name":"子供","repop":120,"id_area":12,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":111.33,"real_posy":121.91,"posx":252.34,"posy":138.16},
 	{"id":"9","inid":9,"type":1,"name":"子供","repop":120,"id_area":13,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":106.47,"real_posy":121.53,"posx":241.33,"posy":137.74},
 	{"id":"10","inid":10,"type":1,"name":"リジドー","repop":120,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":63.27,"real_posy":85.06,"posx":143.4,"posy":96.4},
-	{"id":"11","inid":32,"type":13,"name":"ソオラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":111.53,"real_posy":113.16,"posx":252.8,"posy":128.24},
+	{"id":"11","inid":39,"type":13,"name":"ソオラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":111.53,"real_posy":113.16,"posx":252.8,"posy":128.24},
 	{"id":"12","inid":11,"type":21,"name":"ガトー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":75.08,"real_posy":108.94,"posx":170.18,"posy":123.46},
 	{"id":"13","inid":12,"type":11,"name":"ドリス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":37.03,"real_posy":102.19,"posx":83.94,"posy":115.81},
 	{"id":"14","inid":13,"type":11,"name":"ベルシ","repop":120,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":113.97,"real_posy":96.72,"posx":258.33,"posy":109.61},
@@ -30,10 +30,17 @@ MobData = {
 	{"id":"28","inid":29,"type":1,"name":"捜査員","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":35.25,"real_posy":16.66,"posx":79.9,"posy":18.88},
 	{"id":"29","inid":30,"type":1,"name":"村のお年寄り","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":57.09,"real_posy":8.44,"posx":129.41,"posy":9.56},
 	{"id":"30","inid":31,"type":1,"name":"ハナルン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":54.7,"real_posy":117.22,"posx":123.99,"posy":132.85},
-	{"id":"31","inid":33,"type":1,"name":"ラス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":87.63,"real_posy":41.31,"posx":198.62,"posy":46.82},
+	{"id":"31","inid":40,"type":1,"name":"ラス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":87.63,"real_posy":41.31,"posx":198.62,"posy":46.82},
+	{"id":"32","inid":32,"type":1,"name":"ユレル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":4.34,"real_posy":84.03,"posx":9.85,"posy":95.24},
+	{"id":"33","inid":33,"type":1,"name":"グリーク教司祭","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":6.05,"real_posy":127.34,"posx":13.71,"posy":144.32},
+	{"id":"34","inid":35,"type":1,"name":"農夫","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":9.22,"real_posy":125.5,"posx":20.9,"posy":142.23},
+	{"id":"35","inid":36,"type":1,"name":"グリーク教神父","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.88,"real_posy":129.81,"posx":17.85,"posy":147.12},
+	{"id":"36","inid":37,"type":1,"name":"青年","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":10.27,"real_posy":128.47,"posx":23.27,"posy":145.6},
+	{"id":"37","inid":38,"type":1,"name":"グリーク教聖騎士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":5.45,"real_posy":131,"posx":12.36,"posy":148.47},
+	{"id":"39","inid":34,"type":1,"name":"新米派遣隊員","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":35.78,"real_posy":120.34,"posx":81.1,"posy":136.39},
 ]};
 MobList = {
-	443: ["モンスター", "青年","青年","村娘","村娘","村長","おばさん","村娘","子供","子供","子供","リジドー","ガトー","ドリス","ベルシ","クレン","パーン","探検隊長エイダン","オグレン","ハント","コルボー","None.","ホーバン","ティルン","協会テレポーター","None.","マリナ","ハイジ","フィリップ","放浪の少女","捜査員","村のお年寄り","ハナルン","ソオラ","ラス",],
+	443: ["モンスター", "青年","青年","村娘","村娘","村長","おばさん","村娘","子供","子供","子供","リジドー","ガトー","ドリス","ベルシ","クレン","パーン","探検隊長エイダン","オグレン","ハント","コルボー","None.","ホーバン","ティルン","協会テレポーター","None.","マリナ","ハイジ","フィリップ","放浪の少女","捜査員","村のお年寄り","ハナルン","ユレル","グリーク教司祭","新米派遣隊員","農夫","グリーク教神父","青年","グリーク教聖騎士","ソオラ","ラス",],
 };
 
 AreaData = {
@@ -66,4 +73,6 @@ AreaData = {
 	{"id":"26","type":4,"name":"Q. 버서커 칭호 Lv.1","access_map":"","is_secret":0,"real_posx":73.84,"real_posx2":79.13,"real_posy":6.06,"real_posy2":13.34,"posx":167.38,"posx2":179.35,"posy":6.87,"posy2":15.12},
 	{"id":"27","type":12,"name":"井戸","access_map":"","is_secret":0,"real_posx":75.98,"real_posx2":78.88,"real_posy":91.97,"real_posy2":97,"posx":172.23,"posx2":178.78,"posy":104.23,"posy2":109.93},
 	{"id":"28","type":0,"name":"칭호 - 유대 ","access_map":"","is_secret":0,"real_posx":4.34,"real_posx2":10.83,"real_posy":20.03,"real_posy2":32.66,"posx":9.85,"posx2":24.54,"posy":22.7,"posy2":37.01},
+	{"id":"29","type":12,"name":"派遣のお知らせ","access_map":"","is_secret":0,"real_posx":9.05,"real_posx2":13.72,"real_posy":113.81,"real_posy2":121.16,"posx":20.51,"posx2":31.1,"posy":128.99,"posy2":137.31},
+	{"id":"30","type":0,"name":"npc보이기","access_map":"","is_secret":0,"real_posx":10.66,"real_posx2":12.66,"real_posy":145.94,"real_posy2":148.63,"posx":24.15,"posx2":28.69,"posy":165.4,"posy2":168.44},
 ]};

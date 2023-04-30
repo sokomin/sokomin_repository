@@ -112,10 +112,9 @@ MobData = {
 	{"id":"110","inid":7,"type":2,"name":"ラットキング","repop":40,"id_area":88,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":137.86,"real_posy":138.34,"posx":344.65,"posy":172.93},
 	{"id":"111","inid":7,"type":2,"name":"ラットキング","repop":40,"id_area":88,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":136.06,"real_posy":143.84,"posx":340.16,"posy":179.8},
 	{"id":"112","inid":4,"type":2,"name":"ジャンキー","repop":20,"id_area":68,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":96.84,"real_posy":55.06,"posx":242.11,"posy":68.83},
-	{"id":"113","inid":9,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":26.38,"real_posy":8.13,"posx":65.94,"posy":10.16},
 ]};
 MobList = {
-	515: ["モンスター", "ラットキング","流れ込んだクラゲ","ファントム","腐った死体","ジャンキー","流れ込んだ亀","ラットキング","ラットキング","None.","ミラーテレポータ",],
+	515: ["モンスター", "ラットキング","流れ込んだクラゲ","ファントム","腐った死体","ジャンキー","流れ込んだ亀","ラットキング","ラットキング",],
 };
 
 AreaData = {

@@ -115,12 +115,6 @@ MobData = {
 	{"id":"113","inid":3,"type":2,"name":"重罪人","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":119.33,"real_posy":64.53,"posx":439.24,"posy":118.6},
 	{"id":"114","inid":3,"type":2,"name":"重罪人","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":114.53,"real_posy":69.91,"posx":421.59,"posy":128.48},
 	{"id":"115","inid":3,"type":2,"name":"重罪人","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":111.75,"real_posy":72.66,"posx":411.35,"posy":133.53},
-	{"id":"116","inid":7,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":10.67,"real_posy":14.5,"posx":39.28,"posy":26.65},
-	{"id":"117","inid":8,"type":1,"name":"カメル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.5,"real_posy":19.5,"posx":68.1,"posy":35.84},
-	{"id":"118","inid":9,"type":1,"name":"看守","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":9.2,"real_posy":110.09,"posx":33.88,"posy":202.33},
-	{"id":"119","inid":10,"type":1,"name":"名もなき存在","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":122.97,"real_posy":133.94,"posx":452.65,"posy":246.16},
-	{"id":"120","inid":12,"type":1,"name":"レイン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":5.56,"real_posy":20.09,"posx":20.48,"posy":36.93},
-	{"id":"121","inid":11,"type":1,"name":"謎の存在","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.58,"real_posy":23.84,"posx":90.47,"posy":43.82},
 	{"id":"127","inid":6,"type":2,"name":"スペクター","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":48.45,"real_posy":39.25,"posx":178.36,"posy":72.14},
 	{"id":"128","inid":6,"type":2,"name":"スペクター","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.81,"real_posy":43.75,"posx":168.63,"posy":80.41},
 	{"id":"129","inid":6,"type":2,"name":"スペクター","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":50.81,"real_posy":44.81,"posx":187.04,"posy":82.36},
@@ -311,7 +305,7 @@ MobData = {
 	{"id":"314","inid":3,"type":2,"name":"重罪人","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":5.08,"real_posy":120.63,"posx":18.69,"posy":221.69},
 ]};
 MobList = {
-	859: ["モンスター", "蘇った骸骨","腐乱屍鬼","怨念の亡霊","重罪人","デスマスク","アークリッチ","スペクター","ミラーテレポータ","カメル","看守","名もなき存在","謎の存在","レイン",],
+	859: ["モンスター", "蘇った骸骨","腐乱屍鬼","怨念の亡霊","重罪人","デスマスク","アークリッチ","スペクター",],
 };
 
 AreaData = {
@@ -324,10 +318,9 @@ AreaData = {
 	{"id":"6","type":2,"name":"Area 5","access_map":"","is_secret":0,"real_posx":54.44,"real_posx2":57.55,"real_posy":159.72,"real_posy2":165.06,"posx":200.38,"posx2":211.83,"posy":293.54,"posy2":303.36},
 	{"id":"7","type":2,"name":"Area 6","access_map":"","is_secret":0,"real_posx":41.77,"real_posx2":45.52,"real_posy":124.31,"real_posy2":130.03,"posx":153.74,"posx2":167.54,"posy":228.47,"posy2":238.98},
 	{"id":"8","type":5,"name":"시작 영역","access_map":"","is_secret":0,"real_posx":0.77,"real_posx2":3.05,"real_posy":6.91,"real_posy2":10.66,"posx":2.82,"posx2":11.22,"posy":12.69,"posy2":19.58},
-	{"id":"9","type":3,"name":"롱테일로","access_map":"[791]T02.rmd","is_secret":0,"real_posx":0.69,"real_posx2":2.91,"real_posy":6.53,"real_posy2":10.38,"posx":2.53,"posx2":10.7,"posy":12,"posy2":19.07},
+	{"id":"9","type":3,"name":"원본필드로","access_map":"[824]G16_D03_B03.rmd","is_secret":0,"real_posx":0.69,"real_posx2":2.91,"real_posy":6.53,"real_posy2":10.38,"posx":2.53,"posx2":10.7,"posy":12,"posy2":19.07},
 	{"id":"10","type":6,"name":"分離区域A","access_map":"","is_secret":0,"real_posx":45.91,"real_posx2":49.34,"real_posy":52.88,"real_posy2":58.81,"posx":168.98,"posx2":181.63,"posy":97.18,"posy2":108.09},
 	{"id":"11","type":6,"name":"分離区域B","access_map":"","is_secret":0,"real_posx":110.89,"real_posx2":116.13,"real_posy":118.72,"real_posy2":126.03,"posx":408.19,"posx2":427.45,"posy":218.19,"posy2":231.63},
-	{"id":"12","type":3,"name":"잊혀진 지하 수용소 B2로","access_map":"[825]G16_D03_B03.rmd","is_secret":0,"real_posx":148.64,"real_posx2":151.41,"real_posy":158.91,"real_posy2":163.09,"posx":547.14,"posx2":557.32,"posy":292.04,"posy2":299.74},
 	{"id":"13","type":4,"name":"보물상자용01","access_map":"","is_secret":0,"real_posx":10.91,"real_posx2":38.06,"real_posy":31.84,"real_posy2":64.63,"posx":40.15,"posx2":140.11,"posy":58.52,"posy2":118.77},
 	{"id":"14","type":4,"name":"보물상자용02","access_map":"","is_secret":0,"real_posx":41.13,"real_posx2":66.84,"real_posy":17.91,"real_posy2":50.28,"posx":151.38,"posx2":246.05,"posy":32.91,"posy2":92.41},
 	{"id":"15","type":4,"name":"보물상자용03","access_map":"","is_secret":0,"real_posx":20.63,"real_posx2":47.08,"real_posy":70.22,"real_posy2":102.09,"posx":75.92,"posx2":173.29,"posy":129.05,"posy2":187.63},
@@ -337,13 +330,6 @@ AreaData = {
 	{"id":"19","type":4,"name":"보물상자용07","access_map":"","is_secret":0,"real_posx":90.25,"real_posx2":118.38,"real_posy":82.94,"real_posy2":129.19,"posx":332.21,"posx2":435.74,"posy":152.43,"posy2":237.43},
 	{"id":"20","type":4,"name":"보물상자용08","access_map":"","is_secret":0,"real_posx":119.86,"real_posx2":153.84,"real_posy":77.63,"real_posy2":124.97,"posx":441.2,"posx2":566.3,"posy":142.66,"posy2":229.67},
 	{"id":"21","type":4,"name":"보물상자용09","access_map":"","is_secret":0,"real_posx":109.7,"real_posx2":145.95,"real_posy":131.53,"real_posy2":158.25,"posx":403.82,"posx2":537.25,"posy":241.73,"posy2":290.84},
-	{"id":"22","type":12,"name":"忘れられた1","access_map":"","is_secret":0,"real_posx":38.98,"real_posx2":42.3,"real_posy":55.91,"real_posy2":61.38,"posx":143.5,"posx2":155.69,"posy":102.75,"posy2":112.8},
-	{"id":"23","type":12,"name":"忘れられた2","access_map":"","is_secret":0,"real_posx":52.95,"real_posx2":55.89,"real_posy":74.47,"real_posy2":80,"posx":194.92,"posx2":205.73,"posy":136.86,"posy2":147.03},
-	{"id":"24","type":12,"name":"忘れられた3","access_map":"","is_secret":0,"real_posx":66.27,"real_posx2":68.91,"real_posy":44.47,"real_posy2":48.59,"posx":243.92,"posx2":253.64,"posy":81.73,"posy2":89.31},
-	{"id":"25","type":12,"name":"物資1","access_map":"","is_secret":0,"real_posx":25.83,"real_posx2":29.41,"real_posy":16.78,"real_posy2":21.69,"posx":95.07,"posx2":108.24,"posy":30.84,"posy2":39.86},
 	{"id":"26","type":0,"name":"간수","access_map":"","is_secret":0,"real_posx":0.2,"real_posx2":38.22,"real_posy":82.06,"real_posy2":150.81,"posx":0.75,"posx2":140.68,"posy":150.82,"posy2":277.17},
-	{"id":"27","type":12,"name":"物資2","access_map":"","is_secret":0,"real_posx":47.73,"real_posx2":50.64,"real_posy":14.16,"real_posy2":21.03,"posx":175.71,"posx2":186.41,"posy":26.02,"posy2":38.65},
-	{"id":"28","type":12,"name":"物資3","access_map":"","is_secret":0,"real_posx":46.02,"real_posx2":49.64,"real_posy":31.03,"real_posy2":37.84,"posx":169.38,"posx2":182.73,"posy":57.03,"posy2":69.55},
-	{"id":"29","type":12,"name":"本物の物資","access_map":"","is_secret":0,"real_posx":78.89,"real_posx2":82.36,"real_posy":81.81,"real_posy2":87.88,"posx":290.39,"posx2":303.16,"posy":150.36,"posy2":161.5},
 	{"id":"30","type":0,"name":"의문","access_map":"","is_secret":0,"real_posx":12.41,"real_posx2":39.84,"real_posy":7.5,"real_posy2":46.06,"posx":45.67,"posx2":146.66,"posy":13.78,"posy2":84.66},
 ]};

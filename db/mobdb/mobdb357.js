@@ -78,10 +78,9 @@ MobData = {
 	{"id":"76","inid":7,"type":2,"name":"デスナイト","repop":25,"id_area":45,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.89,"real_posy":70.31,"posx":99.56,"posy":140.63},
 	{"id":"77","inid":7,"type":2,"name":"デスナイト","repop":25,"id_area":45,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":33.59,"real_posy":73.97,"posx":134.38,"posy":147.94},
 	{"id":"78","inid":6,"type":2,"name":"デスナイト","repop":120,"id_area":46,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.73,"real_posy":74.22,"posx":114.94,"posy":148.44},
-	{"id":"79","inid":8,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":17.86,"real_posy":42.25,"posx":71.44,"posy":84.5},
 ]};
 MobList = {
-	357: ["モンスター", "レッドアイ所員","ガーディアン","メタルゴーレム","ロックゴーレム","ガーディアン","デスナイト","デスナイト","デスナイト","ミラーテレポータ",],
+	357: ["モンスター", "レッドアイ所員","ガーディアン","メタルゴーレム","ロックゴーレム","ガーディアン","デスナイト","デスナイト","デスナイト",],
 };
 
 AreaData = {

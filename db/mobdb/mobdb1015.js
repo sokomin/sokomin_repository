@@ -234,4 +234,9 @@ AreaData = {
 	{"id":"33","type":6,"name":"水晶の回廊","access_map":"","is_secret":0,"real_posx":51.38,"real_posx2":55.31,"real_posy":139.13,"real_posy2":145.63,"posx":123.3,"posx2":132.75,"posy":166.95,"posy2":174.75},
 	{"id":"34","type":6,"name":"洞窟人集落","access_map":"","is_secret":0,"real_posx":163.69,"real_posx2":168.06,"real_posy":127.38,"real_posy2":135.25,"posx":392.85,"posx2":403.35,"posy":152.85,"posy2":162.3},
 	{"id":"35","type":6,"name":"地下の花園","access_map":"","is_secret":0,"real_posx":154.25,"real_posx2":158,"real_posy":37.63,"real_posy2":43.63,"posx":370.2,"posx2":379.2,"posy":45.15,"posy2":52.35},
+	{"id":"36","type":12,"name":"実験 3","access_map":"","is_secret":0,"real_posx":115.58,"real_posx2":117.75,"real_posy":39.28,"real_posy2":43.03,"posx":277.39,"posx2":282.6,"posy":47.14,"posy2":51.64},
+	{"id":"37","type":12,"name":"実験 2","access_map":"","is_secret":0,"real_posx":147.28,"real_posx2":149.84,"real_posy":57.88,"real_posy2":61.84,"posx":353.48,"posx2":359.63,"posy":69.45,"posy2":74.21},
+	{"id":"38","type":12,"name":"実験 1","access_map":"","is_secret":0,"real_posx":179.42,"real_posx2":181.94,"real_posy":71.72,"real_posy2":76.19,"posx":430.61,"posx2":436.65,"posy":86.06,"posy2":91.43},
+	{"id":"39","type":12,"name":"実験段階","access_map":"","is_secret":0,"real_posx":194.06,"real_posx2":196.69,"real_posy":7.06,"real_posy2":12.16,"posx":465.75,"posx2":472.05,"posy":8.48,"posy2":14.59},
+	{"id":"40","type":0,"name":"퀘스트","access_map":"","is_secret":0,"real_posx":175.41,"real_posx2":200.03,"real_posy":0.13,"real_posy2":39.38,"posx":420.98,"posx2":480.08,"posy":0.15,"posy2":47.25},
 ]};

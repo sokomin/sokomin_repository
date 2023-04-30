@@ -269,4 +269,5 @@ AreaData = {
 	{"id":"64","type":12,"name":"それぞれの役割3","access_map":"","is_secret":0,"real_posx":231.36,"real_posx2":234.31,"real_posy":18.31,"real_posy2":24.91,"posx":434.39,"posx2":439.93,"posy":16.65,"posy2":22.64},
 	{"id":"65","type":12,"name":"それぞれの役割4","access_map":"","is_secret":0,"real_posx":226.23,"real_posx2":229.97,"real_posy":39.78,"real_posy2":47.16,"posx":424.77,"posx2":431.78,"posy":36.16,"posy2":42.87},
 	{"id":"66","type":2,"name":"Area 65","access_map":"","is_secret":1,"real_posx":234.33,"real_posx2":238.69,"real_posy":1.34,"real_posy2":9.81,"posx":439.96,"posx2":448.15,"posy":1.22,"posy2":8.92},
+	{"id":"67","type":3,"name":"차원의 콩 아일랜드로","access_map":"[611]G30_H01_B03.rmd","is_secret":0,"real_posx":237.17,"real_posx2":239.75,"real_posy":203,"real_posy2":208.13,"posx":445.3,"posx2":450.14,"posy":184.55,"posy2":189.2},
 ]};

@@ -27,6 +27,7 @@ MobData = {
 	{"id":"25","inid":8,"type":2,"name":"彷徨いの妖精","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":381.59,"real_posy":300.25,"posx":610.55,"posy":240.2},
 	{"id":"26","inid":5,"type":2,"name":"共鳴する妖精","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":389.13,"real_posy":307.06,"posx":622.6,"posy":245.65},
 	{"id":"27","inid":0,"type":2,"name":"夜の生霊","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":362.03,"real_posy":380.75,"posx":579.25,"posy":304.6},
+	{"id":"28","inid":13,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":258.42,"real_posy":209.56,"posx":413.48,"posy":167.65},
 	{"id":"29","inid":0,"type":2,"name":"夜の生霊","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":328.34,"real_posy":397,"posx":525.35,"posy":317.6},
 	{"id":"30","inid":0,"type":2,"name":"夜の生霊","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":331.53,"real_posy":383.56,"posx":530.45,"posy":306.85},
 	{"id":"31","inid":0,"type":2,"name":"夜の生霊","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":320.52,"real_posy":368.28,"posx":512.83,"posy":294.63},
@@ -50,8 +51,8 @@ MobData = {
 	{"id":"49","inid":5,"type":2,"name":"共鳴する妖精","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":388.03,"real_posy":373.44,"posx":620.85,"posy":298.75},
 	{"id":"50","inid":8,"type":2,"name":"彷徨いの妖精","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":381.72,"real_posy":379,"posx":610.75,"posy":303.2},
 	{"id":"51","inid":7,"type":2,"name":"漆黒のスミロドン","repop":1500,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":217.09,"real_posy":252.34,"posx":347.35,"posy":201.88},
-	{"id":"52","inid":12,"type":2,"name":"夜の妖精","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":301.08,"real_posy":304.34,"posx":481.73,"posy":243.48},
-	{"id":"53","inid":13,"type":2,"name":"夜の妖精","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":298.19,"real_posy":319.06,"posx":477.1,"posy":255.25},
+	{"id":"52","inid":14,"type":2,"name":"夜の妖精","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":301.08,"real_posy":304.34,"posx":481.73,"posy":243.48},
+	{"id":"53","inid":15,"type":2,"name":"夜の妖精","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":298.19,"real_posy":319.06,"posx":477.1,"posy":255.25},
 	{"id":"54","inid":9,"type":2,"name":"純白のスミロドン","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":213.59,"real_posy":253.06,"posx":341.75,"posy":202.45},
 	{"id":"55","inid":9,"type":2,"name":"純白のスミロドン","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":220.81,"real_posy":253.44,"posx":353.3,"posy":202.75},
 	{"id":"56","inid":1,"type":2,"name":"ジャガー","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":202.55,"real_posy":276.97,"posx":324.08,"posy":221.58},
@@ -527,7 +528,7 @@ MobData = {
 	{"id":"572","inid":5,"type":2,"name":"共鳴する妖精","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":242.75,"real_posy":63.41,"posx":388.4,"posy":50.73},
 ]};
 MobList = {
-	1026: ["モンスター", "夜の生霊","ジャガー","アルファジャガー","エルダージャガー","夜の賢者","共鳴する妖精","ルックスパトス","漆黒のスミロドン","彷徨いの妖精","純白のスミロドン","スミロドン","自爆ヘルパー","夜の妖精","夜の妖精",],
+	1026: ["モンスター", "夜の生霊","ジャガー","アルファジャガー","エルダージャガー","夜の賢者","共鳴する妖精","ルックスパトス","漆黒のスミロドン","彷徨いの妖精","純白のスミロドン","スミロドン","自爆ヘルパー","None.","ミラーテレポータ","夜の妖精","夜の妖精",],
 };
 
 AreaData = {

@@ -158,10 +158,9 @@ MobData = {
 	{"id":"156","inid":8,"type":2,"name":"デスピンサー","repop":40,"id_area":43,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":123.17,"real_posy":139.31,"posx":351.92,"posy":199.22},
 	{"id":"157","inid":8,"type":2,"name":"デスピンサー","repop":40,"id_area":43,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":120.53,"real_posy":148.97,"posx":344.38,"posy":213.03},
 	{"id":"158","inid":6,"type":2,"name":"デスピンサー","repop":120,"id_area":44,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":119.14,"real_posy":141.88,"posx":340.4,"posy":202.88},
-	{"id":"159","inid":9,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":95.75,"real_posy":89.5,"posx":273.57,"posy":127.99},
 ]};
 MobList = {
-	330: ["モンスター", "エボニーガゴイル","エボニーガゴイル","ソーサラー","ソーサラー","デスピンサー","オニキスガゴイル","デスピンサー","デスピンサー","デスピンサー","ミラーテレポータ",],
+	330: ["モンスター", "エボニーガゴイル","エボニーガゴイル","ソーサラー","ソーサラー","デスピンサー","オニキスガゴイル","デスピンサー","デスピンサー","デスピンサー",],
 };
 
 AreaData = {

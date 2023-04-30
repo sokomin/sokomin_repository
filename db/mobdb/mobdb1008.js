@@ -9,16 +9,22 @@ MobData = {
 	{"id":"7","inid":9,"type":2,"name":"迷える妖精","repop":30,"id_area":30,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.55,"real_posy":105.16,"posx":72.88,"posy":84.13},
 	{"id":"8","inid":9,"type":2,"name":"迷える妖精","repop":30,"id_area":30,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":65.23,"real_posy":105,"posx":104.38,"posy":84},
 	{"id":"9","inid":5,"type":2,"name":"キャラガル","repop":30,"id_area":33,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.33,"real_posy":71.09,"posx":22.93,"posy":56.88},
+	{"id":"10","inid":20,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":162.28,"real_posy":213.47,"posx":259.65,"posy":170.78},
+	{"id":"11","inid":21,"type":2,"name":"精鋭スミロドン","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":140.77,"real_posy":178.63,"posx":225.23,"posy":142.9},
 	{"id":"12","inid":6,"type":2,"name":"アルファジャガー","repop":30,"id_area":31,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":46.78,"real_posy":82.91,"posx":74.85,"posy":66.33},
 	{"id":"13","inid":5,"type":2,"name":"キャラガル","repop":30,"id_area":31,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":42.83,"real_posy":79,"posx":68.53,"posy":63.2},
+	{"id":"14","inid":21,"type":2,"name":"精鋭スミロドン","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":145.39,"real_posy":178.5,"posx":232.63,"posy":142.8},
 	{"id":"15","inid":5,"type":2,"name":"キャラガル","repop":30,"id_area":32,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":79.5,"real_posy":84.69,"posx":127.2,"posy":67.75},
 	{"id":"16","inid":6,"type":2,"name":"アルファジャガー","repop":30,"id_area":32,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":75.08,"real_posy":81.41,"posx":120.13,"posy":65.13},
 	{"id":"17","inid":6,"type":2,"name":"アルファジャガー","repop":30,"id_area":32,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":86.73,"real_posy":82.19,"posx":138.78,"posy":65.75},
+	{"id":"18","inid":21,"type":2,"name":"精鋭スミロドン","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":150.94,"real_posy":178.75,"posx":241.5,"posy":143},
 	{"id":"19","inid":6,"type":2,"name":"アルファジャガー","repop":30,"id_area":29,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":103,"real_posy":73.81,"posx":164.8,"posy":59.05},
 	{"id":"20","inid":6,"type":2,"name":"アルファジャガー","repop":30,"id_area":29,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":101.03,"real_posy":92.56,"posx":161.65,"posy":74.05},
+	{"id":"21","inid":21,"type":2,"name":"精鋭スミロドン","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":142.94,"real_posy":185.38,"posx":228.7,"posy":148.3},
 	{"id":"22","inid":6,"type":2,"name":"アルファジャガー","repop":30,"id_area":27,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.23,"real_posy":40.59,"posx":46.78,"posy":32.48},
 	{"id":"23","inid":6,"type":2,"name":"アルファジャガー","repop":30,"id_area":27,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":31.11,"real_posy":46.06,"posx":49.78,"posy":36.85},
 	{"id":"24","inid":6,"type":2,"name":"アルファジャガー","repop":30,"id_area":26,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":23.81,"real_posy":23.5,"posx":38.1,"posy":18.8},
+	{"id":"25","inid":21,"type":2,"name":"精鋭スミロドン","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":148.17,"real_posy":185.63,"posx":237.08,"posy":148.5},
 	{"id":"26","inid":7,"type":2,"name":"ジャガー","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":36.19,"real_posy":85.88,"posx":57.9,"posy":68.7},
 	{"id":"27","inid":7,"type":2,"name":"ジャガー","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":60.19,"real_posy":64,"posx":96.3,"posy":51.2},
 	{"id":"28","inid":7,"type":2,"name":"ジャガー","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":65.88,"real_posy":64.5,"posx":105.4,"posy":51.6},
@@ -438,7 +444,7 @@ MobData = {
 	{"id":"506","inid":14,"type":1,"name":"カイリン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":81.27,"real_posy":261.69,"posx":130.03,"posy":209.35},
 ]};
 MobList = {
-	1008: ["モンスター", "イニグ族の女戦士","イニグ族の呪術者","イニグ族の狩人","スミロドン","スノウスミロドン","キャラガル","アルファジャガー","ジャガー","ウィルオウィスプ","迷える妖精","森の賢者","自爆ヘルパー","リヤン","ハイドネル","カイリン","ヘイズ","負傷した守護者","歌う妖精","乱暴な猛獣",],
+	1008: ["モンスター", "イニグ族の女戦士","イニグ族の呪術者","イニグ族の狩人","スミロドン","スノウスミロドン","キャラガル","アルファジャガー","ジャガー","ウィルオウィスプ","迷える妖精","森の賢者","自爆ヘルパー","リヤン","ハイドネル","カイリン","ヘイズ","負傷した守護者","歌う妖精","乱暴な猛獣","None.","ミラーテレポータ","精鋭スミロドン",],
 };
 
 AreaData = {

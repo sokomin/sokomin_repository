@@ -409,7 +409,7 @@ AreaData = {
 	{"id":"137","type":12,"name":"古代の結晶体36","access_map":"","is_secret":0,"real_posx":168.28,"real_posx2":171.33,"real_posy":31.63,"real_posy2":39.44,"posx":210.35,"posx2":214.16,"posy":19.78,"posy2":24.67},
 	{"id":"138","type":12,"name":"古代の結晶体37","access_map":"","is_secret":0,"real_posx":79.08,"real_posx2":82.38,"real_posy":27.34,"real_posy2":34.66,"posx":98.85,"posx2":102.97,"posy":17.1,"posy2":21.68},
 	{"id":"139","type":12,"name":"古代の結晶体38","access_map":"","is_secret":0,"real_posx":102.39,"real_posx2":105.48,"real_posy":38.03,"real_posy2":45.34,"posx":127.99,"posx2":131.86,"posy":23.79,"posy2":28.36},
-	{"id":"140","type":3,"name":"古代の結晶体39","access_map":"[781]M31.rmd","is_secret":0,"real_posx":1.52,"real_posx2":3.98,"real_posy":73.84,"real_posy2":78.28,"posx":1.89,"posx2":4.98,"posy":46.19,"posy2":48.96},
+	{"id":"140","type":3,"name":"古代の結晶体39","access_map":"[781]H01.rmd","is_secret":0,"real_posx":1.52,"real_posx2":3.98,"real_posy":73.84,"real_posy2":78.28,"posx":1.89,"posx2":4.98,"posy":46.19,"posy2":48.96},
 	{"id":"141","type":12,"name":"古代の結晶体40","access_map":"","is_secret":0,"real_posx":115.03,"real_posx2":118.33,"real_posy":75.75,"real_posy2":83.44,"posx":143.79,"posx2":147.91,"posy":47.38,"posy2":52.19},
 	{"id":"142","type":12,"name":"古代の結晶体41","access_map":"","is_secret":0,"real_posx":339.7,"real_posx2":343.3,"real_posy":34.72,"real_posy2":40.78,"posx":424.63,"posx2":429.12,"posy":21.72,"posy2":25.51},
 	{"id":"144","type":12,"name":"古代の結晶体43","access_map":"","is_secret":0,"real_posx":299.23,"real_posx2":302.28,"real_posy":100.69,"real_posy2":107.09,"posx":374.04,"posx2":377.85,"posy":62.98,"posy2":66.98},

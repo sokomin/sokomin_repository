@@ -47,9 +47,14 @@ MobData = {
 	{"id":"45","inid":8,"type":2,"name":"アンガーデット","repop":120,"id_area":43,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.28,"real_posy":124.84,"posx":41.28,"posy":124.84},
 	{"id":"46","inid":1,"type":2,"name":"不滅のキメラ","repop":120,"id_area":53,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":50.78,"real_posy":111.88,"posx":50.78,"posy":111.88},
 	{"id":"47","inid":8,"type":2,"name":"アンガーデット","repop":120,"id_area":48,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":49.42,"real_posy":99.59,"posx":49.42,"posy":99.59},
+	{"id":"48","inid":0,"type":2,"name":"精鋭コネクター","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":134.14,"real_posy":92.09,"posx":134.14,"posy":92.09},
+	{"id":"49","inid":0,"type":2,"name":"精鋭コネクター","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":134.98,"real_posy":101.38,"posx":134.98,"posy":101.38},
 	{"id":"50","inid":1,"type":2,"name":"不滅のキメラ","repop":40,"id_area":43,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":39.2,"real_posy":126.97,"posx":39.2,"posy":126.97},
 	{"id":"51","inid":8,"type":2,"name":"アンガーデット","repop":40,"id_area":44,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.22,"real_posy":132.47,"posx":29.22,"posy":132.47},
 	{"id":"52","inid":8,"type":2,"name":"アンガーデット","repop":40,"id_area":44,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":26.23,"real_posy":126.91,"posx":26.23,"posy":126.91},
+	{"id":"53","inid":0,"type":2,"name":"精鋭コネクター","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":129.98,"real_posy":92.78,"posx":129.98,"posy":92.78},
+	{"id":"54","inid":0,"type":2,"name":"精鋭コネクター","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":131,"real_posy":101.88,"posx":131,"posy":101.88},
+	{"id":"55","inid":0,"type":2,"name":"精鋭コネクター","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":125.39,"real_posy":95.09,"posx":125.39,"posy":95.09},
 	{"id":"62","inid":1,"type":2,"name":"不滅のキメラ","repop":40,"id_area":45,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.22,"real_posy":111.16,"posx":16.22,"posy":111.16},
 	{"id":"63","inid":1,"type":2,"name":"不滅のキメラ","repop":40,"id_area":49,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.42,"real_posy":100.59,"posx":14.42,"posy":100.59},
 	{"id":"67","inid":8,"type":2,"name":"アンガーデット","repop":40,"id_area":46,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.69,"real_posy":93.75,"posx":25.69,"posy":93.75},
@@ -175,7 +180,7 @@ MobData = {
 	{"id":"225","inid":7,"type":2,"name":"盗賊団強盗","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":93.75,"real_posy":31.38,"posx":93.75,"posy":31.38},
 ]};
 MobList = {
-	908: ["モンスター", "None.","不滅のキメラ","None.","目覚めた兵士","目覚めた剣士","盗賊団魔法師","盗賊団ファイター","盗賊団強盗","アンガーデット",],
+	908: ["モンスター", "精鋭コネクター","不滅のキメラ","None.","目覚めた兵士","目覚めた剣士","盗賊団魔法師","盗賊団ファイター","盗賊団強盗","アンガーデット",],
 };
 
 AreaData = {

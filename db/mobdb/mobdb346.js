@@ -79,10 +79,9 @@ MobData = {
 	{"id":"77","inid":7,"type":2,"name":"タートルドラゴ","repop":40,"id_area":30,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":71.97,"real_posy":48.69,"posx":287.88,"posy":97.38},
 	{"id":"78","inid":7,"type":2,"name":"タートルドラゴ","repop":40,"id_area":30,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":74.91,"real_posy":57.38,"posx":299.63,"posy":114.75},
 	{"id":"79","inid":8,"type":2,"name":"タートルドラゴ","repop":120,"id_area":30,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":68.09,"real_posy":51.34,"posx":272.38,"posy":102.69},
-	{"id":"80","inid":3,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":37.48,"real_posy":77.44,"posx":149.94,"posy":154.88},
 ]};
 MobList = {
-	346: ["モンスター", "レッドアイ信奉者","レッドアイ所員","デーモン","ミラーテレポータ","None.","None.","タートルドラゴ","タートルドラゴ","タートルドラゴ",],
+	346: ["モンスター", "レッドアイ信奉者","レッドアイ所員","デーモン","None.","None.","None.","タートルドラゴ","タートルドラゴ","タートルドラゴ",],
 };
 
 AreaData = {

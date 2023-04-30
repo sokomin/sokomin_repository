@@ -1,6 +1,6 @@
 MobData = {
-	502: [ {"id":"0","inid":1,"type":35,"name":"協会テレポーター","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":48.92,"real_posy":44.56,"posx":217.7,"posy":99.03},
-	{"id":"1","inid":0,"type":14,"name":"協会専属魔法師","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":50.19,"real_posy":46.09,"posx":223.33,"posy":102.43},
+	502: [ {"id":"0","inid":1,"type":35,"name":"協会テレポーター","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":48.28,"real_posy":43.53,"posx":214.85,"posy":96.74},
+	{"id":"1","inid":0,"type":14,"name":"協会専属魔法師","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":49.55,"real_posy":45.06,"posx":220.48,"posy":100.14},
 	{"id":"2","inid":2,"type":35,"name":"協会長シュルト","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":21.84,"real_posy":17.66,"posx":97.2,"posy":39.24},
 	{"id":"3","inid":10,"type":14,"name":"ソラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":72.5,"real_posy":29.41,"posx":322.63,"posy":65.35},
 	{"id":"4","inid":4,"type":3,"name":"装備商人","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":44.47,"real_posy":18.19,"posx":197.89,"posy":40.42},
@@ -11,7 +11,7 @@ MobData = {
 	{"id":"9","inid":9,"type":1,"name":"ギルド広報官","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":34.39,"real_posy":67.06,"posx":153.04,"posy":149.03},
 	{"id":"10","inid":11,"type":37,"name":"ストレンジ調査官","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.91,"real_posy":40.25,"posx":128.63,"posy":89.44},
 	{"id":"11","inid":8,"type":35,"name":"協会事務官","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":28.5,"real_posy":24.44,"posx":126.83,"posy":54.31},
-	{"id":"12","inid":32,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":51.67,"real_posy":47.34,"posx":229.94,"posy":105.21},
+	{"id":"12","inid":32,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":51.03,"real_posy":46.31,"posx":227.09,"posy":102.92},
 	{"id":"13","inid":33,"type":5,"name":"ナギ・タニア","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":68.38,"real_posy":25.38,"posx":304.27,"posy":56.39},
 	{"id":"14","inid":13,"type":1,"name":"武器職人トゥンガ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":60.34,"real_posy":17.5,"posx":268.53,"posy":38.89},
 	{"id":"15","inid":14,"type":38,"name":"武器職人セリー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":64.36,"real_posy":21.25,"posx":286.4,"posy":47.22},
@@ -33,10 +33,11 @@ MobData = {
 	{"id":"31","inid":37,"type":1,"name":"クリーチャPVP","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":43.48,"real_posy":41.06,"posx":193.51,"posy":91.25},
 	{"id":"32","inid":28,"type":1,"name":"ダリン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.94,"real_posy":17.31,"posx":75.37,"posy":38.47},
 	{"id":"33","inid":29,"type":1,"name":"デリン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.42,"real_posy":25.41,"posx":68.63,"posy":56.46},
+	{"id":"34","inid":38,"type":15,"name":"特別テレポーター","repop":120,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":52.45,"real_posy":47.78,"posx":233.42,"posy":106.18},
 	{"id":"35","inid":31,"type":14,"name":"パウン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":38.63,"real_posy":55.19,"posx":171.88,"posy":122.64},
 ]};
 MobList = {
-	502: ["モンスター", "協会専属魔法師","協会テレポーター","協会長シュルト","ギルド連合代理人","装備商人","雑貨商人","協会物資管理人","治療師","協会事務官","ギルド広報官","ソラ","ストレンジ調査官","None.","武器職人トゥンガ","武器職人セリー","ネーラ","恩寵商人ランター","None.","一般クエスト担当","覚醒担当官","転生担当官","霊珠コレクター","協会任務担当官","特殊装備商人","コイン商人ペル","コイン商人オベ","クロロ","クリーチャ調査官","ダリン","デリン","None.","パウン","ミラーテレポータ","ナギ・タニア","称号担当官","デザイナーユン","限界突破担当官","クリーチャPVP",],
+	502: ["モンスター", "協会専属魔法師","協会テレポーター","協会長シュルト","ギルド連合代理人","装備商人","雑貨商人","協会物資管理人","治療師","協会事務官","ギルド広報官","ソラ","ストレンジ調査官","None.","武器職人トゥンガ","武器職人セリー","ネーラ","恩寵商人ランター","None.","一般クエスト担当","覚醒担当官","転生担当官","霊珠コレクター","協会任務担当官","特殊装備商人","コイン商人ペル","コイン商人オベ","クロロ","クリーチャ調査官","ダリン","デリン","None.","パウン","ミラーテレポータ","ナギ・タニア","称号担当官","デザイナーユン","限界突破担当官","クリーチャPVP","特別テレポーター",],
 };
 
 AreaData = {

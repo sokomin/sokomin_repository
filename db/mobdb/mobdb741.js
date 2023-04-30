@@ -344,15 +344,20 @@ MobData = {
 	{"id":"342","inid":6,"type":1,"name":"白馬討伐隊兵士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.7,"real_posy":256.78,"posx":41.13,"posy":205.43},
 	{"id":"343","inid":6,"type":1,"name":"白馬討伐隊兵士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":277.97,"real_posy":98.41,"posx":444.75,"posy":78.72},
 	{"id":"344","inid":6,"type":1,"name":"白馬討伐隊兵士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":274.53,"real_posy":105.38,"posx":439.25,"posy":84.3},
-	{"id":"345","inid":16,"type":1,"name":"ティアナン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":280.88,"real_posy":103.19,"posx":449.4,"posy":82.55},
+	{"id":"345","inid":17,"type":1,"name":"ティアナン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":280.88,"real_posy":103.19,"posx":449.4,"posy":82.55},
 	{"id":"346","inid":8,"type":1,"name":"白馬討伐隊兵士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":287.73,"real_posy":103.94,"posx":460.38,"posy":83.15},
 	{"id":"347","inid":8,"type":1,"name":"白馬討伐隊兵士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":280.33,"real_posy":110.47,"posx":448.53,"posy":88.38},
 	{"id":"348","inid":6,"type":1,"name":"白馬討伐隊兵士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":283.83,"real_posy":111.78,"posx":454.13,"posy":89.43},
-	{"id":"349","inid":17,"type":1,"name":"ネラー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":20.14,"real_posy":252.59,"posx":32.23,"posy":202.08},
+	{"id":"349","inid":18,"type":1,"name":"ネラー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":20.14,"real_posy":252.59,"posx":32.23,"posy":202.08},
 	{"id":"350","inid":15,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":276.08,"real_posy":101.69,"posx":441.73,"posy":81.35},
+	{"id":"351","inid":16,"type":2,"name":"エリートバンシー","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":13.23,"real_posy":19.16,"posx":21.18,"posy":15.33},
+	{"id":"352","inid":16,"type":2,"name":"エリートバンシー","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.7,"real_posy":24,"posx":28.33,"posy":19.2},
+	{"id":"353","inid":16,"type":2,"name":"エリートバンシー","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.34,"real_posy":26.09,"posx":22.95,"posy":20.88},
+	{"id":"354","inid":16,"type":2,"name":"エリートバンシー","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.45,"real_posy":31.03,"posx":29.53,"posy":24.83},
+	{"id":"355","inid":16,"type":2,"name":"エリートバンシー","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.94,"real_posy":34.72,"posx":23.9,"posy":27.78},
 ]};
 MobList = {
-	741: ["モンスター", "汚染骸骨戦士","汚染ハイエルフ","汚染踊り子","汚染襲撃団","汚染サティロス","汚染大骸骨","白馬討伐隊兵士","ドミニック","白馬討伐隊兵士","白馬討伐隊兵士","None.","None.","None.","None.","None.","ミラーテレポータ","ティアナン","ネラー",],
+	741: ["モンスター", "汚染骸骨戦士","汚染ハイエルフ","汚染踊り子","汚染襲撃団","汚染サティロス","汚染大骸骨","白馬討伐隊兵士","ドミニック","白馬討伐隊兵士","白馬討伐隊兵士","None.","None.","None.","None.","None.","ミラーテレポータ","エリートバンシー","ティアナン","ネラー",],
 };
 
 AreaData = {

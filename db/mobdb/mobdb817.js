@@ -1,6 +1,5 @@
 MobData = {
-	817: [ {"id":"0","inid":3,"type":1,"name":"船員","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":12.17,"real_posy":94.59,"posx":24.34,"posy":94.59},
-	{"id":"1","inid":0,"type":2,"name":"ナーガプリックス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.09,"real_posy":73.69,"posx":58.19,"posy":73.69},
+	817: [ {"id":"1","inid":0,"type":2,"name":"ナーガプリックス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.09,"real_posy":73.69,"posx":58.19,"posy":73.69},
 	{"id":"2","inid":0,"type":2,"name":"ナーガプリックス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":106.64,"real_posy":197.22,"posx":213.28,"posy":197.22},
 	{"id":"3","inid":0,"type":2,"name":"ナーガプリックス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":47.64,"real_posy":94.75,"posx":95.28,"posy":94.75},
 	{"id":"4","inid":0,"type":2,"name":"ナーガプリックス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":90.88,"real_posy":53.16,"posx":181.75,"posy":53.16},
@@ -132,7 +131,6 @@ MobData = {
 	{"id":"130","inid":0,"type":2,"name":"ナーガプリックス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":110,"real_posy":222.28,"posx":220,"posy":222.28},
 	{"id":"131","inid":0,"type":2,"name":"ナーガプリックス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":114.13,"real_posy":223.75,"posx":228.25,"posy":223.75},
 	{"id":"132","inid":2,"type":2,"name":"ナーガランサー","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":112.5,"real_posy":217.72,"posx":225,"posy":217.72},
-	{"id":"133","inid":1,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":108.39,"real_posy":132.81,"posx":216.78,"posy":132.81},
 	{"id":"134","inid":0,"type":2,"name":"ナーガプリックス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.56,"real_posy":203.22,"posx":83.13,"posy":203.22},
 	{"id":"135","inid":0,"type":2,"name":"ナーガプリックス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":44.2,"real_posy":211.41,"posx":88.41,"posy":211.41},
 	{"id":"136","inid":2,"type":2,"name":"ナーガランサー","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.3,"real_posy":208.78,"posx":82.59,"posy":208.78},
@@ -289,14 +287,14 @@ MobData = {
 	{"id":"288","inid":9,"type":2,"name":"マウンテン戦士","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":233.25,"real_posy":158.97,"posx":466.5,"posy":158.97},
 ]};
 MobList = {
-	817: ["モンスター", "ナーガプリックス","ミラーテレポータ","ナーガランサー","船員","None.","キングクラブ","None.","None.","女郎蜘蛛","マウンテン戦士",],
+	817: ["モンスター", "ナーガプリックス","None.","ナーガランサー","None.","None.","キングクラブ","None.","None.","女郎蜘蛛","マウンテン戦士",],
 };
 
 AreaData = {
 	817: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","access_map":"","is_secret":0,"real_posx":11.03,"real_posx2":13.61,"real_posy":96.03,"real_posy2":100.5,"posx":22.06,"posx2":27.22,"posy":96.03,"posy2":100.5},
-	{"id":"3","type":3,"name":"해저 신전B1으로","access_map":"[795]D01.rmd","is_secret":0,"real_posx":9.09,"real_posx2":11.58,"real_posy":278.44,"real_posy2":282.38,"posx":18.19,"posx2":23.16,"posy":278.44,"posy2":282.38},
+	{"id":"3","type":3,"name":"원본필드로","access_map":"[794]G01.rmd","is_secret":0,"real_posx":11.69,"real_posx2":14.17,"real_posy":97.28,"real_posy2":101.22,"posx":23.38,"posx2":28.34,"posy":97.28,"posy2":101.22},
 	{"id":"4","type":4,"name":"Area 3","access_map":"","is_secret":0,"real_posx":102.98,"real_posx2":122.47,"real_posy":183.88,"real_posy2":210.25,"posx":205.97,"posx2":244.94,"posy":183.88,"posy2":210.25},
 	{"id":"5","type":6,"name":"西岸","access_map":"","is_secret":0,"real_posx":24.13,"real_posx2":25.22,"real_posy":146.25,"real_posy2":147.31,"posx":48.25,"posx2":50.44,"posy":146.25,"posy2":147.31},
 	{"id":"6","type":6,"name":"東岸","access_map":"","is_secret":0,"real_posx":268.31,"real_posx2":269.13,"real_posy":162.63,"real_posy2":163.38,"posx":536.63,"posx2":538.25,"posy":162.63,"posy2":163.38},

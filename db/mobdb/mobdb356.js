@@ -89,10 +89,9 @@ MobData = {
 	{"id":"87","inid":9,"type":2,"name":"サタン","repop":40,"id_area":38,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":87.25,"real_posy":89.97,"posx":349,"posy":179.94},
 	{"id":"88","inid":9,"type":2,"name":"サタン","repop":40,"id_area":38,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":92.47,"real_posy":82.66,"posx":369.88,"posy":165.31},
 	{"id":"89","inid":10,"type":2,"name":"サタン","repop":120,"id_area":39,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":90.92,"real_posy":89.72,"posx":363.69,"posy":179.44},
-	{"id":"90","inid":3,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":40.52,"real_posy":61.94,"posx":162.06,"posy":123.88},
 ]};
 MobList = {
-	356: ["モンスター", "レッドアイ所員","サラマンダー","レッドアイ護身像","ミラーテレポータ","None.","None.","None.","サタン","サタン","サタン","サタン",],
+	356: ["モンスター", "レッドアイ所員","サラマンダー","レッドアイ護身像","None.","None.","None.","None.","サタン","サタン","サタン","サタン",],
 };
 
 AreaData = {

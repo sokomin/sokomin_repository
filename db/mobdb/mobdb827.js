@@ -27,6 +27,7 @@ MobData = {
 	{"id":"25","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.91,"real_posy":124.72,"posx":59.81,"posy":124.72},
 	{"id":"26","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":32.03,"real_posy":129.5,"posx":64.06,"posy":129.5},
 	{"id":"27","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":36.44,"real_posy":125.75,"posx":72.88,"posy":125.75},
+	{"id":"28","inid":4,"type":2,"name":"エリート生霊","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":182.69,"real_posy":9.47,"posx":365.38,"posy":9.47},
 	{"id":"29","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.64,"real_posy":98.31,"posx":69.28,"posy":98.31},
 	{"id":"30","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":36.75,"real_posy":104.94,"posx":73.5,"posy":104.94},
 	{"id":"31","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":40.67,"real_posy":101.44,"posx":81.34,"posy":101.44},
@@ -161,9 +162,12 @@ MobData = {
 	{"id":"160","inid":3,"type":2,"name":"エルフ刺客","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":79.31,"real_posy":137.56,"posx":158.63,"posy":137.56},
 	{"id":"161","inid":3,"type":2,"name":"エルフ刺客","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":82.75,"real_posy":138.63,"posx":165.5,"posy":138.63},
 	{"id":"162","inid":3,"type":2,"name":"エルフ刺客","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":85.08,"real_posy":145.06,"posx":170.16,"posy":145.06},
+	{"id":"163","inid":4,"type":2,"name":"エリート生霊","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":187.45,"real_posy":12.63,"posx":374.91,"posy":12.63},
 	{"id":"164","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":102.52,"real_posy":95.06,"posx":205.03,"posy":95.06},
 	{"id":"165","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":106.94,"real_posy":95.09,"posx":213.88,"posy":95.09},
+	{"id":"166","inid":4,"type":2,"name":"エリート生霊","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":180.02,"real_posy":16.5,"posx":360.03,"posy":16.5},
 	{"id":"167","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":104.11,"real_posy":105.41,"posx":208.22,"posy":105.41},
+	{"id":"168","inid":4,"type":2,"name":"エリート生霊","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":184.52,"real_posy":23.06,"posx":369.03,"posy":23.06},
 	{"id":"169","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":117.78,"real_posy":97.19,"posx":235.56,"posy":97.19},
 	{"id":"170","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":114.27,"real_posy":99.97,"posx":228.53,"posy":99.97},
 	{"id":"171","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":118.92,"real_posy":102.81,"posx":237.84,"posy":102.81},
@@ -174,6 +178,7 @@ MobData = {
 	{"id":"176","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":141.31,"real_posy":103.34,"posx":282.63,"posy":103.34},
 	{"id":"177","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":143.03,"real_posy":99.19,"posx":286.06,"posy":99.19},
 	{"id":"178","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":146.47,"real_posy":103.88,"posx":292.94,"posy":103.88},
+	{"id":"179","inid":4,"type":2,"name":"エリート生霊","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":184.25,"real_posy":16.06,"posx":368.5,"posy":16.06},
 	{"id":"180","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":129.2,"real_posy":118.25,"posx":258.41,"posy":118.25},
 	{"id":"183","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":154.95,"real_posy":113.47,"posx":309.91,"posy":113.47},
 	{"id":"184","inid":2,"type":2,"name":"森インプ","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":158.72,"real_posy":115.91,"posx":317.44,"posy":115.91},
@@ -375,7 +380,7 @@ MobData = {
 	{"id":"381","inid":3,"type":2,"name":"エルフ刺客","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":182.2,"real_posy":84.25,"posx":364.41,"posy":84.25},
 ]};
 MobList = {
-	827: ["モンスター", "ブラックエルフ","森オーガ","森インプ","エルフ刺客",],
+	827: ["モンスター", "ブラックエルフ","森オーガ","森インプ","エルフ刺客","エリート生霊",],
 };
 
 AreaData = {

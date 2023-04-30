@@ -44,5 +44,8 @@ AreaData = {
 	{"id":"22","type":0,"name":"비밀쪽 이동","access_map":"","is_secret":0,"real_posx":87.89,"real_posx2":90.27,"real_posy":111.31,"real_posy2":115.06,"posx":87.89,"posx2":90.27,"posy":111.31,"posy2":115.06},
 	{"id":"23","type":12,"name":"ドアの外で立ち聞き","access_map":"","is_secret":0,"real_posx":98.22,"real_posx2":100.81,"real_posy":121.34,"real_posy2":126.97,"posx":98.22,"posx2":100.81,"posy":121.34,"posy2":126.97},
 	{"id":"24","type":12,"name":"ケイリーの墓","access_map":"","is_secret":0,"real_posx":93.63,"real_posx2":96.67,"real_posy":111.59,"real_posy2":117.53,"posx":93.63,"posx2":96.67,"posy":111.59,"posy2":117.53},
-	{"id":"25","type":0,"name":"비밀묘지","access_map":"","is_secret":0,"real_posx":82.83,"real_posx2":105.33,"real_posy":104.03,"real_posy2":130.91,"posx":82.83,"posx2":105.33,"posy":104.03,"posy2":130.91},
+	{"id":"25","type":0,"name":"비밀묘지","access_map":"","is_secret":0,"real_posx":82.25,"real_posx2":104.75,"real_posy":103.72,"real_posy2":130.59,"posx":82.25,"posx2":104.75,"posy":103.72,"posy2":130.59},
+	{"id":"26","type":12,"name":"エンディング","access_map":"","is_secret":0,"real_posx":130.75,"real_posx2":134.19,"real_posy":86.78,"real_posy2":92.03,"posx":130.75,"posx2":134.19,"posy":86.78,"posy2":92.03},
+	{"id":"27","type":0,"name":"비밀묘지 안 ","access_map":"","is_secret":0,"real_posx":133.81,"real_posx2":135.77,"real_posy":91.25,"real_posy2":94.5,"posx":133.81,"posx2":135.77,"posy":91.25,"posy2":94.5},
+	{"id":"28","type":12,"name":"Area 27","access_map":"","is_secret":0,"real_posx":135.23,"real_posx2":138.09,"real_posy":92.09,"real_posy2":97.28,"posx":135.23,"posx2":138.09,"posy":92.09,"posy2":97.28},
 ]};

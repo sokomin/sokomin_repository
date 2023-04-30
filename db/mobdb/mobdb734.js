@@ -103,7 +103,7 @@ MobData = {
 	{"id":"101","inid":9,"type":2,"name":"時の守り人","repop":120,"id_area":29,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":96.63,"real_posy":135.44,"posx":193.25,"posy":135.44},
 	{"id":"102","inid":3,"type":2,"name":"時のビショップ","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":160.95,"real_posy":33.88,"posx":321.91,"posy":33.88},
 	{"id":"103","inid":8,"type":2,"name":"森の眼","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":164.91,"real_posy":39.53,"posx":329.81,"posy":39.53},
-	{"id":"104","inid":25,"type":2,"name":"ハゲワシ勇者","repop":3600,"id_area":34,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":100.45,"real_posy":53.53,"posx":200.91,"posy":53.53},
+	{"id":"104","inid":25,"type":2,"name":"ハゲワシ勇者","repop":3600,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":100.45,"real_posy":53.53,"posx":200.91,"posy":53.53},
 	{"id":"105","inid":5,"type":2,"name":"ハゲワシ剣士","repop":10,"id_area":35,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":152.47,"real_posy":51.88,"posx":304.94,"posy":51.88},
 	{"id":"106","inid":1,"type":2,"name":"イーグル狂戦士","repop":120,"id_area":31,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":95.47,"real_posy":23.19,"posx":190.94,"posy":23.19},
 	{"id":"107","inid":0,"type":2,"name":"イーグル狂戦士","repop":120,"id_area":31,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":105.78,"real_posy":24.56,"posx":211.56,"posy":24.56},
@@ -188,11 +188,10 @@ MobData = {
 	{"id":"186","inid":16,"type":2,"name":"ハゲワシ闘士","repop":0,"id_area":47,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":67.17,"real_posy":21.31,"posx":134.34,"posy":21.31},
 	{"id":"187","inid":19,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":105.39,"real_posy":166.19,"posx":210.78,"posy":166.19},
 	{"id":"188","inid":25,"type":2,"name":"ハゲワシ勇者","repop":3600,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":50.25,"real_posy":143.56,"posx":100.5,"posy":143.56},
-	{"id":"189","inid":25,"type":2,"name":"ハゲワシ勇者","repop":3600,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":162.14,"real_posy":133.41,"posx":324.28,"posy":133.41},
-	{"id":"190","inid":26,"type":2,"name":"エリート森の司令","repop":21600,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":100.78,"real_posy":70.38,"posx":201.56,"posy":70.38},
+	{"id":"189","inid":25,"type":2,"name":"ハゲワシ勇者","repop":3600,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":162.14,"real_posy":133.41,"posx":324.28,"posy":133.41},
 ]};
 MobList = {
-	734: ["モンスター", "イーグル狂戦士","イーグル狂戦士","None.","時のビショップ","時の裁判官","ハゲワシ剣士","マジックシェル","シェルミツ","森の眼","時の守り人","None.","ユニコーン","森の守衛","ハゲワシ闘士","ハゲワシ闘士","ハゲワシ闘士","ハゲワシ闘士","ミラーテレポータ","Dテレポーター","ミラーテレポータ","None.","None.","None.","None.","None.","ハゲワシ勇者","エリート森の司令",],
+	734: ["モンスター", "イーグル狂戦士","イーグル狂戦士","None.","時のビショップ","時の裁判官","ハゲワシ剣士","マジックシェル","シェルミツ","森の眼","時の守り人","None.","ユニコーン","森の守衛","ハゲワシ闘士","ハゲワシ闘士","ハゲワシ闘士","ハゲワシ闘士","ミラーテレポータ","Dテレポーター","ミラーテレポータ","None.","None.","None.","None.","None.","ハゲワシ勇者",],
 };
 
 AreaData = {

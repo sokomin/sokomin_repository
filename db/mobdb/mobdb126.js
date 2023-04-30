@@ -42,7 +42,6 @@ MobData = {
 	{"id":"40","inid":6,"type":2,"name":"ダークシャドウ","repop":30,"id_area":25,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":70.94,"real_posy":74.72,"posx":283.75,"posy":149.44},
 	{"id":"41","inid":6,"type":2,"name":"ダークシャドウ","repop":30,"id_area":25,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.02,"real_posy":83.47,"posx":276.06,"posy":166.94},
 	{"id":"42","inid":7,"type":2,"name":"ダークシャドウ","repop":120,"id_area":26,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":66.67,"real_posy":78.06,"posx":266.69,"posy":156.13},
-	{"id":"43","inid":8,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":85.77,"real_posy":87.28,"posx":343.06,"posy":174.56},
 	{"id":"63","inid":2,"type":2,"name":"トライアングル","repop":20,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":11.05,"real_posy":45.63,"posx":44.19,"posy":91.25},
 	{"id":"64","inid":2,"type":2,"name":"トライアングル","repop":20,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22.81,"real_posy":37.56,"posx":91.25,"posy":75.13},
 	{"id":"65","inid":2,"type":2,"name":"トライアングル","repop":20,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.2,"real_posy":22.13,"posx":76.81,"posy":44.25},
@@ -56,7 +55,7 @@ MobData = {
 	{"id":"105","inid":5,"type":2,"name":"ナーガナイト","repop":30,"id_area":11,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.81,"real_posy":77.66,"posx":31.25,"posy":155.31},
 ]};
 MobList = {
-	126: ["モンスター", "トライアングル","ナーガファイター","トライアングル","ナーガファイター","ナーガナイト","ナーガナイト","ダークシャドウ","ダークシャドウ","ミラーテレポータ",],
+	126: ["モンスター", "トライアングル","ナーガファイター","トライアングル","ナーガファイター","ナーガナイト","ナーガナイト","ダークシャドウ","ダークシャドウ",],
 };
 
 AreaData = {

@@ -104,7 +104,7 @@ AreaData = {
 	{"id":"2","type":5,"name":"시작 영역","access_map":"","is_secret":0,"real_posx":74.72,"real_posx2":77.06,"real_posy":74.19,"real_posy2":76.59,"posx":179.33,"posx2":184.95,"posy":89.03,"posy2":91.91},
 	{"id":"3","type":4,"name":"Area 2","access_map":"","is_secret":0,"real_posx":56.5,"real_posx2":59.28,"real_posy":90.31,"real_posy2":98.75,"posx":135.6,"posx2":142.28,"posy":108.38,"posy2":118.5},
 	{"id":"4","type":0,"name":"1. 10렙 불 몬스터","access_map":"","is_secret":0,"real_posx":141.42,"real_posx2":142.42,"real_posy":138.28,"real_posy2":139.84,"posx":339.41,"posx2":341.81,"posy":165.94,"posy2":167.81},
-	{"id":"5","type":0,"name":"워프 75","access_map":"1042","is_secret":0,"real_posx":74.83,"real_posx2":76.98,"real_posy":74.38,"real_posy2":76.5,"posx":179.59,"posx2":184.76,"posy":89.25,"posy2":91.8},
+	{"id":"5","type":0,"name":"ミラーダンジョン忘れられた地下収容所B2 1-7","is_secret":0,"real_posx":74.83,"real_posx2":76.98,"real_posy":74.38,"real_posy2":76.5,"posx":179.59,"posx2":184.76,"posy":89.25,"posy2":91.8},
 	{"id":"6","type":0,"name":"2. 20렙 얼음 몬스터","access_map":"","is_secret":0,"real_posx":9.38,"real_posx2":15,"real_posy":132.97,"real_posy2":137.03,"posx":22.5,"posx2":36,"posy":159.56,"posy2":164.44},
 	{"id":"7","type":0,"name":"3. 30렙 어둠 몬스터","access_map":"","is_secret":0,"real_posx":9.77,"real_posx2":15.16,"real_posy":7.03,"real_posy2":11.41,"posx":23.44,"posx2":36.38,"posy":8.44,"posy2":13.69},
 	{"id":"8","type":0,"name":"4. 40렙 빛 기운 몬스터","access_map":"","is_secret":0,"real_posx":11.09,"real_posx2":13.02,"real_posy":73.13,"real_posy2":77.75,"posx":26.63,"posx2":31.24,"posy":87.75,"posy2":93.3},

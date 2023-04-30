@@ -285,6 +285,10 @@ MobData = {
 	{"id":"283","inid":41,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":15.09,"real_posy":14.97,"posx":24.15,"posy":11.98},
 	{"id":"284","inid":42,"type":2,"name":"猿王バット","repop":60,"id_area":105,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":33.38,"real_posy":19.06,"posx":53.4,"posy":15.25},
 	{"id":"285","inid":43,"type":1,"name":"悪魔軍幹部","repop":48,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":3.05,"real_posy":116.41,"posx":4.88,"posy":93.13},
+	{"id":"286","inid":49,"type":2,"name":"精鋭サキュバス","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":105.83,"real_posy":96,"posx":169.33,"posy":76.8},
+	{"id":"287","inid":49,"type":2,"name":"精鋭サキュバス","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":101.5,"real_posy":99.84,"posx":162.4,"posy":79.88},
+	{"id":"288","inid":49,"type":2,"name":"精鋭サキュバス","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":109.61,"real_posy":102.56,"posx":175.38,"posy":82.05},
+	{"id":"289","inid":49,"type":2,"name":"精鋭サキュバス","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":105.17,"real_posy":107.59,"posx":168.28,"posy":86.08},
 	{"id":"291","inid":50,"type":2,"name":"コクーン闇商人","repop":20,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":55.86,"real_posy":66.25,"posx":89.38,"posy":53},
 	{"id":"292","inid":50,"type":2,"name":"コクーン闇商人","repop":20,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":52.16,"real_posy":79.75,"posx":83.45,"posy":63.8},
 	{"id":"293","inid":50,"type":2,"name":"コクーン闇商人","repop":20,"id_area":12,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.41,"real_posy":93.63,"posx":115.85,"posy":74.9},
@@ -296,7 +300,7 @@ MobData = {
 	{"id":"299","inid":50,"type":2,"name":"コクーン闇商人","repop":20,"id_area":11,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":67.56,"real_posy":127.63,"posx":108.1,"posy":102.1},
 	{"id":"300","inid":50,"type":2,"name":"コクーン闇商人","repop":20,"id_area":86,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.59,"real_posy":111.03,"posx":55.35,"posy":88.83},
 	{"id":"301","inid":50,"type":2,"name":"コクーン闇商人","repop":20,"id_area":20,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":143.72,"real_posy":66.47,"posx":229.95,"posy":53.18},
-	{"id":"302","inid":49,"type":2,"name":"精鋭サキュバス","repop":10800,"id_area":108,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":105.58,"real_posy":102.25,"posx":168.93,"posy":81.8},
+	{"id":"302","inid":49,"type":2,"name":"精鋭サキュバス","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":105.58,"real_posy":102.25,"posx":168.93,"posy":81.8},
 ]};
 MobList = {
 	429: ["モンスター", "ジョーンヘダ","ワーラット","ドゥームスフィア","準騎士カイロン","ペリーヤン","古代悪魔","嵐の刃騎士団兵","ナーチャル","ダークパースー","デスピンサー","ワーラット","大型骸骨","斧槍兵","悪魔軍幹部","ホーンド","None.","ピエンド","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","セルティオネ","氷の刃傭兵団員","ヴィンス","悪魔軍偵察兵","ヴィンスの猟犬","蟲の群れ","不浄犬","オーガチーフ","オーガゼネラル","オーガゼネラル","オーガゼネラル","オーガゼネラル","ミラーテレポータ","Dテレポーター","ミラーテレポータ","猿王バット","悪魔軍幹部","None.","None.","None.","None.","None.","精鋭サキュバス","コクーン闇商人","セリノ","監視者メリス","騎士団所属管理者","グリース",],

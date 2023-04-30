@@ -101,11 +101,9 @@ MobData = {
 	{"id":"99","inid":3,"type":2,"name":"海底骸骨","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":82.13,"real_posy":108,"posx":205.31,"posy":135},
 	{"id":"100","inid":3,"type":2,"name":"海底骸骨","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":96.73,"real_posy":87.69,"posx":241.84,"posy":109.61},
 	{"id":"101","inid":3,"type":2,"name":"海底骸骨","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":99.75,"real_posy":91.84,"posx":249.38,"posy":114.8},
-	{"id":"102","inid":7,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":56.42,"real_posy":61,"posx":141.05,"posy":76.25},
-	{"id":"103","inid":8,"type":1,"name":"サビエ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":109.7,"real_posy":117.72,"posx":274.26,"posy":147.15},
 ]};
 MobList = {
-	820: ["モンスター", "深淵の強者","ウィークネス天使","海底死神","海底骸骨","神殿守護兵","エルフアーチャー","None.","ミラーテレポータ","サビエ",],
+	820: ["モンスター", "深淵の強者","ウィークネス天使","海底死神","海底骸骨","神殿守護兵","エルフアーチャー",],
 };
 
 AreaData = {
@@ -113,7 +111,7 @@ AreaData = {
 	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","access_map":"","is_secret":0,"real_posx":52.28,"real_posx2":54.77,"real_posy":60.06,"real_posy2":64,"posx":130.7,"posx2":136.91,"posy":75.08,"posy2":80},
 	{"id":"3","type":4,"name":"보물상자1","access_map":"","is_secret":0,"real_posx":80.23,"real_posx2":97.03,"real_posy":56.97,"real_posy2":79.34,"posx":200.59,"posx2":242.58,"posy":71.21,"posy2":99.18},
-	{"id":"4","type":3,"name":"해저 신전B1으로","access_map":"[795]D01.rmd","is_secret":0,"real_posx":51.41,"real_posx2":54.25,"real_posy":58,"real_posy2":63,"posx":128.52,"posx2":135.63,"posy":72.5,"posy2":78.75},
+	{"id":"4","type":3,"name":"원본필드로","access_map":"[796]D02.rmd","is_secret":0,"real_posx":51.41,"real_posx2":54.25,"real_posy":58,"real_posy2":63,"posx":128.52,"posx2":135.63,"posy":72.5,"posy2":78.75},
 	{"id":"5","type":4,"name":"보물상자2","access_map":"","is_secret":0,"real_posx":111.03,"real_posx2":127.22,"real_posy":88.06,"real_posy2":107.56,"posx":277.58,"posx2":318.05,"posy":110.08,"posy2":134.45},
 	{"id":"6","type":4,"name":"보물상자3","access_map":"","is_secret":0,"real_posx":109.44,"real_posx2":121.03,"real_posy":49.72,"real_posy2":67.81,"posx":273.59,"posx2":302.58,"posy":62.15,"posy2":84.77},
 	{"id":"7","type":4,"name":"보물상자4","access_map":"","is_secret":0,"real_posx":155.03,"real_posx2":165.67,"real_posy":64.47,"real_posy2":82.41,"posx":387.58,"posx2":414.18,"posy":80.59,"posy2":103.01},
@@ -125,13 +123,11 @@ AreaData = {
 	{"id":"13","type":4,"name":"보물상자10","access_map":"","is_secret":0,"real_posx":11.77,"real_posx2":24.14,"real_posy":117.19,"real_posy2":134.34,"posx":29.41,"posx2":60.35,"posy":146.48,"posy2":167.93},
 	{"id":"14","type":4,"name":"보물상자11","access_map":"","is_secret":0,"real_posx":51.69,"real_posx2":68.36,"real_posy":87.13,"real_posy2":109.63,"posx":129.22,"posx2":170.9,"posy":108.91,"posy2":137.03},
 	{"id":"15","type":4,"name":"보물상자12","access_map":"","is_secret":0,"real_posx":124.16,"real_posx2":137.3,"real_posy":66.03,"real_posy2":80.5,"posx":310.39,"posx2":343.24,"posy":82.54,"posy2":100.63},
-	{"id":"16","type":4,"name":"보물상자13","access_map":"","is_secret":0,"real_posx":79.53,"real_posx2":98.55,"real_posy":90.94,"real_posy2":108.75,"posx":198.83,"posx2":246.37,"posy":113.67,"posy2":135.94},
+	{"id":"16","type":4,"name":"보물상자13","access_map":"","is_secret":0,"real_posx":86.22,"real_posx2":105.23,"real_posy":92.84,"real_posy2":110.66,"posx":215.55,"posx2":263.09,"posy":116.05,"posy2":138.32},
 	{"id":"17","type":4,"name":"보물상자14","access_map":"","is_secret":0,"real_posx":59,"real_posx2":70.25,"real_posy":131.28,"real_posy2":149.03,"posx":147.5,"posx2":175.63,"posy":164.1,"posy2":186.29},
 	{"id":"18","type":4,"name":"보물상자15","access_map":"","is_secret":0,"real_posx":43.7,"real_posx2":54.67,"real_posy":115.56,"real_posy2":134.25,"posx":109.26,"posx2":136.68,"posy":144.45,"posy2":167.81},
 	{"id":"19","type":4,"name":"보물상자16","access_map":"","is_secret":0,"real_posx":31.77,"real_posx2":38.63,"real_posy":93.72,"real_posy2":114.81,"posx":79.41,"posx2":96.56,"posy":117.15,"posy2":143.52},
 	{"id":"20","type":4,"name":"보물상자17","access_map":"","is_secret":0,"real_posx":76.17,"real_posx2":84.11,"real_posy":145.19,"real_posy2":158.91,"posx":190.43,"posx2":210.27,"posy":181.48,"posy2":198.63},
 	{"id":"21","type":4,"name":"보물상자18","access_map":"","is_secret":0,"real_posx":139.53,"real_posx2":146.69,"real_posy":84.19,"real_posy2":109.72,"posx":348.83,"posx2":366.72,"posy":105.23,"posy2":137.15},
 	{"id":"22","type":4,"name":"보물상자19","access_map":"","is_secret":0,"real_posx":92.27,"real_posx2":95.64,"real_posy":38.94,"real_posy2":52.75,"posx":230.66,"posx2":239.1,"posy":48.67,"posy2":65.94},
-	{"id":"23","type":12,"name":"物資","access_map":"","is_secret":0,"real_posx":106.61,"real_posx2":111.34,"real_posy":109.38,"real_posy2":115.78,"posx":266.52,"posx2":278.36,"posy":136.72,"posy2":144.73},
-	{"id":"24","type":0,"name":"사비에","access_map":"","is_secret":0,"real_posx":95.81,"real_posx2":126.44,"real_posy":93.38,"real_posy2":146.38,"posx":239.53,"posx2":316.09,"posy":116.72,"posy2":182.97},
 ]};

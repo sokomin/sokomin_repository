@@ -121,6 +121,7 @@ MobData = {
 	{"id":"119","inid":6,"type":2,"name":"峡谷サキュバス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":56.17,"real_posy":106.09,"posx":126.39,"posy":119.36},
 	{"id":"120","inid":7,"type":2,"name":"峡谷の死","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":56.38,"real_posy":171.63,"posx":126.84,"posy":193.08},
 	{"id":"121","inid":7,"type":2,"name":"峡谷の死","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":77.89,"real_posy":167.16,"posx":175.25,"posy":188.05},
+	{"id":"122","inid":8,"type":2,"name":"エリートラク","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":187.28,"real_posy":105.5,"posx":421.38,"posy":118.69},
 	{"id":"123","inid":7,"type":2,"name":"峡谷の死","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":177.92,"real_posy":189.97,"posx":400.32,"posy":213.71},
 	{"id":"124","inid":7,"type":2,"name":"峡谷の死","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":143.3,"real_posy":146.66,"posx":322.42,"posy":164.99},
 	{"id":"125","inid":7,"type":2,"name":"峡谷の死","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":124.95,"real_posy":134.53,"posx":281.14,"posy":151.35},
@@ -198,9 +199,13 @@ MobData = {
 	{"id":"197","inid":5,"type":2,"name":"峡谷怨霊","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":60.92,"real_posy":179.94,"posx":137.07,"posy":202.43},
 	{"id":"198","inid":6,"type":2,"name":"峡谷サキュバス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":52.39,"real_posy":169.09,"posx":117.88,"posy":190.23},
 	{"id":"199","inid":6,"type":2,"name":"峡谷サキュバス","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":78.05,"real_posy":153.91,"posx":175.61,"posy":173.14},
+	{"id":"200","inid":8,"type":2,"name":"エリートラク","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":192.41,"real_posy":109.97,"posx":432.91,"posy":123.71},
+	{"id":"201","inid":8,"type":2,"name":"エリートラク","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":196.13,"real_posy":92.72,"posx":441.28,"posy":104.31},
+	{"id":"202","inid":8,"type":2,"name":"エリートラク","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":197.47,"real_posy":122.19,"posx":444.3,"posy":137.46},
+	{"id":"203","inid":8,"type":2,"name":"エリートラク","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":187.45,"real_posy":116.16,"posx":421.77,"posy":130.68},
 ]};
 MobList = {
-	1021: ["モンスター", "峡谷監督官","峡谷怨霊","峡谷サキュバス","峡谷の死","峡谷監督官","峡谷怨霊","峡谷サキュバス","峡谷の死",],
+	1021: ["モンスター", "峡谷監督官","峡谷怨霊","峡谷サキュバス","峡谷の死","峡谷監督官","峡谷怨霊","峡谷サキュバス","峡谷の死","エリートラク",],
 };
 
 AreaData = {
@@ -219,4 +224,5 @@ AreaData = {
 	{"id":"12","type":4,"name":"보물지도 지역 10","access_map":"","is_secret":0,"real_posx":7.44,"real_posx2":23.69,"real_posy":111.13,"real_posy2":126.38,"posx":16.73,"posx2":53.3,"posy":125.02,"posy2":142.17},
 	{"id":"13","type":4,"name":"보물지도 지역 11","access_map":"","is_secret":0,"real_posx":33.88,"real_posx2":42.44,"real_posy":74.88,"real_posy2":104.25,"posx":76.22,"posx2":95.48,"posy":84.23,"posy2":117.28},
 	{"id":"14","type":4,"name":"보물지도 지역 12","access_map":"","is_secret":0,"real_posx":9.31,"real_posx2":28.31,"real_posy":166.5,"real_posy2":189.5,"posx":20.95,"posx2":63.7,"posy":187.31,"posy2":213.19},
+	{"id":"15","type":3,"name":"저주받은 공동묘지로","access_map":"[612]G30_H01_B03.rmd","is_secret":0,"real_posx":9.25,"real_posx2":11.41,"real_posy":13.06,"real_posy2":16.38,"posx":20.81,"posx2":25.66,"posy":14.7,"posy2":18.42},
 ]};

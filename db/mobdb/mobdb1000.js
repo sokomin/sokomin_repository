@@ -173,10 +173,9 @@ MobData = {
 	{"id":"171","inid":0,"type":2,"name":"古代ゴルゴン","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":58.77,"real_posy":6.28,"posx":120.76,"posy":6.31},
 	{"id":"172","inid":0,"type":2,"name":"古代ゴルゴン","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":46.41,"real_posy":11.06,"posx":95.36,"posy":11.12},
 	{"id":"173","inid":0,"type":2,"name":"古代ゴルゴン","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":38.28,"real_posy":16.53,"posx":78.67,"posy":16.61},
-	{"id":"174","inid":4,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":192.53,"real_posy":48.72,"posx":395.65,"posy":48.96},
 ]};
 MobList = {
-	1000: ["モンスター", "古代ゴルゴン","古代ウィングコン","古代カエル","古代のリッチ","ミラーテレポータ",],
+	1000: ["モンスター", "古代ゴルゴン","古代ウィングコン","古代カエル","古代のリッチ",],
 };
 
 AreaData = {
@@ -188,7 +187,7 @@ AreaData = {
 	{"id":"5","type":4,"name":"보물 상자 용 3","access_map":"","is_secret":0,"real_posx":146.05,"real_posx2":187.92,"real_posy":3.34,"real_posy2":122.63,"posx":300.13,"posx2":386.18,"posy":3.36,"posy2":123.24},
 	{"id":"6","type":4,"name":"보물 상자 용 4","access_map":"","is_secret":0,"real_posx":100.69,"real_posx2":197.95,"real_posy":122.78,"real_posy2":178.72,"posx":206.91,"posx2":406.79,"posy":123.4,"posy2":179.61},
 	{"id":"7","type":4,"name":"보물 상자 용 5","access_map":"","is_secret":0,"real_posx":1.25,"real_posx2":78.13,"real_posy":104.66,"real_posy2":175.44,"posx":2.57,"posx2":160.55,"posy":105.18,"posy2":176.31},
-	{"id":"8","type":3,"name":"D00으로 이동","access_map":"[874]D00.rmd","is_secret":0,"real_posx":194.95,"real_posx2":197.56,"real_posy":51.81,"real_posy2":56.31,"posx":400.63,"posx2":405.99,"posy":52.07,"posy2":56.59},
+	{"id":"8","type":3,"name":"원본필드로 이동","access_map":"[875]D01.rmd","is_secret":0,"real_posx":194.95,"real_posx2":197.56,"real_posy":51.81,"real_posy2":56.31,"posx":400.63,"posx2":405.99,"posy":52.07,"posy2":56.59},
 	{"id":"9","type":6,"name":"賢者の墓","access_map":"","is_secret":0,"real_posx":166.3,"real_posx2":170.78,"real_posy":25.09,"real_posy2":29.06,"posx":341.74,"posx2":350.96,"posy":25.22,"posy2":29.21},
 	{"id":"10","type":6,"name":"鎮魂儀式区域","access_map":"","is_secret":0,"real_posx":102.34,"real_posx2":106.17,"real_posy":114.31,"real_posy2":117.44,"posx":210.32,"posx2":218.18,"posy":114.88,"posy2":118.02},
 	{"id":"11","type":6,"name":"銀の鉱床","access_map":"","is_secret":0,"real_posx":27.45,"real_posx2":31.55,"real_posy":149.09,"real_posy2":152.91,"posx":56.42,"posx2":64.83,"posy":149.84,"posy2":153.67},

@@ -114,9 +114,9 @@ MobData = {
 	{"id":"112","inid":9,"type":2,"name":"ボーンキメラ","repop":120,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":81.77,"real_posy":115.34,"posx":163.53,"posy":115.34},
 	{"id":"113","inid":9,"type":2,"name":"ボーンキメラ","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":77.53,"real_posy":16.38,"posx":155.06,"posy":16.38},
 	{"id":"114","inid":10,"type":10,"name":"魔法師レオン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":107.67,"real_posy":98.28,"posx":215.34,"posy":98.28},
-	{"id":"115","inid":11,"type":2,"name":"エリート魔術師","repop":7200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":37.73,"real_posy":80.63,"posx":75.47,"posy":80.63},
-	{"id":"116","inid":11,"type":2,"name":"エリート魔術師","repop":7200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":99.88,"real_posy":55.09,"posx":199.75,"posy":55.09},
-	{"id":"117","inid":11,"type":2,"name":"エリート魔術師","repop":7200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":89.94,"real_posy":97.75,"posx":179.88,"posy":97.75},
+	{"id":"115","inid":11,"type":2,"name":"エリート魔術師","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":37.73,"real_posy":80.63,"posx":75.47,"posy":80.63},
+	{"id":"116","inid":11,"type":2,"name":"エリート魔術師","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":99.88,"real_posy":55.09,"posx":199.75,"posy":55.09},
+	{"id":"117","inid":11,"type":2,"name":"エリート魔術師","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":89.94,"real_posy":97.75,"posx":179.88,"posy":97.75},
 	{"id":"118","inid":12,"type":2,"name":"コクーン闇商人","repop":30,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":83.41,"real_posy":16.13,"posx":166.81,"posy":16.13},
 	{"id":"119","inid":12,"type":2,"name":"コクーン闇商人","repop":30,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":83.19,"real_posy":22.03,"posx":166.38,"posy":22.03},
 	{"id":"120","inid":12,"type":2,"name":"コクーン闇商人","repop":30,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":75.91,"real_posy":14.16,"posx":151.81,"posy":14.16},
@@ -140,6 +140,8 @@ MobData = {
 	{"id":"138","inid":12,"type":2,"name":"コクーン闇商人","repop":30,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":26.83,"real_posy":78.75,"posx":53.66,"posy":78.75},
 	{"id":"139","inid":13,"type":2,"name":"モリネル守護神","repop":3600,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":53.05,"real_posy":100.81,"posx":106.09,"posy":100.81},
 	{"id":"140","inid":13,"type":2,"name":"モリネル守護神","repop":3600,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":104.25,"real_posy":46.5,"posx":208.5,"posy":46.5},
+	{"id":"141","inid":11,"type":2,"name":"エリート魔術師","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":65.52,"real_posy":49.81,"posx":131.03,"posy":49.81},
+	{"id":"142","inid":11,"type":2,"name":"エリート魔術師","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":52.55,"real_posy":62.31,"posx":105.09,"posy":62.31},
 ]};
 MobList = {
 	471: ["モンスター", "塔のゴーレム","塔の霊媒師","塔の鬼","魔法の包帯","塔の動力装置","レオンの分身","None.","塔の魔力装置","塔のぜんまい","ボーンキメラ","魔法師レオン","エリート魔術師","コクーン闇商人","モリネル守護神",],

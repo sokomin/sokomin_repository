@@ -374,18 +374,16 @@ MobData = {
 	{"id":"372","inid":2,"type":2,"name":"水晶ガゴイル","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":166.28,"real_posy":222.75,"posx":399.08,"posy":267.3},
 	{"id":"373","inid":2,"type":2,"name":"水晶ガゴイル","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":162.53,"real_posy":183.78,"posx":390.08,"posy":220.54},
 	{"id":"374","inid":2,"type":2,"name":"水晶ガゴイル","repop":40,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":202.23,"real_posy":176.03,"posx":485.36,"posy":211.24},
-	{"id":"375","inid":4,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":235.69,"real_posy":230.28,"posx":565.65,"posy":276.34},
 ]};
 MobList = {
-	852: ["モンスター", "ワイト","バイキングヘッド","水晶ガゴイル","腐乱スプク","ミラーテレポータ",],
+	852: ["モンスター", "ワイト","バイキングヘッド","水晶ガゴイル","腐乱スプク",],
 };
 
 AreaData = {
 	852: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","access_map":"","is_secret":0,"real_posx":228.02,"real_posx2":229.58,"real_posy":222.94,"real_posy2":225.44,"posx":547.24,"posx2":550.99,"posy":267.52,"posy2":270.52},
-	{"id":"3","type":3,"name":"지하 묘지 B1가는길","access_map":"[828]D01_01.rmd","is_secret":0,"real_posx":230.09,"real_posx2":232.72,"real_posy":225.19,"real_posy2":229.59,"posx":552.23,"posx2":558.53,"posy":270.23,"posy2":275.51},
-	{"id":"4","type":3,"name":"지하 묘지 B3가는길","access_map":"[830]D01_03.rmd","is_secret":0,"real_posx":44.16,"real_posx2":46.73,"real_posy":15.81,"real_posy2":20.22,"posx":105.98,"posx2":112.16,"posy":18.98,"posy2":24.26},
+	{"id":"3","type":3,"name":"지하 묘지 B1가는길","access_map":"[829]D01_02.rmd","is_secret":0,"real_posx":230.09,"real_posx2":232.72,"real_posy":225.19,"real_posy2":229.59,"posx":552.23,"posx2":558.53,"posy":270.23,"posy2":275.51},
 	{"id":"5","type":4,"name":"보물 상자 01","access_map":"","is_secret":0,"real_posx":50.47,"real_posx2":84.69,"real_posy":56.25,"real_posy2":98.91,"posx":121.13,"posx2":203.25,"posy":67.5,"posy2":118.69},
 	{"id":"6","type":4,"name":"보물 상자 02","access_map":"","is_secret":0,"real_posx":58.36,"real_posx2":93.36,"real_posy":124.5,"real_posy2":177.78,"posx":140.06,"posx2":224.06,"posy":149.4,"posy2":213.34},
 	{"id":"7","type":4,"name":"보물 상자 03","access_map":"","is_secret":0,"real_posx":110.78,"real_posx2":167.73,"real_posy":68.75,"real_posy2":122.34,"posx":265.88,"posx2":402.56,"posy":82.5,"posy2":146.81},

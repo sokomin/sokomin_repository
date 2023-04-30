@@ -132,7 +132,7 @@ MobData = {
 	{"id":"130","inid":5,"type":2,"name":"クローラー","repop":17,"id_area":79,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":307.97,"real_posy":206.09,"posx":351.96,"posy":117.77},
 	{"id":"131","inid":9,"type":2,"name":"降神術師","repop":26,"id_area":46,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":75.09,"real_posy":251.78,"posx":85.82,"posy":143.88},
 	{"id":"132","inid":11,"type":10,"name":"現場監督","repop":20,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":174.45,"real_posy":141.81,"posx":199.38,"posy":81.04},
-	{"id":"133","inid":23,"type":1,"name":"デルロス","repop":20,"id_area":48,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":151.94,"real_posy":85.5,"posx":173.64,"posy":48.86},
+	{"id":"133","inid":22,"type":1,"name":"デルロス","repop":20,"id_area":48,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":151.94,"real_posy":85.5,"posx":173.64,"posy":48.86},
 	{"id":"134","inid":14,"type":2,"name":"デビルガード","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":335.7,"real_posy":37,"posx":383.66,"posy":21.14},
 	{"id":"135","inid":12,"type":1,"name":"ジェリアド","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":11.52,"real_posy":309.53,"posx":13.16,"posy":176.88},
 	{"id":"136","inid":7,"type":2,"name":"クリーパー","repop":35,"id_area":76,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":137.19,"real_posy":299.84,"posx":156.79,"posy":171.34},
@@ -358,10 +358,9 @@ MobData = {
 	{"id":"356","inid":21,"type":2,"name":"ダークシャドウ","repop":30,"id_area":114,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":301.55,"real_posy":315.5,"posx":344.63,"posy":180.29},
 	{"id":"357","inid":21,"type":2,"name":"ダークシャドウ","repop":30,"id_area":114,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":297.84,"real_posy":323.78,"posx":340.39,"posy":185.02},
 	{"id":"358","inid":18,"type":2,"name":"ダークシャドウ","repop":120,"id_area":115,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":298.63,"real_posy":317.91,"posx":341.29,"posy":181.66},
-	{"id":"359","inid":22,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":7.48,"real_posy":6.53,"posx":8.55,"posy":3.73},
 ]};
 MobList = {
-	209: ["モンスター", "バフォメット","デビルガード","イビルガード","None.","クローラー","クローラー","クローラー","クリーパー","クリーパー","降神術師","降神術師","現場監督","ジェリアド","リザードガード","デビルガード","イビルガード","リザードガード","ダークシャドウ","ダークシャドウ","ダークシャドウ","ダークシャドウ","ダークシャドウ","ミラーテレポータ","デルロス",],
+	209: ["モンスター", "バフォメット","デビルガード","イビルガード","None.","クローラー","クローラー","クローラー","クリーパー","クリーパー","降神術師","降神術師","現場監督","ジェリアド","リザードガード","デビルガード","イビルガード","リザードガード","ダークシャドウ","ダークシャドウ","ダークシャドウ","ダークシャドウ","ダークシャドウ","デルロス",],
 };
 
 AreaData = {

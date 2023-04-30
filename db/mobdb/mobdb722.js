@@ -75,15 +75,12 @@ MobData = {
 	{"id":"73","inid":3,"type":2,"name":"デスピンサー","repop":20,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":70.73,"real_posy":287.81,"posx":188.33,"posy":383.75},
 	{"id":"74","inid":3,"type":2,"name":"デスピンサー","repop":20,"id_area":18,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":65.3,"real_posy":82.38,"posx":173.85,"posy":109.83},
 	{"id":"75","inid":3,"type":2,"name":"デスピンサー","repop":20,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":53.16,"real_posy":168.41,"posx":141.53,"posy":224.54},
-	{"id":"76","inid":9,"type":2,"name":"覚醒ウォリア","repop":3600,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":55.31,"real_posy":126.38,"posx":147.27,"posy":168.5},
-	{"id":"77","inid":9,"type":2,"name":"覚醒ウォリア","repop":3600,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":70.27,"real_posy":54.59,"posx":187.08,"posy":72.79},
-	{"id":"78","inid":9,"type":2,"name":"覚醒ウォリア","repop":3600,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":68.44,"real_posy":250.72,"posx":182.21,"posy":334.29},
 	{"id":"79","inid":10,"type":1,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":7,"real_posy":289,"posx":18.64,"posy":385.33},
 	{"id":"80","inid":11,"type":15,"name":"Dテレポーター","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":8.28,"real_posy":287.16,"posx":22.05,"posy":382.88},
 	{"id":"81","inid":12,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":13.86,"real_posy":278.22,"posx":36.9,"posy":370.96},
 ]};
 MobList = {
-	722: ["モンスター", "ソードスパイダー","デスピンサー","ソードスパイダー","デスピンサー","悪夢のサソリ","悪夢のサソリ","悪夢のサソリ","悪夢のサソリ","悪夢のサソリ","覚醒ウォリア","ミラーテレポータ","Dテレポーター","ミラーテレポータ",],
+	722: ["モンスター", "ソードスパイダー","デスピンサー","ソードスパイダー","デスピンサー","悪夢のサソリ","悪夢のサソリ","悪夢のサソリ","悪夢のサソリ","悪夢のサソリ","None.","ミラーテレポータ","Dテレポーター","ミラーテレポータ",],
 };
 
 AreaData = {

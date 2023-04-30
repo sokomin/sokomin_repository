@@ -1,7 +1,7 @@
 MobData = {
 	783: [ {"id":"0","inid":1,"type":1,"name":"ラズリ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.02,"real_posy":58.5,"posx":15.02,"posy":58.5},
 	{"id":"1","inid":0,"type":1,"name":"ローラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":31.72,"real_posy":59.56,"posx":31.72,"posy":59.56},
-	{"id":"2","inid":15,"type":1,"name":"セラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":9.08,"real_posy":63.38,"posx":9.08,"posy":63.38},
+	{"id":"2","inid":16,"type":1,"name":"セラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":9.08,"real_posy":63.38,"posx":9.08,"posy":63.38},
 	{"id":"3","inid":2,"type":1,"name":"ジゼル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":24.63,"real_posy":62.25,"posx":24.63,"posy":62.25},
 	{"id":"4","inid":0,"type":1,"name":"ローラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.7,"real_posy":27.94,"posx":25.7,"posy":27.94},
 	{"id":"5","inid":0,"type":1,"name":"ローラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":55.13,"real_posy":88.88,"posx":55.13,"posy":88.88},
@@ -22,9 +22,10 @@ MobData = {
 	{"id":"20","inid":13,"type":1,"name":"ネルラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.72,"real_posy":63.13,"posx":18.72,"posy":63.13},
 	{"id":"21","inid":14,"type":1,"name":"サビエ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":86.48,"real_posy":18.06,"posx":86.48,"posy":18.06},
 	{"id":"22","inid":12,"type":1,"name":"ミラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":88.06,"real_posy":18.91,"posx":88.06,"posy":18.91},
+	{"id":"23","inid":15,"type":1,"name":"警備兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":20.55,"real_posy":66.13,"posx":20.55,"posy":66.13},
 ]};
 MobList = {
-	783: ["モンスター", "ローラ","ラズリ","ジゼル","アマンダ","リンウード","ゾナス","護衛兵","シアドール","ベルナー","ルアン","None.","セレナ","ミラ","ネルラ","サビエ","セラ",],
+	783: ["モンスター", "ローラ","ラズリ","ジゼル","アマンダ","リンウード","ゾナス","護衛兵","シアドール","ベルナー","ルアン","None.","セレナ","ミラ","ネルラ","サビエ","警備兵","セラ",],
 };
 
 AreaData = {

@@ -83,10 +83,9 @@ MobData = {
 	{"id":"81","inid":0,"type":2,"name":"ペールライト","repop":40,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":160.78,"real_posy":96.16,"posx":361.76,"posy":110.58},
 	{"id":"82","inid":0,"type":2,"name":"ペールライト","repop":40,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":73.2,"real_posy":175.5,"posx":164.71,"posy":201.83},
 	{"id":"83","inid":0,"type":2,"name":"ペールライト","repop":40,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":76.8,"real_posy":176.97,"posx":172.79,"posy":203.51},
-	{"id":"84","inid":2,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":56.56,"real_posy":75.53,"posx":127.27,"posy":86.86},
 ]};
 MobList = {
-	819: ["モンスター", "ペールライト","海底ティタン","ミラーテレポータ","海底メロウ",],
+	819: ["モンスター", "ペールライト","海底ティタン","None.","海底メロウ",],
 };
 
 AreaData = {
@@ -94,11 +93,10 @@ AreaData = {
 	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","access_map":"","is_secret":0,"real_posx":45.84,"real_posx2":48.33,"real_posy":67.94,"real_posy2":71.88,"posx":103.15,"posx2":108.74,"posy":78.13,"posy2":82.66},
 	{"id":"3","type":4,"name":"안쪽방-1","access_map":"","is_secret":0,"real_posx":8.94,"real_posx2":22.63,"real_posy":69.31,"real_posy2":89.38,"posx":20.11,"posx2":50.91,"posy":79.71,"posy2":102.78},
-	{"id":"4","type":3,"name":"아멤 아일랜드로","access_map":"[794]G01.rmd","is_secret":0,"real_posx":45.45,"real_posx2":48.09,"real_posy":67.41,"real_posy2":72.09,"posx":102.27,"posx2":108.21,"posy":77.52,"posy2":82.91},
+	{"id":"4","type":3,"name":"원본필드","access_map":"[795]D01.rmd","is_secret":0,"real_posx":45.45,"real_posx2":48.09,"real_posy":67.41,"real_posy2":72.09,"posx":102.27,"posx2":108.21,"posy":77.52,"posy2":82.91},
 	{"id":"5","type":4,"name":"안쪽방-3","access_map":"","is_secret":0,"real_posx":108.91,"real_posx2":122.09,"real_posy":48.66,"real_posy2":65.75,"posx":245.04,"posx2":274.71,"posy":55.95,"posy2":75.61},
 	{"id":"6","type":4,"name":"안쪽방-4","access_map":"","is_secret":0,"real_posx":152.31,"real_posx2":165.08,"real_posy":91.63,"real_posy2":108.44,"posx":342.7,"posx2":371.43,"posy":105.37,"posy2":124.7},
 	{"id":"7","type":4,"name":"안쪽방-5","access_map":"","is_secret":0,"real_posx":68.3,"real_posx2":80.67,"real_posy":174.03,"real_posy2":191.53,"posx":153.67,"posx2":181.51,"posy":200.14,"posy2":220.26},
 	{"id":"8","type":4,"name":"안쪽방-6","access_map":"","is_secret":0,"real_posx":26.72,"real_posx2":38.61,"real_posy":132.06,"real_posy2":149.13,"posx":60.12,"posx2":86.87,"posy":151.87,"posy2":171.49},
 	{"id":"9","type":4,"name":"안쪽방-2","access_map":"","is_secret":0,"real_posx":48.73,"real_posx2":60.84,"real_posy":31.78,"real_posy2":49.78,"posx":109.65,"posx2":136.9,"posy":36.55,"posy2":57.25},
-	{"id":"10","type":3,"name":"해저 신전 B2로","access_map":"[796]D02.rmd","is_secret":0,"real_posx":120.13,"real_posx2":122.53,"real_posy":142.44,"real_posy2":146.5,"posx":270.28,"posx2":275.7,"posy":163.8,"posy2":168.48},
 ]};

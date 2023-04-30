@@ -1,5 +1,6 @@
 MobData = {
-	1009: [ {"id":"1","inid":0,"type":2,"name":"ジャガー","repop":30,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.36,"real_posy":33.97,"posx":24.58,"posy":27.18},
+	1009: [ {"id":"0","inid":12,"type":15,"name":"ミラーテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.2,"real_posy":5.34,"posx":11.53,"posy":4.28},
+	{"id":"1","inid":0,"type":2,"name":"ジャガー","repop":30,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.36,"real_posy":33.97,"posx":24.58,"posy":27.18},
 	{"id":"2","inid":0,"type":2,"name":"ジャガー","repop":30,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.98,"real_posy":34.16,"posx":31.98,"posy":27.33},
 	{"id":"3","inid":0,"type":2,"name":"ジャガー","repop":30,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.13,"real_posy":34.31,"posx":40.2,"posy":27.45},
 	{"id":"4","inid":6,"type":2,"name":"イニグ族の祭司長","repop":1500,"id_area":30,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":47.59,"real_posy":359.5,"posx":76.15,"posy":287.6},
@@ -516,7 +517,7 @@ MobData = {
 	{"id":"644","inid":7,"type":2,"name":"イニグ族の守護者","repop":10,"id_area":60,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":241.38,"real_posy":223.63,"posx":386.2,"posy":178.9},
 ]};
 MobList = {
-	1009: ["モンスター", "ジャガー","調教ジャガー","エルダージャガー","イグニスパトス","彷徨いの妖精","イニグ族の狩人","イニグ族の祭司長","イニグ族の守護者","純白のスミロドン","スミロドン","自爆ヘルパー","森の賢者","None.","None.","None.","乱暴なスミロドン","退屈な妖精","退屈な妖精",],
+	1009: ["モンスター", "ジャガー","調教ジャガー","エルダージャガー","イグニスパトス","彷徨いの妖精","イニグ族の狩人","イニグ族の祭司長","イニグ族の守護者","純白のスミロドン","スミロドン","自爆ヘルパー","森の賢者","ミラーテレポータ","None.","None.","乱暴なスミロドン","退屈な妖精","退屈な妖精",],
 };
 
 AreaData = {

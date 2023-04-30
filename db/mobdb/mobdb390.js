@@ -122,13 +122,15 @@ MobData = {
 	{"id":"120","inid":0,"type":2,"name":"トランクマン","repop":20,"id_area":37,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":137.61,"real_posy":9.97,"posx":275.22,"posy":9.97},
 	{"id":"121","inid":0,"type":2,"name":"トランクマン","repop":20,"id_area":37,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":142.81,"real_posy":12.94,"posx":285.63,"posy":12.94},
 	{"id":"122","inid":2,"type":2,"name":"トレント","repop":20,"id_area":37,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":135.66,"real_posy":17.84,"posx":271.31,"posy":17.84},
-	{"id":"123","inid":6,"type":2,"name":"覚醒サキュバス","repop":1800,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":48.36,"real_posy":57.88,"posx":96.72,"posy":57.88},
-	{"id":"124","inid":6,"type":2,"name":"覚醒サキュバス","repop":1800,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":127.36,"real_posy":75,"posx":254.72,"posy":75},
+	{"id":"124","inid":6,"type":2,"name":"覚醒サキュバス","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":127.36,"real_posy":75,"posx":254.72,"posy":75},
 	{"id":"125","inid":7,"type":1,"name":"ロズウェルト団員","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":6.02,"real_posy":50.72,"posx":12.03,"posy":50.72},
 	{"id":"126","inid":8,"type":1,"name":"エステル","repop":0,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":170.28,"real_posy":54.84,"posx":340.56,"posy":54.84},
-	{"id":"127","inid":6,"type":2,"name":"覚醒サキュバス","repop":1800,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":76.98,"real_posy":24.66,"posx":153.97,"posy":24.66},
 	{"id":"128","inid":9,"type":2,"name":"北のエント","repop":600,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":26.41,"real_posy":68.53,"posx":52.81,"posy":68.53},
 	{"id":"129","inid":9,"type":2,"name":"北のエント","repop":600,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":124.38,"real_posy":10.31,"posx":248.75,"posy":10.31},
+	{"id":"130","inid":6,"type":2,"name":"覚醒サキュバス","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":131.52,"real_posy":70.94,"posx":263.03,"posy":70.94},
+	{"id":"131","inid":6,"type":2,"name":"覚醒サキュバス","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":133.34,"real_posy":64.59,"posx":266.69,"posy":64.59},
+	{"id":"132","inid":6,"type":2,"name":"覚醒サキュバス","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":124.77,"real_posy":70.59,"posx":249.53,"posy":70.59},
+	{"id":"133","inid":6,"type":2,"name":"覚醒サキュバス","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":122.19,"real_posy":65.28,"posx":244.38,"posy":65.28},
 ]};
 MobList = {
 	390: ["モンスター", "トランクマン","ティンバーマン","トレント","マーブルガゴイル","炎鬼","None.","覚醒サキュバス","ロズウェルト団員","エステル","北のエント",],
