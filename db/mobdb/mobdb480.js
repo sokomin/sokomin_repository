@@ -8,9 +8,10 @@ MobData = {
 	{"id":"6","inid":6,"type":1,"name":"冒険家","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":35.52,"real_posy":76.31,"posx":124.3,"posy":133.55},
 	{"id":"7","inid":7,"type":1,"name":"超越の導師バラン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":32.42,"real_posy":38.84,"posx":113.48,"posy":67.98},
 	{"id":"8","inid":8,"type":1,"name":"ヒュイ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":23.63,"real_posy":34.31,"posx":82.69,"posy":60.05},
+	{"id":"9","inid":9,"type":1,"name":"テサ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":53.67,"real_posy":42.59,"posx":187.85,"posy":74.54},
 ]};
 MobList = {
-	480: ["モンスター", "船員","アンジー","ビルド・デーズ","ダドリー","冒険家","冒険家","冒険家","超越の導師バラン","ヒュイ",],
+	480: ["モンスター", "船員","アンジー","ビルド・デーズ","ダドリー","冒険家","冒険家","冒険家","超越の導師バラン","ヒュイ","テサ",],
 };
 
 AreaData = {

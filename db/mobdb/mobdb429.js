@@ -1,6 +1,6 @@
 MobData = {
 	429: [ {"id":"0","inid":4,"type":1,"name":"ペリーヤン","repop":1,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.23,"real_posy":19.53,"posx":27.58,"posy":15.63},
-	{"id":"1","inid":51,"type":1,"name":"セリノ","repop":1,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.28,"real_posy":19.47,"posx":30.85,"posy":15.58},
+	{"id":"1","inid":52,"type":1,"name":"セリノ","repop":1,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.28,"real_posy":19.47,"posx":30.85,"posy":15.58},
 	{"id":"2","inid":0,"type":1,"name":"ジョーンヘダ","repop":1,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.31,"real_posy":19.84,"posx":29.3,"posy":15.88},
 	{"id":"3","inid":1,"type":2,"name":"ワーラット","repop":10,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":54.34,"real_posy":73.94,"posx":86.95,"posy":59.15},
 	{"id":"4","inid":1,"type":2,"name":"ワーラット","repop":10,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":49.48,"real_posy":65.47,"posx":79.18,"posy":52.38},
@@ -187,11 +187,11 @@ MobData = {
 	{"id":"185","inid":14,"type":2,"name":"ホーンド","repop":35,"id_area":31,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":227.45,"real_posy":151.41,"posx":363.93,"posy":121.13},
 	{"id":"186","inid":6,"type":1,"name":"嵐の刃騎士団兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":54.78,"real_posy":29.66,"posx":87.65,"posy":23.73},
 	{"id":"187","inid":3,"type":10,"name":"準騎士カイロン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":57.27,"real_posy":29.72,"posx":91.63,"posy":23.78},
-	{"id":"188","inid":52,"type":1,"name":"監視者メリス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":229.58,"real_posy":49.38,"posx":367.33,"posy":39.5},
+	{"id":"188","inid":53,"type":1,"name":"監視者メリス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":229.58,"real_posy":49.38,"posx":367.33,"posy":39.5},
 	{"id":"189","inid":6,"type":1,"name":"嵐の刃騎士団兵","repop":1,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":159.09,"real_posy":16.69,"posx":254.55,"posy":13.35},
-	{"id":"190","inid":53,"type":1,"name":"騎士団所属管理者","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":184.98,"real_posy":10.13,"posx":295.98,"posy":8.1},
+	{"id":"190","inid":54,"type":1,"name":"騎士団所属管理者","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":184.98,"real_posy":10.13,"posx":295.98,"posy":8.1},
 	{"id":"191","inid":6,"type":1,"name":"嵐の刃騎士団兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":187.13,"real_posy":12.88,"posx":299.4,"posy":10.3},
-	{"id":"192","inid":54,"type":10,"name":"グリース","repop":1,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":185.23,"real_posy":12.84,"posx":296.38,"posy":10.28},
+	{"id":"192","inid":55,"type":10,"name":"グリース","repop":1,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":185.23,"real_posy":12.84,"posx":296.38,"posy":10.28},
 	{"id":"193","inid":6,"type":1,"name":"嵐の刃騎士団兵","repop":1,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":187.03,"real_posy":6.75,"posx":299.25,"posy":5.4},
 	{"id":"194","inid":7,"type":10,"name":"ナーチャル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":35.78,"real_posy":80.06,"posx":57.25,"posy":64.05},
 	{"id":"195","inid":6,"type":1,"name":"嵐の刃騎士団兵","repop":1,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":178.56,"real_posy":9.66,"posx":285.7,"posy":7.73},
@@ -289,6 +289,7 @@ MobData = {
 	{"id":"287","inid":49,"type":2,"name":"精鋭サキュバス","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":101.5,"real_posy":99.84,"posx":162.4,"posy":79.88},
 	{"id":"288","inid":49,"type":2,"name":"精鋭サキュバス","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":109.61,"real_posy":102.56,"posx":175.38,"posy":82.05},
 	{"id":"289","inid":49,"type":2,"name":"精鋭サキュバス","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":105.17,"real_posy":107.59,"posx":168.28,"posy":86.08},
+	{"id":"290","inid":51,"type":2,"name":"レアコクーン闇商","repop":120,"id_area":110,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":237.53,"real_posy":131,"posx":380.05,"posy":104.8},
 	{"id":"291","inid":50,"type":2,"name":"コクーン闇商人","repop":20,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":55.86,"real_posy":66.25,"posx":89.38,"posy":53},
 	{"id":"292","inid":50,"type":2,"name":"コクーン闇商人","repop":20,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":52.16,"real_posy":79.75,"posx":83.45,"posy":63.8},
 	{"id":"293","inid":50,"type":2,"name":"コクーン闇商人","repop":20,"id_area":12,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.41,"real_posy":93.63,"posx":115.85,"posy":74.9},
@@ -301,9 +302,11 @@ MobData = {
 	{"id":"300","inid":50,"type":2,"name":"コクーン闇商人","repop":20,"id_area":86,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.59,"real_posy":111.03,"posx":55.35,"posy":88.83},
 	{"id":"301","inid":50,"type":2,"name":"コクーン闇商人","repop":20,"id_area":20,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":143.72,"real_posy":66.47,"posx":229.95,"posy":53.18},
 	{"id":"302","inid":49,"type":2,"name":"精鋭サキュバス","repop":1200,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":105.58,"real_posy":102.25,"posx":168.93,"posy":81.8},
+	{"id":"303","inid":51,"type":2,"name":"レアコクーン闇商","repop":120,"id_area":110,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":240.42,"real_posy":136.31,"posx":384.68,"posy":109.05},
+	{"id":"304","inid":51,"type":2,"name":"レアコクーン闇商","repop":120,"id_area":110,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":244.92,"real_posy":136.59,"posx":391.88,"posy":109.28},
 ]};
 MobList = {
-	429: ["モンスター", "ジョーンヘダ","ワーラット","ドゥームスフィア","準騎士カイロン","ペリーヤン","古代悪魔","嵐の刃騎士団兵","ナーチャル","ダークパースー","デスピンサー","ワーラット","大型骸骨","斧槍兵","悪魔軍幹部","ホーンド","None.","ピエンド","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","セルティオネ","氷の刃傭兵団員","ヴィンス","悪魔軍偵察兵","ヴィンスの猟犬","蟲の群れ","不浄犬","オーガチーフ","オーガゼネラル","オーガゼネラル","オーガゼネラル","オーガゼネラル","ミラーテレポータ","Dテレポーター","ミラーテレポータ","猿王バット","悪魔軍幹部","None.","None.","None.","None.","None.","精鋭サキュバス","コクーン闇商人","セリノ","監視者メリス","騎士団所属管理者","グリース",],
+	429: ["モンスター", "ジョーンヘダ","ワーラット","ドゥームスフィア","準騎士カイロン","ペリーヤン","古代悪魔","嵐の刃騎士団兵","ナーチャル","ダークパースー","デスピンサー","ワーラット","大型骸骨","斧槍兵","悪魔軍幹部","ホーンド","None.","ピエンド","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","セルティオネ","氷の刃傭兵団員","ヴィンス","悪魔軍偵察兵","ヴィンスの猟犬","蟲の群れ","不浄犬","オーガチーフ","オーガゼネラル","オーガゼネラル","オーガゼネラル","オーガゼネラル","ミラーテレポータ","Dテレポーター","ミラーテレポータ","猿王バット","悪魔軍幹部","None.","None.","None.","None.","None.","精鋭サキュバス","コクーン闇商人","レアコクーン闇商","セリノ","監視者メリス","騎士団所属管理者","グリース",],
 };
 
 AreaData = {
@@ -416,4 +419,6 @@ AreaData = {
 	{"id":"106","type":0,"name":"Area 105","access_map":"","is_secret":0,"real_posx":14.73,"real_posx2":15.5,"real_posy":71.78,"real_posy2":72.78,"posx":23.58,"posx2":24.8,"posy":57.43,"posy2":58.23},
 	{"id":"107","type":4,"name":"개발팀 패밀리","access_map":"","is_secret":0,"real_posx":108.81,"real_posx2":122.09,"real_posy":77.63,"real_posy2":96.06,"posx":174.1,"posx2":195.35,"posy":62.1,"posy2":76.85},
 	{"id":"108","type":4,"name":"엘리트 몽마 젠","access_map":"","is_secret":0,"real_posx":67.8,"real_posx2":213.42,"real_posy":46.25,"real_posy2":161.63,"posx":108.48,"posx2":341.48,"posy":37,"posy2":129.3},
+	{"id":"109","type":12,"name":"交渉地の石碑","access_map":"","is_secret":0,"real_posx":241.02,"real_posx2":245.95,"real_posy":124.06,"real_posy2":129.56,"posx":385.63,"posx2":393.53,"posy":99.25,"posy2":103.65},
+	{"id":"110","type":4,"name":"희귀 코쿤 암상인 접선지","access_map":"","is_secret":0,"real_posx":235,"real_posx2":249.03,"real_posy":123.03,"real_posy2":141.03,"posx":376,"posx2":398.45,"posy":98.43,"posy2":112.83},
 ]};
