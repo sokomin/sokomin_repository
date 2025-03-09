@@ -1,5 +1,5 @@
 MobData = {
-	1098: [ {"id":"0","inid":1,"type":2,"name":"荒野捕食カエル","repop":25,"id_area":24,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":151.91,"real_posy":149.63,"posx":324.07,"posy":159.6},
+	1104: [ {"id":"0","inid":1,"type":2,"name":"荒野捕食カエル","repop":25,"id_area":24,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":151.91,"real_posy":149.63,"posx":324.07,"posy":159.6},
 	{"id":"1","inid":1,"type":2,"name":"荒野捕食カエル","repop":25,"id_area":24,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":150.08,"real_posy":152.75,"posx":320.17,"posy":162.93},
 	{"id":"2","inid":1,"type":2,"name":"荒野捕食カエル","repop":25,"id_area":24,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":153.38,"real_posy":152.59,"posx":327.2,"posy":162.77},
 	{"id":"3","inid":1,"type":2,"name":"荒野捕食カエル","repop":25,"id_area":24,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":152.27,"real_posy":155,"posx":324.83,"posy":165.33},
@@ -552,11 +552,11 @@ MobData = {
 	{"id":"550","inid":1,"type":2,"name":"荒野捕食カエル","repop":25,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":71.55,"real_posy":105.84,"posx":152.63,"posy":112.9},
 ]};
 MobList = {
-	1098: ["モンスター", "峡谷カボチャ魔","荒野捕食カエル","峡谷バッファロー","リビチャリオット","マリアチデモン","ドレッドゴア","ミラーテレポーター",],
+	1104: ["モンスター", "峡谷カボチャ魔","荒野捕食カエル","峡谷バッファロー","リビチャリオット","マリアチデモン","ドレッドゴア","ミラーテレポーター",],
 };
 
 AreaData = {
-	1098: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	1104: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":3,"name":"카이그란 협곡 초입 포탈","access_map":"[1097]KaigranCanyonEnt_1.rmd","is_secret":0,"real_posx":28.48,"real_posx2":31.75,"real_posy":158.09,"real_posy2":163.31,"posx":60.77,"posx2":67.73,"posy":168.63,"posy2":174.2},
 	{"id":"3","type":3,"name":"카이그란 협곡 심부 포탈","access_map":"[1099]KaigranCanyonDep_1.rmd","is_secret":0,"real_posx":276.75,"real_posx2":280.06,"real_posy":263.66,"real_posy2":269.22,"posx":590.4,"posx2":597.47,"posy":281.23,"posy2":287.17},

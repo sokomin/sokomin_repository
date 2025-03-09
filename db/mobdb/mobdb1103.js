@@ -1,5 +1,5 @@
 MobData = {
-	1098: [ {"id":"0","inid":1,"type":2,"name":"荒野捕食カエル","repop":25,"id_area":24,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":151.91,"real_posy":149.63,"posx":324.07,"posy":159.6},
+	1103: [ {"id":"0","inid":1,"type":2,"name":"荒野捕食カエル","repop":25,"id_area":24,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":151.91,"real_posy":149.63,"posx":324.07,"posy":159.6},
 	{"id":"1","inid":1,"type":2,"name":"荒野捕食カエル","repop":25,"id_area":24,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":150.08,"real_posy":152.75,"posx":320.17,"posy":162.93},
 	{"id":"2","inid":1,"type":2,"name":"荒野捕食カエル","repop":25,"id_area":24,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":153.38,"real_posy":152.59,"posx":327.2,"posy":162.77},
 	{"id":"3","inid":1,"type":2,"name":"荒野捕食カエル","repop":25,"id_area":24,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":152.27,"real_posy":155,"posx":324.83,"posy":165.33},
@@ -319,7 +319,6 @@ MobData = {
 	{"id":"317","inid":1,"type":2,"name":"荒野捕食カエル","repop":25,"id_area":90,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":248.2,"real_posy":243,"posx":529.5,"posy":259.2},
 	{"id":"318","inid":5,"type":2,"name":"ドレッドゴア","repop":25,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":70.27,"real_posy":103.88,"posx":149.9,"posy":110.8},
 	{"id":"319","inid":5,"type":2,"name":"ドレッドゴア","repop":25,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":67.59,"real_posy":104.69,"posx":144.2,"posy":111.67},
-	{"id":"320","inid":6,"type":15,"name":"ミラーテレポーター","repop":25,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.36,"real_posy":158.06,"posx":54.1,"posy":168.6},
 	{"id":"321","inid":4,"type":2,"name":"マリアチデモン","repop":25,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":71.22,"real_posy":140.22,"posx":151.93,"posy":149.57},
 	{"id":"322","inid":4,"type":2,"name":"マリアチデモン","repop":25,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.08,"real_posy":141.81,"posx":153.77,"posy":151.27},
 	{"id":"323","inid":4,"type":2,"name":"マリアチデモン","repop":25,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":68.88,"real_posy":143.91,"posx":146.93,"posy":153.5},
@@ -552,11 +551,11 @@ MobData = {
 	{"id":"550","inid":1,"type":2,"name":"荒野捕食カエル","repop":25,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":71.55,"real_posy":105.84,"posx":152.63,"posy":112.9},
 ]};
 MobList = {
-	1098: ["モンスター", "峡谷カボチャ魔","荒野捕食カエル","峡谷バッファロー","リビチャリオット","マリアチデモン","ドレッドゴア","ミラーテレポーター",],
+	1103: ["モンスター", "峡谷カボチャ魔","荒野捕食カエル","峡谷バッファロー","リビチャリオット","マリアチデモン","ドレッドゴア",],
 };
 
 AreaData = {
-	1098: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	1103: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":3,"name":"카이그란 협곡 초입 포탈","access_map":"[1097]KaigranCanyonEnt_1.rmd","is_secret":0,"real_posx":28.48,"real_posx2":31.75,"real_posy":158.09,"real_posy2":163.31,"posx":60.77,"posx2":67.73,"posy":168.63,"posy2":174.2},
 	{"id":"3","type":3,"name":"카이그란 협곡 심부 포탈","access_map":"[1099]KaigranCanyonDep_1.rmd","is_secret":0,"real_posx":276.75,"real_posx2":280.06,"real_posy":263.66,"real_posy2":269.22,"posx":590.4,"posx2":597.47,"posy":281.23,"posy2":287.17},

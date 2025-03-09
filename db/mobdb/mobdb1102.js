@@ -1,5 +1,5 @@
 MobData = {
-	1097: [ {"id":"0","inid":2,"type":2,"name":"峡谷バッファロー","repop":25,"id_area":90,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":119.19,"real_posy":21.06,"posx":254.27,"posy":22.47},
+	1102: [ {"id":"0","inid":2,"type":2,"name":"峡谷バッファロー","repop":25,"id_area":90,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":119.19,"real_posy":21.06,"posx":254.27,"posy":22.47},
 	{"id":"1","inid":2,"type":2,"name":"峡谷バッファロー","repop":25,"id_area":90,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":121.69,"real_posy":22.72,"posx":259.6,"posy":24.23},
 	{"id":"2","inid":2,"type":2,"name":"峡谷バッファロー","repop":25,"id_area":90,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":119.47,"real_posy":23.34,"posx":254.87,"posy":24.9},
 	{"id":"3","inid":0,"type":2,"name":"峡谷カボチャ魔","repop":25,"id_area":90,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":120.58,"real_posy":19.53,"posx":257.23,"posy":20.83},
@@ -524,14 +524,13 @@ MobData = {
 	{"id":"524","inid":5,"type":2,"name":"タロンクラン","repop":25,"id_area":100,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":251.97,"real_posy":230.16,"posx":537.53,"posy":245.5},
 	{"id":"525","inid":5,"type":2,"name":"タロンクラン","repop":25,"id_area":100,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":252.25,"real_posy":232.22,"posx":538.13,"posy":247.7},
 	{"id":"526","inid":4,"type":2,"name":"ガストクラン","repop":25,"id_area":106,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":218.97,"real_posy":229.78,"posx":467.13,"posy":245.1},
-	{"id":"527","inid":6,"type":15,"name":"ミラーテレポーター","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.84,"real_posy":199.16,"posx":33.8,"posy":212.43},
 ]};
 MobList = {
-	1097: ["モンスター", "峡谷カボチャ魔","荒野捕食カエル","峡谷バッファロー","リビチャリオット","ガストクラン","タロンクラン","ミラーテレポーター",],
+	1102: ["モンスター", "峡谷カボチャ魔","荒野捕食カエル","峡谷バッファロー","リビチャリオット","ガストクラン","タロンクラン",],
 };
 
 AreaData = {
-	1097: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	1102: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":3,"name":"우트바울 호 포탈","access_map":"[1098]WutboulLake_1.rmd","is_secret":0,"real_posx":289.22,"real_posx2":293.91,"real_posy":137.19,"real_posy2":145.63,"posx":617,"posx2":627,"posy":146.33,"posy2":155.33},
 	{"id":"3","type":3,"name":"파운틴스 아일랜드 포탈","access_map":"[279]M05.rmd","is_secret":0,"real_posx":9.17,"real_posx2":13.33,"real_posy":197.75,"real_posy2":203.84,"posx":19.57,"posx2":28.43,"posy":210.93,"posy2":217.43},

@@ -1,5 +1,5 @@
 MobData = {
-	1099: [ {"id":"0","inid":0,"type":2,"name":"ガストクラン","repop":25,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":47.22,"real_posy":59.94,"posx":100.73,"posy":63.93},
+	1107: [ {"id":"0","inid":0,"type":2,"name":"ガストクラン","repop":25,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":47.22,"real_posy":59.94,"posx":100.73,"posy":63.93},
 	{"id":"1","inid":0,"type":2,"name":"ガストクラン","repop":25,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":46.64,"real_posy":64.53,"posx":99.5,"posy":68.83},
 	{"id":"2","inid":0,"type":2,"name":"ガストクラン","repop":25,"id_area":12,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":37.94,"real_posy":80.25,"posx":80.93,"posy":85.6},
 	{"id":"3","inid":0,"type":2,"name":"ガストクラン","repop":25,"id_area":12,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":36.11,"real_posy":77.59,"posx":77.03,"posy":82.77},
@@ -421,7 +421,6 @@ MobData = {
 	{"id":"419","inid":1,"type":2,"name":"タロンクラン","repop":25,"id_area":45,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":116.52,"real_posy":128.28,"posx":248.57,"posy":136.83},
 	{"id":"420","inid":1,"type":2,"name":"タロンクラン","repop":25,"id_area":68,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":193.7,"real_posy":131.91,"posx":413.23,"posy":140.7},
 	{"id":"421","inid":1,"type":2,"name":"タロンクラン","repop":25,"id_area":68,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":193.97,"real_posy":126.03,"posx":413.8,"posy":134.43},
-	{"id":"422","inid":4,"type":15,"name":"ミラーテレポーター","repop":25,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":46.53,"real_posy":33.19,"posx":99.27,"posy":35.4},
 	{"id":"423","inid":1,"type":2,"name":"タロンクラン","repop":25,"id_area":69,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":178.7,"real_posy":105.09,"posx":381.23,"posy":112.1},
 	{"id":"424","inid":1,"type":2,"name":"タロンクラン","repop":25,"id_area":69,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":177.72,"real_posy":103.53,"posx":379.13,"posy":110.43},
 	{"id":"425","inid":2,"type":2,"name":"レンジャビースト","repop":25,"id_area":84,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":212.73,"real_posy":159.44,"posx":453.83,"posy":170.07},
@@ -577,11 +576,11 @@ MobData = {
 	{"id":"575","inid":1,"type":2,"name":"タロンクラン","repop":25,"id_area":44,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":97.16,"real_posy":133.91,"posx":207.27,"posy":142.83},
 ]};
 MobList = {
-	1099: ["モンスター", "ガストクラン","タロンクラン","レンジャビースト","アクィラビースト","ミラーテレポーター",],
+	1107: ["モンスター", "ガストクラン","タロンクラン","レンジャビースト","アクィラビースト",],
 };
 
 AreaData = {
-	1099: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	1107: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":3,"name":"우트바울 호","access_map":"[1098]WutboulLake_1.rmd","is_secret":0,"real_posx":48.23,"real_posx2":52.36,"real_posy":26.75,"real_posy2":32.31,"posx":102.9,"posx2":111.7,"posy":28.53,"posy2":34.47},
 	{"id":"3","type":4,"name":"Monster Area 1","access_map":"","is_secret":0,"real_posx":44.31,"real_posx2":50.56,"real_posy":56.25,"real_posy2":66.88,"posx":94.53,"posx2":107.87,"posy":60,"posy2":71.33},
