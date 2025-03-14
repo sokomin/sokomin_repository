@@ -1,5 +1,5 @@
 MobData = {
-	1121: [ {"id":"0","inid":2,"type":2,"name":"ラスティーハンマ","repop":25,"id_area":5,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":86.88,"real_posy":257.22,"posx":155.22,"posy":329.24},
+	1128: [ {"id":"0","inid":2,"type":2,"name":"ラスティーハンマ","repop":25,"id_area":5,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":86.88,"real_posy":257.22,"posx":155.22,"posy":329.24},
 	{"id":"1","inid":2,"type":2,"name":"ラスティーハンマ","repop":25,"id_area":5,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":88,"real_posy":262.13,"posx":157.23,"posy":335.52},
 	{"id":"2","inid":2,"type":2,"name":"ラスティーハンマ","repop":25,"id_area":3,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":107.2,"real_posy":270.91,"posx":191.54,"posy":346.76},
 	{"id":"3","inid":2,"type":2,"name":"ラスティーハンマ","repop":25,"id_area":3,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":105.13,"real_posy":274.09,"posx":187.82,"posy":350.84},
@@ -574,17 +574,17 @@ MobData = {
 	{"id":"572","inid":0,"type":2,"name":"プレーグダスト","repop":25,"id_area":21,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":227.61,"real_posy":138.34,"posx":406.66,"posy":177.08},
 	{"id":"573","inid":0,"type":2,"name":"プレーグダスト","repop":25,"id_area":21,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":227.89,"real_posy":140.5,"posx":407.16,"posy":179.84},
 	{"id":"574","inid":0,"type":2,"name":"プレーグダスト","repop":25,"id_area":21,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":229.08,"real_posy":139.91,"posx":409.29,"posy":179.08},
-	{"id":"575","inid":6,"type":15,"name":"ミラーテレポーター","repop":120,"id_area":256,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":93.05,"real_posy":291.75,"posx":166.24,"posy":373.44},
-	{"id":"576","inid":7,"type":1,"name":"ファミセ","repop":120,"id_area":256,"lv_min":2020,"lv_max":2030,"is_npc":true,"real_posx":80.48,"real_posy":285.13,"posx":143.8,"posy":364.96},
-	{"id":"577","inid":8,"type":1,"name":"フューニティー","repop":120,"id_area":256,"lv_min":2020,"lv_max":2030,"is_npc":true,"real_posx":79.64,"real_posy":287.09,"posx":142.29,"posy":367.48},
-	{"id":"578","inid":9,"type":1,"name":"ファミセ","repop":120,"id_area":256,"lv_min":2020,"lv_max":2030,"is_npc":true,"real_posx":44.25,"real_posy":187.25,"posx":79.06,"posy":239.68},
-	{"id":"579","inid":10,"type":1,"name":"フューニティー","repop":120,"id_area":256,"lv_min":2020,"lv_max":2030,"is_npc":true,"real_posx":44.81,"real_posy":190.72,"posx":80.07,"posy":244.12},
-	{"id":"580","inid":12,"type":2,"name":"無敵の変異体","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":227.94,"real_posy":271.03,"posx":407.25,"posy":346.92},
-	{"id":"581","inid":12,"type":2,"name":"無敵の変異体","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":238.44,"real_posy":276.56,"posx":426.01,"posy":354},
-	{"id":"582","inid":12,"type":2,"name":"無敵の変異体","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":247.56,"real_posy":270.56,"posx":442.31,"posy":346.32},
-	{"id":"583","inid":13,"type":2,"name":"無敵の守護者","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":229.05,"real_posy":280.56,"posx":409.23,"posy":359.12},
-	{"id":"584","inid":13,"type":2,"name":"無敵の守護者","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":238.36,"real_posy":270.97,"posx":425.87,"posy":346.84},
-	{"id":"585","inid":13,"type":2,"name":"無敵の守護者","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":246.98,"real_posy":281.66,"posx":441.28,"posy":360.52},
+	// {"id":"575","inid":6,"type":15,"name":"ミラーテレポーター","repop":120,"id_area":256,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":93.05,"real_posy":291.75,"posx":166.24,"posy":373.44},
+	// {"id":"576","inid":7,"type":1,"name":"ファミセ","repop":120,"id_area":256,"lv_min":2020,"lv_max":2030,"is_npc":true,"real_posx":80.48,"real_posy":285.13,"posx":143.8,"posy":364.96},
+	// {"id":"577","inid":8,"type":1,"name":"フューニティー","repop":120,"id_area":256,"lv_min":2020,"lv_max":2030,"is_npc":true,"real_posx":79.64,"real_posy":287.09,"posx":142.29,"posy":367.48},
+	// {"id":"578","inid":9,"type":1,"name":"ファミセ","repop":120,"id_area":256,"lv_min":2020,"lv_max":2030,"is_npc":true,"real_posx":44.25,"real_posy":187.25,"posx":79.06,"posy":239.68},
+	// {"id":"579","inid":10,"type":1,"name":"フューニティー","repop":120,"id_area":256,"lv_min":2020,"lv_max":2030,"is_npc":true,"real_posx":44.81,"real_posy":190.72,"posx":80.07,"posy":244.12},
+	// {"id":"580","inid":12,"type":2,"name":"無敵の変異体","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":227.94,"real_posy":271.03,"posx":407.25,"posy":346.92},
+	// {"id":"581","inid":12,"type":2,"name":"無敵の変異体","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":238.44,"real_posy":276.56,"posx":426.01,"posy":354},
+	// {"id":"582","inid":12,"type":2,"name":"無敵の変異体","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":247.56,"real_posy":270.56,"posx":442.31,"posy":346.32},
+	// {"id":"583","inid":13,"type":2,"name":"無敵の守護者","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":229.05,"real_posy":280.56,"posx":409.23,"posy":359.12},
+	// {"id":"584","inid":13,"type":2,"name":"無敵の守護者","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":238.36,"real_posy":270.97,"posx":425.87,"posy":346.84},
+	// {"id":"585","inid":13,"type":2,"name":"無敵の守護者","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":246.98,"real_posy":281.66,"posx":441.28,"posy":360.52},
 	// {"id":"586","inid":14,"type":2,"name":"[無敵]バイオレット","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":238.89,"real_posy":287.06,"posx":426.82,"posy":367.44},
 	// {"id":"587","inid":14,"type":2,"name":"[無敵]バイオレット","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":229.53,"real_posy":291.72,"posx":410.1,"posy":373.4},
 	// {"id":"588","inid":14,"type":2,"name":"[無敵]バイオレット","repop":120,"id_area":128,"lv_min":2020,"lv_max":2030,"is_npc":false,"real_posx":246.94,"real_posy":292.38,"posx":441.2,"posy":374.24},
@@ -592,11 +592,11 @@ MobData = {
 	]};
 	
 MobList = {
-	1121: ["モンスター", "プレーグダスト","蛾の変異体","ラスティーハンマ","一時期の守護者","没落者","バイオレイトワン","ミラーテレポーター","クリムゾン・ランサー","ファミセ","フューニティー",],
+	1128: ["モンスター", "プレーグダスト","蛾の変異体","ラスティーハンマ","一時期の守護者","没落者","バイオレイトワン"],
 };
 
 AreaData = {
-	1121: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	1128: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","access_map":"","is_secret":0,"real_posx":81.39,"real_posx2":84.75,"real_posy":290.69,"real_posy2":295.75,"posx":173.63,"posx2":180.8,"posy":372.08,"posy2":378.56},
 	{"id":"3","type":4,"name":"Monster Area 1","access_map":"","is_secret":0,"real_posx":102.72,"real_posx2":109.41,"real_posy":265.69,"real_posy2":280.66,"posx":219.13,"posx2":233.4,"posy":340.08,"posy2":359.24},
