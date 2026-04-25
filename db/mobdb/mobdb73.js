@@ -118,10 +118,10 @@ MobData = {
 	{"id":"288","inid":11,"type":2,"name":"シューター","repop":20,"id_area":74,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":30.89,"real_posy":170.66,"posx":47.52,"posy":131.65},
 ]};
 MobList = {
-	73: ["モンスター", "None.","None.","テンプラー","ゴブリン","シューター","ラットシーフ","オーガ","ゴブリン","鷲闘士","テンプラー","サイドウォーカー","シューター","ビッグクラブ","マージルリンド",],
+	73: ["モンスター","None.","None.","テンプラー","ゴブリン","シューター","ラットシーフ","オーガ","ゴブリン","鷲闘士","テンプラー","サイドウォーカー","シューター","ビッグクラブ","マージルリンド"],
 };
 AreaData = {
-	73: [ {"id":"0","type":0,"name":"_フィールド全体","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":-240,"real_posy2":-240,"posx":0,"posx2":0,"posy":-185.14,"posy2":-185.14},
+	73: [ {"id":"0","type":0,"name":"_フィールド全体","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":-240,"real_posy2":-240,"posx":0,"posx2":0,"posy":103539205.03,"posy2":103539205.03},
 	{"id":"1","type":0,"name":"_画面","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":3,"name":"テンドペンド平原 / ブンド川","area_name":"","access_map":"[072]G29.rmd","is_secret":0,"real_posx":255.47,"real_posx2":257.03,"real_posy":36.72,"real_posy2":39.94,"posx":393.03,"posx2":395.43,"posy":28.33,"posy2":30.81},
 	{"id":"3","type":4,"name":"テンドペンド平原 / ブンド川","area_name":"","access_map":"[072]G29.rmd","is_secret":0,"real_posx":190.41,"real_posx2":201.98,"real_posy":160.56,"real_posy2":180.38,"posx":292.93,"posx2":310.75,"posy":123.86,"posy2":139.15},
@@ -174,7 +174,7 @@ AreaData = {
 	{"id":"81","type":6,"name":"海(ダイム内海)","area_name":"","access_map":"","is_secret":0,"real_posx":173.62,"real_posx2":175.72,"real_posy":98.59,"real_posy2":100.34,"posx":267.12,"posx2":270.34,"posy":76.06,"posy2":77.41},
 	{"id":"82","type":6,"name":"荒涼たる海岸 ","area_name":"","access_map":"","is_secret":0,"real_posx":211.48,"real_posx2":213.05,"real_posy":45.16,"real_posy2":48.03,"posx":325.36,"posx2":327.76,"posy":34.83,"posy2":37.05},
 	{"id":"83","type":6,"name":"海岸街北側","area_name":"","access_map":"","is_secret":0,"real_posx":232.77,"real_posx2":233.97,"real_posy":12.34,"real_posy2":12.97,"posx":358.1,"posx2":359.95,"posy":9.52,"posy2":10},
-	{"id":"84","type":6,"name":"鷲闘士出没地域 ","area_name":"","access_map":"","is_secret":0,"real_posx":223.95,"real_posx2":225.83,"real_posy":177.62,"real_posy2":178.44,"posx":344.54,"posx2":347.43,"posy":137.02,"posy2":137.65},
+	{"id":"84","type":6,"name":"鷲闘士出没地域 ","area_name":"","access_map":"","is_secret":0,"real_posx":223.95,"real_posx2":225.83,"real_posy":177.62,"real_posy2":178.44,"posx":344.54,"posx2":347.43,"posy":137.03,"posy2":137.65},
 	{"id":"85","type":6,"name":"オーガ出没地域 ","area_name":"","access_map":"","is_secret":0,"real_posx":226.78,"real_posx2":228.22,"real_posy":126.62,"real_posy2":127.88,"posx":348.89,"posx2":351.11,"posy":97.68,"posy2":98.65},
 	{"id":"86","type":6,"name":"ラットシーフ出没地域 ","area_name":"","access_map":"","is_secret":0,"real_posx":229.91,"real_posx2":231.89,"real_posy":77.66,"real_posy2":78.78,"posx":353.7,"posx2":356.75,"posy":59.91,"posy2":60.77},
 	{"id":"88","type":3,"name":"テンドペンド平原 / トワイライト滝付近","area_name":"","access_map":"[127]G31.rmd","is_secret":0,"real_posx":256.22,"real_posx2":257.97,"real_posy":118.59,"real_posy2":119.88,"posx":394.18,"posx2":396.88,"posy":91.49,"posy2":92.48},

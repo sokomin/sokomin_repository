@@ -10,7 +10,7 @@ MobData = {
 	{"id":"8","inid":1,"type":1,"name":"決戦場警備兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.64,"real_posy":28.28,"posx":115.47,"posy":46.99},
 ]};
 MobList = {
-	901: ["モンスター", "決戦場管理人", "決戦場警備兵", "決戦場テレポータ", "決戦ルールガイド",],
+	901: ["モンスター","決戦場管理人","決戦場警備兵","決戦場テレポータ","決戦ルールガイド"],
 };
 AreaData = {
 	901: [ {"id":"0","type":0,"name":"_フィールド全体","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

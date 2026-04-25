@@ -7,7 +7,7 @@ MobData = {
 	{"id":"5","inid":1,"type":1,"name":"RED STONE守護士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":17.05,"real_posy":51.53,"posx":19.73,"posy":44.53},
 ]};
 MobList = {
-	479: ["モンスター", "オニトルロ", "RED STONE守護士", "テマヌエル",],
+	479: ["モンスター","オニトルロ","RED STONE守護士","テマヌエル"],
 };
 AreaData = {
 	479: []};

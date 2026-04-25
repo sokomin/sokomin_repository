@@ -7,7 +7,7 @@ MobData = {
 	{"id":"5","inid":0,"type":2,"name":"リーチ","repop":30,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.2,"real_posy":74.62,"posx":121.35,"posy":248.5},
 	{"id":"6","inid":0,"type":2,"name":"リーチ","repop":30,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":23.59,"real_posy":60.06,"posx":157.29,"posy":200.01},
 	{"id":"9","inid":0,"type":2,"name":"リーチ","repop":30,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":11.5,"real_posy":67.16,"posx":76.67,"posy":223.63},
-	{"id":"10","inid":0,"type":2,"name":"リーチ","repop":30,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.09,"real_posy":47.19,"posx":160.62,"posy":157.13},
+	{"id":"10","inid":0,"type":2,"name":"リーチ","repop":30,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.09,"real_posy":47.19,"posx":160.63,"posy":157.13},
 	{"id":"12","inid":0,"type":2,"name":"リーチ","repop":30,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.34,"real_posy":50.5,"posx":162.29,"posy":168.16},
 	{"id":"13","inid":0,"type":2,"name":"リーチ","repop":30,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":13.94,"real_posy":30.53,"posx":92.92,"posy":101.67},
 	{"id":"14","inid":0,"type":2,"name":"リーチ","repop":30,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":12.55,"real_posy":32,"posx":83.65,"posy":106.56},
@@ -19,7 +19,7 @@ MobData = {
 	{"id":"20","inid":0,"type":2,"name":"リーチ","repop":30,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":5.66,"real_posy":27.59,"posx":37.71,"posy":91.89},
 ]};
 MobList = {
-	93: ["モンスター", "リーチ",],
+	93: ["モンスター","リーチ"],
 };
 AreaData = {
 	93: [ {"id":"0","type":0,"name":"_フィールド全体","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

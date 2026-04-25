@@ -12,26 +12,26 @@ MobData = {
 	{"id":"20","inid":0,"type":2,"name":"シューター","repop":20,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.88,"real_posy":11.5,"posx":51.75,"posy":11.5},
 	{"id":"23","inid":0,"type":2,"name":"シューター","repop":20,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":11.22,"real_posy":22,"posx":22.44,"posy":22},
 	{"id":"-25","inid":0,"type":2,"name":"シューター","repop":20,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":13.06,"real_posy":13.34,"posx":26.12,"posy":13.34},
-	{"id":"28","inid":0,"type":2,"name":"シューター","repop":20,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":9.31,"real_posy":39.5,"posx":18.62,"posy":39.5},
+	{"id":"28","inid":0,"type":2,"name":"シューター","repop":20,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":9.31,"real_posy":39.5,"posx":18.63,"posy":39.5},
 	{"id":"31","inid":0,"type":2,"name":"シューター","repop":20,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":31.41,"real_posy":38.44,"posx":62.81,"posy":38.44},
 	{"id":"32","inid":0,"type":2,"name":"シューター","repop":20,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":26.09,"real_posy":40.38,"posx":52.19,"posy":40.38},
-	{"id":"33","inid":0,"type":2,"name":"シューター","repop":20,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.94,"real_posy":36.62,"posx":51.88,"posy":36.62},
+	{"id":"33","inid":0,"type":2,"name":"シューター","repop":20,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.94,"real_posy":36.62,"posx":51.88,"posy":36.63},
 	{"id":"34","inid":0,"type":2,"name":"シューター","repop":20,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.5,"real_posy":18.75,"posx":69,"posy":18.75},
 	{"id":"35","inid":3,"type":2,"name":"イスペンド","repop":20,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":12.16,"real_posy":15.88,"posx":24.31,"posy":15.88},
 ]};
 MobList = {
-	56: ["モンスター", "シューター", "スナイパー", "None.", "イスペンド",],
+	56: ["モンスター","シューター","スナイパー","None.","イスペンド"],
 };
 AreaData = {
 	56: [ {"id":"0","type":0,"name":"_フィールド全体","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_画面","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":3,"name":"ハノブ高台望楼　１Ｆ","area_name":"","access_map":"[055]M19_D01_F01.rmd","is_secret":0,"real_posx":24.94,"real_posx2":27.08,"real_posy":24.91,"real_posy2":27.16,"posx":49.88,"posx2":54.16,"posy":24.91,"posy2":27.16},
 	{"id":"3","type":4,"name":"b'\\xbe\\x8de\\x9e\\xdf\\xcd\\xff'","area_name":"","access_map":"","is_secret":0,"real_posx":5.44,"real_posx2":21.88,"real_posy":8.38,"real_posy2":23.38,"posx":10.88,"posx2":43.75,"posy":8.38,"posy2":23.38},
-	{"id":"4","type":4,"name":"Area 3","area_name":"","access_map":"","is_secret":0,"real_posx":4.88,"real_posx2":18.56,"real_posy":25.12,"real_posy2":41.38,"posx":9.75,"posx2":37.12,"posy":25.12,"posy2":41.38},
+	{"id":"4","type":4,"name":"Area 3","area_name":"","access_map":"","is_secret":0,"real_posx":4.88,"real_posx2":18.56,"real_posy":25.12,"real_posy2":41.38,"posx":9.75,"posx2":37.13,"posy":25.13,"posy2":41.38},
 	{"id":"5","type":-252,"name":"Area 4","area_name":"","access_map":"","is_secret":0,"real_posx":24.62,"real_posx2":39,"real_posy":6.25,"real_posy2":22.38,"posx":49.25,"posx2":78,"posy":6.25,"posy2":22.38},
 	{"id":"6","type":4,"name":"Area 5","area_name":"","access_map":"","is_secret":0,"real_posx":24.27,"real_posx2":36.64,"real_posy":29.78,"real_posy2":43.28,"posx":48.53,"posx2":73.28,"posy":29.78,"posy2":43.28},
-	{"id":"7","type":-14,"name":"宝箱00","area_name":"","access_map":"","is_secret":0,"real_posx":9.06,"real_posx2":-262134.03,"real_posy":13,"real_posy2":-522253.88,"posx":18.12,"posx2":-524268.06,"posy":13,"posy2":-522253.88},
+	{"id":"7","type":-14,"name":"宝箱00","area_name":"","access_map":"","is_secret":0,"real_posx":9.06,"real_posx2":-262134.03,"real_posy":13,"real_posy2":-522253.88,"posx":18.13,"posx2":19.94,"posy":13,"posy2":13.84},
 	{"id":"8","type":13,"name":"宝箱01","area_name":"","access_map":"","is_secret":0,"real_posx":10.09,"real_posx2":10.98,"real_posy":35.09,"real_posy2":35.97,"posx":20.19,"posx2":21.97,"posy":35.09,"posy2":35.97},
-	{"id":"9","type":13,"name":"宝箱03","area_name":"","access_map":"","is_secret":0,"real_posx":28.08,"real_posx2":-31.11,"real_posy":-33.97,"real_posy2":33,"posx":56.16,"posx2":-62.22,"posy":-33.97,"posy2":33},
+	{"id":"9","type":13,"name":"宝箱03","area_name":"","access_map":"","is_secret":0,"real_posx":28.08,"real_posx2":-31.11,"real_posy":-33.97,"real_posy2":33,"posx":56.16,"posx2":57.78,"posy":38.03,"posy2":38.97},
 	{"id":"10","type":13,"name":"宝箱04","area_name":"","access_map":"","is_secret":0,"real_posx":33.09,"real_posx2":33.95,"real_posy":17.94,"real_posy2":18.88,"posx":66.19,"posx2":67.91,"posy":17.94,"posy2":18.88},
 ]};

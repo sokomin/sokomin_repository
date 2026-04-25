@@ -5,7 +5,7 @@ MobData = {
 	{"id":"4","inid":1,"type":2,"name":"子供アリドネ","repop":0,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.33,"real_posy":43.97,"posx":72.33,"posy":43.97},
 	{"id":"5","inid":1,"type":2,"name":"子供アリドネ","repop":0,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":65.34,"real_posy":39.5,"posx":65.34,"posy":39.5},
 	{"id":"6","inid":1,"type":2,"name":"子供アリドネ","repop":0,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":60.22,"real_posy":41.47,"posx":60.22,"posy":41.47},
-	{"id":"7","inid":2,"type":2,"name":"子供アリドネ","repop":0,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":73.33,"real_posy":66.62,"posx":73.33,"posy":66.62},
+	{"id":"7","inid":2,"type":2,"name":"子供アリドネ","repop":0,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":73.33,"real_posy":66.63,"posx":73.33,"posy":66.63},
 	{"id":"8","inid":2,"type":2,"name":"子供アリドネ","repop":0,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":57.67,"real_posy":67.34,"posx":57.67,"posy":67.34},
 	{"id":"9","inid":2,"type":2,"name":"子供アリドネ","repop":0,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":53,"real_posy":48.16,"posx":53,"posy":48.16},
 	{"id":"10","inid":2,"type":2,"name":"子供アリドネ","repop":0,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":60.84,"real_posy":33.94,"posx":60.84,"posy":33.94},
@@ -13,11 +13,11 @@ MobData = {
 	{"id":"12","inid":2,"type":2,"name":"子供アリドネ","repop":0,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":77.5,"real_posy":49.06,"posx":77.5,"posy":49.06},
 ]};
 MobList = {
-	1013: ["モンスター", "大人アリドネ", "子供アリドネ", "子供アリドネ",],
+	1013: ["モンスター","大人アリドネ","子供アリドネ","子供アリドネ"],
 };
 AreaData = {
 	1013: [ {"id":"0","type":0,"name":"_フィールド全体","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_画面","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
-	{"id":"2","type":5,"name":"開始エリア","area_name":"","access_map":"","is_secret":0,"real_posx":62.78,"real_posx2":67.67,"real_posy":67.12,"real_posy2":73,"posx":62.78,"posx2":67.67,"posy":67.12,"posy2":73},
-	{"id":"3","type":4,"name":"전투","area_name":"","access_map":"","is_secret":0,"real_posx":31.91,"real_posx2":97.22,"real_posy":27,"real_posy2":81.38,"posx":31.91,"posx2":97.22,"posy":27,"posy2":81.38},
+	{"id":"2","type":5,"name":"開始エリア","area_name":"","access_map":"","is_secret":0,"real_posx":125.56,"real_posx2":135.34,"real_posy":67.13,"real_posy2":73,"posx":125.56,"posx2":135.34,"posy":67.13,"posy2":73},
+	{"id":"3","type":4,"name":"전투","area_name":"","access_map":"","is_secret":0,"real_posx":63.81,"real_posx2":194.44,"real_posy":27,"real_posy2":81.38,"posx":63.81,"posx2":194.44,"posy":27,"posy2":81.38},
 ]};

@@ -10,11 +10,11 @@ MobData = {
 	{"id":"8","inid":0,"type":1,"name":"決戦場管理人","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":38.59,"real_posy":31.56,"posx":128.65,"posy":52.44},
 ]};
 MobList = {
-	903: ["モンスター", "決戦場管理人", "決戦場警備兵", "決戦場テレポータ", "決戦ルールガイド",],
+	903: ["モンスター","決戦場管理人","決戦場警備兵","決戦場テレポータ","決戦ルールガイド"],
 };
 AreaData = {
 	903: [ {"id":"0","type":0,"name":"_フィールド全体","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_画面","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"開始エリア","area_name":"","access_map":"","is_secret":0,"real_posx":28.72,"real_posx2":31.06,"real_posy":46.88,"real_posy2":50.38,"posx":95.73,"posx2":103.54,"posy":77.88,"posy2":83.7},
-	{"id":"4","type":6,"name":"決戦申請所","area_name":"","access_map":"","is_secret":0,"real_posx":28.69,"real_posx2":31.25,"real_posy":30.91,"real_posy2":32.66,"posx":95.62,"posx2":104.17,"posy":51.35,"posy2":54.26},
+	{"id":"4","type":6,"name":"決戦申請所","area_name":"","access_map":"","is_secret":0,"real_posx":28.69,"real_posx2":31.25,"real_posy":30.91,"real_posy2":32.66,"posx":95.63,"posx2":104.17,"posy":51.35,"posy2":54.26},
 ]};

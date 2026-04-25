@@ -3,7 +3,7 @@ MobData = {
 	{"id":"1","inid":1,"type":2,"name":"マーブルガゴイル","repop":10,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":70.94,"real_posy":54.38,"posx":212.81,"posy":81.56},
 	{"id":"2","inid":0,"type":2,"name":"ロックゴーレム","repop":15,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":75.19,"real_posy":43.06,"posx":225.56,"posy":64.59},
 	{"id":"3","inid":1,"type":2,"name":"マーブルガゴイル","repop":10,"id_area":15,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":88.59,"real_posy":59.41,"posx":265.78,"posy":89.11},
-	{"id":"4","inid":1,"type":2,"name":"マーブルガゴイル","repop":10,"id_area":15,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":90.88,"real_posy":44.62,"posx":272.62,"posy":66.94},
+	{"id":"4","inid":1,"type":2,"name":"マーブルガゴイル","repop":10,"id_area":15,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":90.88,"real_posy":44.62,"posx":272.63,"posy":66.94},
 	{"id":"5","inid":1,"type":2,"name":"マーブルガゴイル","repop":10,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":88.53,"real_posy":32.88,"posx":265.59,"posy":49.31},
 	{"id":"6","inid":1,"type":2,"name":"マーブルガゴイル","repop":10,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":75.59,"real_posy":33.72,"posx":226.78,"posy":50.58},
 	{"id":"7","inid":0,"type":2,"name":"ロックゴーレム","repop":15,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":76.56,"real_posy":54.03,"posx":229.69,"posy":81.05},
@@ -33,7 +33,7 @@ MobData = {
 	{"id":"31","inid":1,"type":2,"name":"マーブルガゴイル","repop":10,"id_area":17,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":40.34,"real_posy":30.09,"posx":121.03,"posy":45.14},
 	{"id":"32","inid":1,"type":2,"name":"マーブルガゴイル","repop":10,"id_area":17,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.34,"real_posy":39.44,"posx":124.03,"posy":59.16},
 	{"id":"33","inid":0,"type":2,"name":"ロックゴーレム","repop":15,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":73.36,"real_posy":81.25,"posx":220.08,"posy":121.88},
-	{"id":"34","inid":0,"type":2,"name":"ロックゴーレム","repop":15,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":68.38,"real_posy":87.28,"posx":205.12,"posy":130.92},
+	{"id":"34","inid":0,"type":2,"name":"ロックゴーレム","repop":15,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":68.38,"real_posy":87.28,"posx":205.13,"posy":130.92},
 	{"id":"35","inid":0,"type":2,"name":"ロックゴーレム","repop":15,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":74.39,"real_posy":92.28,"posx":223.17,"posy":138.42},
 	{"id":"36","inid":1,"type":2,"name":"マーブルガゴイル","repop":10,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":67.67,"real_posy":95.53,"posx":203.02,"posy":143.3},
 	{"id":"37","inid":1,"type":2,"name":"マーブルガゴイル","repop":10,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.75,"real_posy":99.62,"posx":218.25,"posy":149.44},
@@ -44,7 +44,7 @@ MobData = {
 	{"id":"42","inid":0,"type":2,"name":"ロックゴーレム","repop":15,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":50,"real_posy":57.16,"posx":150,"posy":85.73},
 ]};
 MobList = {
-	40: ["モンスター", "ロックゴーレム","マーブルガゴイル","毒スパイダー",],
+	40: ["モンスター","ロックゴーレム","マーブルガゴイル","毒スパイダー"],
 };
 AreaData = {
 	40: [ {"id":"0","type":0,"name":"_フィールド全体","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
@@ -52,7 +52,7 @@ AreaData = {
 	{"id":"2","type":3,"name":"廃坑　Ｂ３","area_name":"","access_map":"[039]M12_M01_B03.rmd","is_secret":0,"real_posx":46,"real_posx2":48.59,"real_posy":1.41,"real_posy2":4.53,"posx":138,"posx2":145.78,"posy":2.11,"posy2":6.8},
 	{"id":"3","type":3,"name":"廃坑　Ｂ５","area_name":"","access_map":"[041]M12_M01_B05.rmd","is_secret":0,"real_posx":15.52,"real_posx2":18.47,"real_posy":115.25,"real_posy2":118.56,"posx":46.55,"posx2":55.41,"posy":172.88,"posy2":177.84},
 	{"id":"4","type":4,"name":"Area 3","area_name":"","access_map":"","is_secret":0,"real_posx":6.94,"real_posx2":18.05,"real_posy":48.66,"real_posy2":92.34,"posx":20.81,"posx2":54.14,"posy":72.98,"posy2":138.52},
-	{"id":"5","type":4,"name":"Area 4","area_name":"","access_map":"","is_secret":0,"real_posx":65.02,"real_posx2":77.94,"real_posy":79.03,"real_posy2":105.75,"posx":195.05,"posx2":233.81,"posy":118.55,"posy2":158.62},
+	{"id":"5","type":4,"name":"Area 4","area_name":"","access_map":"","is_secret":0,"real_posx":65.02,"real_posx2":77.94,"real_posy":79.03,"real_posy2":105.75,"posx":195.05,"posx2":233.81,"posy":118.55,"posy2":158.63},
 	{"id":"6","type":4,"name":"Area 5","area_name":"","access_map":"","is_secret":0,"real_posx":49.98,"real_posx2":62.48,"real_posy":73.91,"real_posy2":86.72,"posx":149.95,"posx2":187.45,"posy":110.86,"posy2":130.08},
 	{"id":"7","type":4,"name":"Area 6","area_name":"","access_map":"","is_secret":0,"real_posx":29.3,"real_posx2":36.55,"real_posy":62.34,"real_posy2":95.88,"posx":87.89,"posx2":109.64,"posy":93.52,"posy2":143.81},
 	{"id":"8","type":4,"name":"Area 7","area_name":"","access_map":"","is_secret":0,"real_posx":10.02,"real_posx2":23.5,"real_posy":12.84,"real_posy2":25.62,"posx":30.05,"posx2":70.5,"posy":19.27,"posy2":38.44},
@@ -61,10 +61,10 @@ AreaData = {
 	{"id":"11","type":4,"name":"독 거미 활동영역","area_name":"","access_map":"","is_secret":0,"real_posx":72.31,"real_posx2":90.34,"real_posy":23.25,"real_posy2":58.94,"posx":216.94,"posx2":271.03,"posy":34.88,"posy2":88.41},
 	{"id":"14","type":4,"name":"Area 13","area_name":"","access_map":"","is_secret":0,"real_posx":93.84,"real_posx2":98.7,"real_posy":103.03,"real_posy2":114.16,"posx":281.53,"posx2":296.11,"posy":154.55,"posy2":171.23},
 	{"id":"15","type":4,"name":"Area 14","area_name":"","access_map":"","is_secret":0,"real_posx":86.16,"real_posx2":93.12,"real_posy":39.5,"real_posy2":64.5,"posx":258.47,"posx2":279.38,"posy":59.25,"posy2":96.75},
-	{"id":"16","type":4,"name":"Area 15","area_name":"","access_map":"","is_secret":0,"real_posx":5.5,"real_posx2":17.38,"real_posy":29.06,"real_posy2":41.5,"posx":16.5,"posx2":52.12,"posy":43.59,"posy2":62.25},
+	{"id":"16","type":4,"name":"Area 15","area_name":"","access_map":"","is_secret":0,"real_posx":5.5,"real_posx2":17.38,"real_posy":29.06,"real_posy2":41.5,"posx":16.5,"posx2":52.13,"posy":43.59,"posy2":62.25},
 	{"id":"17","type":4,"name":"Area 16","area_name":"","access_map":"","is_secret":0,"real_posx":36.83,"real_posx2":59.44,"real_posy":27.44,"real_posy2":41.41,"posx":110.48,"posx2":178.31,"posy":41.16,"posy2":62.11},
 	{"id":"19","type":4,"name":"Area 18","area_name":"","access_map":"","is_secret":0,"real_posx":43.34,"real_posx2":58.19,"real_posy":50.91,"real_posy2":67.34,"posx":130.03,"posx2":174.56,"posy":76.36,"posy2":101.02},
-	{"id":"20","type":3,"name":"鉄鉱山　Ｂ５","area_name":"","access_map":"[067]T06_M01_B05.rmd","is_secret":0,"real_posx":46.38,"real_posx2":48.95,"real_posy":114.94,"real_posy2":117.75,"posx":139.12,"posx2":146.86,"posy":172.41,"posy2":176.62},
+	{"id":"20","type":3,"name":"鉄鉱山　Ｂ５","area_name":"","access_map":"[067]T06_M01_B05.rmd","is_secret":0,"real_posx":46.38,"real_posx2":48.95,"real_posy":114.94,"real_posy2":117.75,"posx":139.13,"posx2":146.86,"posy":172.41,"posy2":176.63},
 	{"id":"21","type":13,"name":"宝箱00","area_name":"","access_map":"","is_secret":0,"real_posx":18.95,"real_posx2":19.97,"real_posy":48,"real_posy2":49.22,"posx":56.86,"posx2":59.91,"posy":72,"posy2":73.83},
 	{"id":"22","type":13,"name":"宝箱01","area_name":"","access_map":"","is_secret":0,"real_posx":12.97,"real_posx2":13.97,"real_posy":12.91,"real_posy2":13.97,"posx":38.91,"posx2":41.91,"posy":19.36,"posy2":20.95},
 	{"id":"23","type":13,"name":"宝箱02","area_name":"","access_map":"","is_secret":0,"real_posx":78.06,"real_posx2":79.06,"real_posy":12.09,"real_posy2":13.06,"posx":234.19,"posx2":237.19,"posy":18.14,"posy2":19.59},
