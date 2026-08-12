@@ -58,7 +58,7 @@ AreaData = {
 { id: "3",name:"none",area_name:"Area 2",type:4,posx:78.13,posx2:157.75,access_map:"none",posy:89.13,posy2:151.81,is_secret:0},
 { id: "4",name:"none",area_name:"Area 3",type:4,posx:183.38,posx2:236.94,access_map:"none",posy:96.19,posy2:135.88,is_secret:0},
 { id: "5",name:"none",area_name:"Area 4",type:4,posx:300.00,posx2:374.38,access_map:"none",posy:35.63,posy2:80.63,is_secret:0},
-{ id: "6",name:"none",area_name:"가드 순찰지역",type:4,posx:268435453.69,posx2:355.94,access_map:"none",posy:29.25,posy2:155.56,is_secret:0},
+{ id: "6",name:"none",area_name:"가드 순찰지역",type:4,posx:0.00,posx2:355.94,access_map:"none",posy:29.25,posy2:155.56,is_secret:0},
 { id: "7",name:"none",area_name:"Area 6",type:4,posx:257.56,posx2:318.44,access_map:"none",posy:98.50,posy2:138.69,is_secret:0},
 { id: "8",name:"none",area_name:"Area 7",type:4,posx:94.06,posx2:117.69,access_map:"none",posy:35.56,posy2:80.50,is_secret:0},
 { id: "9",name:"none",area_name:"Area 8",type:4,posx:159.63,posx2:246.44,access_map:"none",posy:26.63,posy2:44.88,is_secret:0},

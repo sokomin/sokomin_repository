@@ -111,9 +111,10 @@ MobData = {
 { id: "109",name:"リザードウォリア",type:2,inid:1,repop:30,isptboss:0,posx:335.05,posy:133.76, lv_min:0, lv_max:0, is_npc: false  },
 { id: "110",name:"リザードウォリア",type:2,inid:1,repop:30,isptboss:0,posx:304.09,posy:184.26, lv_min:0, lv_max:0, is_npc: false  },
 { id: "111",name:"ナーガファイター",type:2,inid:2,repop:30,isptboss:0,posx:330.38,posy:230.82, lv_min:0, lv_max:0, is_npc: false  },
+{ id: "112",name:"ミラーテレポータ",type:15,inid:4,repop:120,isptboss:0,posx:240.58,posy:56.74, lv_min:0, lv_max:0, is_npc: false  },
 ]};
 MobList = {
-    768: ["モンスター", 'リザードキリング', 'リザードウォリア', 'ナーガファイター', 'ラリ・フォン'],
+    768: ["モンスター", 'リザードキリング', 'リザードウォリア', 'ナーガファイター', 'ラリ・フォン', "ミラーテレポータ"],
 };
 
 AreaData = {
