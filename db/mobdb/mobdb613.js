@@ -262,7 +262,7 @@ MobData = {
 { id: "440",name:"権威の構築者",type:2,inid:0,repop:30,isptboss:0,posx:245.33,posy:34.56, lv_min:0, lv_max:0, is_npc: false  },
 ]};
 MobList = {
-	613: ["モンスター","権威の構築者","太陽の伝道師","静寂な巡礼者","幻惑された戦士","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","ミラーテレポータ"],
+	613: ["モンスター","権威の構築者","太陽の伝道師","静寂な巡礼者","幻惑された戦士"],
 };
 AreaData = {
 	613: [ {"id":"0","type":0,"name":"_フィールド全体","access_map":"","is_secret":0,"real_posx":-50,"real_posx2":-50,"real_posy":0,"real_posy2":0,"posx":-106.67,"posx2":-106.67,"posy":0,"posy2":0},

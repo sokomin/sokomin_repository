@@ -287,7 +287,7 @@ MobData = {
 { id: "337",name:"虚無主義者",type:2,inid:3,repop:30,isptboss:0,posx:205.22,posy:106.38, lv_min:0, lv_max:0, is_npc: false  },
 ]};
 MobList = {
-	733: ["モンスター","権威の尖兵","星光の園芸師","ソーラーペガシス","虚無主義者","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","ミラーテレポータ","Dテレポーター","ミラーテレポータ"],
+	733: ["モンスター","権威の尖兵","星光の園芸師","ソーラーペガシス","虚無主義者"],
 };
 AreaData = {
 	733: [ {"id":"0","type":0,"name":"_フィールド全体","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

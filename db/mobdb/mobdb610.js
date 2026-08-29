@@ -378,7 +378,7 @@ MobData = {
 { id: "455",name:"空虚な侍女",type:2,inid:1,repop:30,isptboss:0,posx:175.91,posy:94.64, lv_min:0, lv_max:0, is_npc: false  },
 ]};
 MobList = {
-	610: ["モンスター","太陽の使徒","空虚な侍女","ホーリデストリア","テネブロス山猫","None.","None.","None.","None.","None.","ミラーテレポータ"],
+	610: ["モンスター","太陽の使徒","空虚な侍女","ホーリデストリア","テネブロス山猫"],
 };
 AreaData = {
 	610: [ {"id":"0","type":0,"name":"_フィールド全体","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

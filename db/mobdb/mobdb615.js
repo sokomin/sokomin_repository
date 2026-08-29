@@ -282,7 +282,7 @@ MobData = {
 { id: "430",name:"静寂な巡礼者",type:2,inid:2,repop:30,isptboss:0,posx:296.25,posy:311.52, lv_min:0, lv_max:0, is_npc: false  },
 ]};
 MobList = {
-	615: ["モンスター","権威の構築者","太陽の伝道師","静寂な巡礼者","幻惑された戦士","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","ミラーテレポータ"],
+	615: ["モンスター","権威の構築者","太陽の伝道師","静寂な巡礼者","幻惑された戦士"],
 };
 AreaData = {
 	615: [ {"id":"0","type":0,"name":"_フィールド全体","access_map":"","is_secret":0,"real_posx":-160,"real_posx2":-160,"real_posy":0,"real_posy2":0,"posx":-341.33,"posx2":-341.33,"posy":0,"posy2":0},
