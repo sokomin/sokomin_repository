@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "seasons": [
+    {
+      "year": 2023,
+      "csv": "rs_change_server_g2023.csv",
+      "observations": 15,
+      "first_observation": "2023-07-20T01:08:00",
+      "last_observation": "2023-08-27T16:50:00",
+      "latest_observed_counts": {
+        "heaven": 1224,
+        "underground": 202,
+        "devil": 43
+      },
+      "observed_growth": [
+        1205,
+        198,
+        42
+      ]
+    },
+    {
+      "year": 2026,
+      "csv": "rs_change_server_g2026.csv",
+      "observations": 19,
+      "first_observation": "2026-07-30T00:05:00",
+      "last_observation": "2026-09-15T01:02:00",
+      "latest_observed_counts": {
+        "heaven": 1596,
+        "underground": 251,
+        "devil": 75
+      },
+      "observed_growth": [
+        1380,
+        229,
+        72
+      ]
+    }
+  ]
+}
